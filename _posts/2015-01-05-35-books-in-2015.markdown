@@ -1,0 +1,38 @@
+---
+layout: post
+status: publish
+published: true
+title: 35 Books in 2015
+author:
+  display_name: Brian
+  login: brian.lundin@gmail.com
+  email: brian.lundin@gmail.com
+  url: http://brianlundin.com
+author_login: brian.lundin@gmail.com
+author_email: brian.lundin@gmail.com
+author_url: http://brianlundin.com
+wordpress_id: 361
+wordpress_url: http://brianlundin.com/?p=361
+date: '2015-01-05 09:30:34 -0600'
+date_gmt: '2015-01-05 15:30:34 -0600'
+categories:
+- Reading
+tags:
+- 35in2015
+comments: []
+---
+<p>I'm not happy with the amount of books I read in 2014. Oh, I read plenty, but not as many books as I'd like. Most of my reading in the last several years comes from blogs, links on Twitter and a few online magazines.  But not many books.</p>
+<p>Since I was a little kid I've been an avid reader. I read tons and tons of books every year. But since the rise of the Internet, blogs and social media, more and more of my reading time has steadily shifted from books to online sources. That's not bad necessarily, but as a man of letters, it's not good for me.</p>
+<p>So, this year I am making an active effort to read 35 books. I don't have a list of which ones, my selections will be spontaneous. I will also write a brief post for each book I read. They won't exactly be reviews, but I will post something for each.</p>
+<p>As he often has in the last several years, Austin Kleon inspired me to set a specific goal with <a href="http://austinkleon.com/2014/12/29/how-to-read-more/">his list of tips for reading more</a>. His list (and links):</p>
+<ul>
+<li><a href="http://austinkleon.com/2014/07/22/read-a-book-instead/" target="_blank">Throw your phone in the ocean</a>. (Or, keep it in airplane mode.)</li>
+<li>Carry a book with you at all times.</li>
+<li>Have another book ready before you finish the one you’re reading. (Make a stack of books to-read or load up your eReader.)</li>
+<li>If you aren’t enjoying a book or learning from it, <a href="http://austinkleon.com/2014/10/17/33-thoughts-on-reading/" target="_blank">stop reading it immediately</a>. (Flinging it across the room helps give closure.)</li>
+<li>Schedule 1 hour of non-fiction reading during the day. (Commutes, lunch breaks, and any contained period of idle time work well.)</li>
+<li>Go to bed 1 hour early and read fiction. (It will help you sleep.)</li>
+<li>Keep a reading log and <a href="http://books.austinkleon.com/" target="_blank">share your favorite books with others</a>. (They will send you even more books to read.)</li>
+</ul>
+<p>I love this list, and it gave me the push I needed to set a goal.</p>
+<p>So, 35 in 2015. Here we go.</p>

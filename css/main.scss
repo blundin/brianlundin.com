@@ -3,29 +3,45 @@
 ---
 @charset "utf-8";
 
+/* Typography */
+$serif-font: "adelle", serif;
+$sans-serif-font: "adelle-sans", sans-serif;
 
+$small-title-font-size: 13pt;
+$small-subtitle-font-size: 9pt;
+$small-header-link-font-size: 11pt;
+
+$med-title-font-size: 16pt;
+$med-subtitle-font-size: 9pt;
+$med-header-link-font-size: 11pt;
+
+
+/* Colors */
+$gray-light: #818181;
+$gray-lighter: lighten($gray-light, 30%);
+$gray-dark: #3e3e3e;
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+// $base-font-family: Helvetica, Arial, sans-serif;
+// $base-font-size:   16px;
+// $small-font-size:  $base-font-size * 0.875;
+// $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+// $text-color:       #111;
+// $background-color: #fdfdfd;
+// $brand-color:      #2a7ae2;
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+// $grey-color:       #828282;
+// $grey-color-light: lighten($grey-color, 40%);
+// $grey-color-dark:  darken($grey-color, 25%);
 
-// Width of the content area
-$content-width:    800px;
+// // Width of the content area
+// $content-width:    800px;
 
-$on-palm:          600px;
-$on-laptop:        800px;
+// $on-palm:          600px;
+// $on-laptop:        800px;
 
 
 
@@ -46,7 +62,8 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+  "syntax-highlighting",
+  "settings",
+  "mixins",
+  "../bower_components/foundation/scss/foundation",
+  "custom";

@@ -1,0 +1,35 @@
+---
+layout: post
+status: publish
+published: true
+title: What is Gospel Storytelling?
+author:
+  display_name: Brian
+  login: brian.lundin@gmail.com
+  email: brian.lundin@gmail.com
+  url: http://brianlundin.com
+author_login: brian.lundin@gmail.com
+author_email: brian.lundin@gmail.com
+author_url: http://brianlundin.com
+wordpress_id: 22
+wordpress_url: http://brianlundin.com/2013/04/12/2013412what-is-gospel-storytelling/
+date: '2013-04-12 20:58:12 -0500'
+date_gmt: '2013-04-12 20:58:12 -0500'
+categories:
+- Storytelling
+tags:
+- gospel-storytelling
+comments: []
+---
+<p>I attended The Gospel Coalition national conference this week as part of the <a href="http://storyframes.org/" target="_blank">Storyframes Collective</a> team. Storyframes is a collaboration between <a href="http://thegospelcoalition.org/">The Gospel Coalition</a> and the Story Team from my local church, <a href="http://austinstone.org/">the Austin Stone</a>. I was humbled to serve alongside a great team that believes in the power of gospel storytelling, and to talk to conference attendees about how storytelling can impact the lives of believers.</p>
+<p class="p1">I had good conversations with pastors and church leaders from around the world, but there was one question that kept coming up first, “what is gospel storytelling?” It’s a good question, because the term is not familiar to most people, or at least there is no obvious definition.</p>
+<p class="p1">In my conversations, writing, and thinking on the topic I have developed this definition: <em>Gospel storytelling is the work of kingdom artists sharing stories of human sin and the redemption, healing, and response of God’s people through the gospel of Jesus Christ.</em></p>
+<p class="p1"><strong>What does 'Gospel Storytelling' really mean?</strong></p>
+<p class="p1">The gospel is an announcement, it is the proclamation that the life, death, and resurrection of Jesus Christ has covered the sins of God’s people. To believe that good news and trust God's promises, all men can find salvation and eternal life.</p>
+<p class="p1">All believing Christians live as heralds of the gospel, messengers of the wondrous saving work of the cross. A believer’s life already tells the tale of redemption, and gospel storytelling seeks to amplify, authenticate, and remind us of the gospel.</p>
+<p class="p1"><a href="https://twitter.com/stevenbush">Steven Bush</a> and <a href="https://twitter.com/jeremy_rodgers">Jeremy Rodgers</a> serve on the Austin Stone Story Team and are leaders in the Storyframes Collective. In their workshops at TGC13 and the Verge conference earlier this year they explained the threefold power of gospel storytelling like this:</p>
+<p class="p1"><strong>Amplify</strong> - Gospel storytelling increases the influence of an individual’s story. If a believer has cancer and suffers well, prizes Jesus, and depends on the Lord’s mercy and provision it can be a great encouragement to their community. But what if you could take that story and spread it? What impact would that story have if 1,000 people knew about the struggle and saw faithfulness in it? What if it was 10,000? 100,000? Storytelling and the internet has made this a possiblity for almost anyone in the world today.</p>
+<p class="p1"><strong>Authenticate</strong> - A skeptical world can easily dismiss a believer’s faith in the good times, but it is harder when the tough times comes and the faith sticks around. When a storyteller shows a believer suffering well, and the comfort and help they receive from Christ, through the Holy Spirit’s work it can pierce the hardest heart. When a person opens up their heart and exposes their deepest struggles, and how Christ is victorious in those times, we are faithfully proclaiming the saving work of Christ.</p>
+<p class="p1"><strong>Remind</strong> - Finally, stories serve as reminders to believers of the gospel. A powerful story of salvation and deliverance from sin reminds us of the power of the one who saved us. A look into deep loss prompts us to consider how we would react in the situation, it causes us to reflect on the nature and depth of our faith. A gospel-centered story is both an ebeneezer and an encouragement.</p>
+<p class="p1"><strong>Where can I find gospel stories?</strong></p>
+<p class="p1">Visit the Storyframes Collective website and checkout our <a href="http://storyframes.org/category/portfolio/films/">films</a>, <a href="http://storyframes.org/category/portfolio/photo/">photography</a>, and the <a href="http://storyframes.org/category/portfolio/written/">written</a> and <a href="http://storyframes.org/category/portfolio/spoken/">spoken</a> stories. There are many talented artists contributing to the Collective, and I think you will find real encouragement in the stories.</p>

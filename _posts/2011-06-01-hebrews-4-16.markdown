@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: Hebrews 4:16
+author:
+  display_name: Brian
+  login: brian.lundin@gmail.com
+  email: brian.lundin@gmail.com
+  url: http://brianlundin.com
+author_login: brian.lundin@gmail.com
+author_email: brian.lundin@gmail.com
+author_url: http://brianlundin.com
+wordpress_id: 45
+wordpress_url: http://brianlundin.com/2011/06/01/6085565953/
+date: '2011-06-01 22:38:31 -0500'
+date_gmt: '2011-06-02 03:38:31 -0500'
+categories:
+- Theology
+tags:
+- scripture
+comments: []
+---
+<figure>
+<blockquote><p>“Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.”</p></blockquote>
+<figcaption class="source">— <a href="http://biblia.com/bible/esv/Heb4.16">Hebrews 4:16</a></figcaption>
+</figure>

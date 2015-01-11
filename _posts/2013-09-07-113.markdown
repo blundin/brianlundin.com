@@ -1,0 +1,21 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Brian
+  login: brian.lundin@gmail.com
+  email: brian.lundin@gmail.com
+  url: http://brianlundin.com
+author_login: brian.lundin@gmail.com
+author_email: brian.lundin@gmail.com
+author_url: http://brianlundin.com
+wordpress_id: 113
+wordpress_url: http://brianlundin.com/?p=113
+date: '2013-09-07 15:40:26 -0500'
+date_gmt: '2013-09-07 20:40:26 -0500'
+categories: []
+tags: []
+comments: []
+---
+<p>Posts about storytelling and the gospel. I am passionate about telling the stories of how God is redeeming people’s lives, and the city of Austin. This is my place to write about how I write about it.</p>

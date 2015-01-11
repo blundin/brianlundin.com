@@ -1,0 +1,221 @@
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre,
+ul, ol, dl, figure,
+%vertical-rhythm {
+    margin-bottom: $spacing-unit / 2;
+}
+
+.no-left-padding{
+  padding-left: 0px;
+}
+
+.right-aligned {
+  text-align: right;
+}
+
+.sans-serif {
+  //font-family: $sans-serif-font;
+}
+
+/* Header */
+
+.site-header {
+  margin-top: 15px;
+  height: 50px;
+}
+
+.header-block {
+  height: 50px;
+}
+
+.header-block:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em; /* Adjusts for spacing */
+}
+
+.titles-block {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.links-block {
+  display: inline-block;
+  vertical-align: bottom;
+  text-align: right;
+  width: 100%;
+}
+
+.site-title {
+  font: {
+    family: $serif-font;
+    size: $small-title-font-size;
+    weight: 600;
+  }
+  margin-left: 10px;
+  margin-top: 0px;
+
+  a {
+    color: #555555;
+  }
+}
+
+.site-subtitle {
+  font: {
+    family: $serif-font;
+    size: $small-subtitle-font-size;
+    weight: bold;
+  }
+  letter-spacing: 0.03em;
+  margin-left: 10px;
+  display: inherit;
+}
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  float: left;
+  background: url('http://cdn.brianlundin.com/images/avatar.png') no-repeat 0 0;
+  @include image-2x('http://cdn.brianlundin.com/images/avatar@2x.png', 50px, 50px);
+}
+
+.header-link {
+  display: inherit;
+  font: {
+    family: $sans-serif-font;
+    size: $small-header-link-font-size;
+  }
+  margin-left: 7px;
+  padding-bottom: 10px;
+  vertical-align: bottom;
+}
+
+/* Content */
+.content {
+  margin-top: 20px;
+}
+
+/* Paginator */
+.pagination-row {
+  text-align: center;
+}
+
+.page-link {
+  margin-top: 0px;
+  margin-bottom: 15px;
+  width: 100px;
+}
+
+
+/* Post */
+.post-content {
+  p {
+    line-height: 1.7;
+  }
+}
+
+/* Post Footer */
+.post-footer-text {
+  line-height: 1.2;
+}
+
+.social-icon {
+  width: 22px;
+  height: 22px;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.twitter-icon {
+  @extend .social-icon;
+  background: url('http://cdn.brianlundin.com/images/twitter.png') no-repeat 0 0;
+  @include image-2x('http://cdn.brianlundin.com/images/twitter@2x.png', 22px, 22px);
+}
+
+.appdotnet-icon {
+  @extend .social-icon;
+  background: url('http://cdn.brianlundin.com/images/appdotnet.png') no-repeat 0 0;
+  @include image-2x('http://cdn.brianlundin.com/images/appdotnet@2x.png', 22px, 22px);
+}
+
+.facebook-icon {
+  @extend .social-icon;
+  background: url('http://cdn.brianlundin.com/images/facebook.png') no-repeat 0 0;
+  @include image-2x('http://cdn.brianlundin.com/images/facebook@2x.png', 22px, 22px);
+}
+
+/* Footer */
+
+#footer {
+  border-top-style: solid;
+  border-width: 1px;
+  border-color: $gray-lighter;
+  background-color: #f8f8f8;
+}
+
+footer {
+  height: 60px;
+}
+
+ul.footer-nav {
+  text-align: center;
+  margin-right :0px;
+  margin-left: 0px;
+  margin-top: 20px;
+
+  li.footer-nav-item {
+    display: inline-block;
+    font-family: $sans-serif-font;
+  }
+
+  .not-last {
+    margin-right: 20px;
+  }
+}
+
+/* Article */
+article {
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+/* Mobile-first design, so we adjust from the small for the larger screens */
+@media #{$medium-up} {
+  .site-title {
+    font-size: $med-title-font-size;
+  }
+
+  .site-subtitle {
+    font-size: $med-subtitle-font-size;
+    color: $gray-light;
+  }
+
+  .header-link {
+    font-size: $med-header-link-font-size;
+    padding-bottom: 19px;
+  }
+
+  .site-header {
+    margin-top: 30px;
+    height: 70px;
+  }
+
+  .header-block {
+    height: 70px;
+  }
+
+  .avatar {
+    width: 70px;
+    height: 70px;
+    float: left;
+    background: url('http://cdn.brianlundin.com/images/big-avatar.png') no-repeat 0 0;
+    @include image-2x('http://cdn.brianlundin.com/images/big-avatar@2x.png', 70px, 70px);
+  }
+
+  .social-icon {
+    margin-right: 7px;
+  }
+}
+@media #{$medium-only} { }

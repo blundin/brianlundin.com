@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Advice to My Cousins
+author:
+  display_name: Brian
+  login: brian.lundin@gmail.com
+  email: brian.lundin@gmail.com
+  url: http://brianlundin.com
+author_login: brian.lundin@gmail.com
+author_email: brian.lundin@gmail.com
+author_url: http://brianlundin.com
+wordpress_id: 30
+wordpress_url: http://brianlundin.com/2012/05/06/22539744723/
+date: '2012-05-06 20:41:13 -0500'
+date_gmt: '2012-05-07 01:41:13 -0500'
+categories:
+- Personal
+tags:
+- advice
+- college
+- career
+comments: []
+---
+<p>I have two younger cousins that are graduating from high school this year. I have been thinking about how I would advise them to prepare for the rest of their lives. Here is a bit of my advice:</p>
+<ul>
+<li>Remember your faith. It will be challenged, tested, and in many regards found wanting. This is good. Embrace all of the experience, but don&#8217;t embrace every idea. Read the Bible, pray, and stay involved in a Christian community no matter what. There are things you believe now that are wrong, and other things you believe that are right. Dedicate your life to sorting out and fixing the errors with the Holy Spirit&#8217;s guidance</li>
+<li>Geeks rule the world. The old hierarchy (jocks are cooler than nerds, etc.) is dead thanks to the rise of technology. The people who have the skills, creativity and talent to make something new, to dream up and build new apps, services, devices, books, movies, music and art are the ones who are setting the direction and hold the power. Embrace this. Don&#8217;t worry about what people think about you today</li>
+<li>You don&#8217;t know who you are yet. When you graduate from college you still won&#8217;t know. Be careful, thoughtful, and prayerful when making decisions that will shape the rest of your life</li>
+<li>Every decision you make now will shape the rest of your life</li>
+<li>Everything college men tend to do will have one goal: getting chicks. Understand this, and try to not be so single-minded</li>
+<li>Have fun, college won&#8217;t last forever and it will not ever come back</li>
+<li>Take risks. Take any risk you even think you may want to. The older you are the more responsibilities you have and the less risks you can take. Do scary stuff now, not later</li>
+<li>Don&#8217;t forget where you came from. Show appreciation and respect to the people you have known and who have helped you, no matter how far you go</li>
+<li>Call your mother, at least once a week. Preferably more.</li>
+</ul>

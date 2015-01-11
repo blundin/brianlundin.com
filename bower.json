@@ -1,0 +1,22 @@
+{
+  "name": "brianlundin",
+  "version": "0.1.0",
+  "homepage": "http://brianlundin.com",
+  "authors": [
+    "Brian Lundin <brian.lundin@gmail.com>"
+  ],
+  "description": "The personal website of Brian Lundin--writer, storyteller and geek.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation": "~5.5.0"
+  }
+}
