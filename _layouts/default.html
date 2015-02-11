@@ -2,14 +2,16 @@
 <html>
   {% include head.html %}
   <body>
-    <header class="row site-header">
-      <div class="small-16 medium-12 medium-centered large-9 large-centered columns">
+    <div class="row medium-collapse large-collapse">
+      <div class="small-16 medium-4 medium-offset-1 large-4 large-offset-1 large-uncentered columns site-header">
         {% include header.html %}
       </div>
-    </header>
-    <div class="row content">
-      <div class="small-16 medium-12 medium-centered large-9 large-centered columns">
-      {{ content }}
+      <div class="small-16 medium-11 large-10 large-uncentered columns">
+        <div class="row content">
+          <div class="small-16 columns content">
+            {{ content }}
+          </div>
+        </div>
       </div>
     </div>
     <div id="footer">

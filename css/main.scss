@@ -4,16 +4,20 @@
 @charset "utf-8";
 
 /* Typography */
-$serif-font: "adelle", serif;
-$sans-serif-font: "adelle-sans", sans-serif;
+$serif-font: "century-old-style-std", serif;
+$sans-serif-font: "franklin-gothic-urw", sans-serif;
 
 $small-title-font-size: 13pt;
 $small-subtitle-font-size: 9pt;
 $small-header-link-font-size: 11pt;
 
-$med-title-font-size: 16pt;
-$med-subtitle-font-size: 9pt;
-$med-header-link-font-size: 11pt;
+$med-title-font-size: 18pt;
+$med-subtitle-font-size: 11pt;
+$med-header-link-font-size: 16pt;
+
+$large-title-font-size: 20pt;
+$large-subtitle-font-size: 12pt;
+$large-header-link-font-size: 16pt;
 
 
 /* Colors */
