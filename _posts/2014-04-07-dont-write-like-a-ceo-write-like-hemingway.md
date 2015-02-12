@@ -1,27 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Don't write like a CEO, write like Hemingway
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 327
-wordpress_url: http://brianlundin.com/?p=327
+redirect_from:
+  - /?p=327
 date: '2014-04-07 10:44:07 -0500'
-date_gmt: '2014-04-07 15:44:07 -0500'
-categories:
-- Writing
-tags:
-- writing
-- corporate-speak
-- Hemingway
-comments: []
 ---
 <blockquote>My aim is to put down on paper what I see and what I feel in the best and simplest way.</p>
 <p>― Ernest Hemingway</p></blockquote>

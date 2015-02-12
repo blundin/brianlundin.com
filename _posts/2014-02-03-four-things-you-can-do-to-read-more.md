@@ -1,26 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Four things you can do to read more
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 292
-wordpress_url: http://brianlundin.com/?p=292
+redirect_from:
+  - /?p=292
 date: '2014-02-03 03:15:35 -0600'
-date_gmt: '2014-02-03 09:15:35 -0600'
 categories:
-- Writing
-tags:
-- books
-- reading
-comments: []
+- Storytelling
 ---
 <p>A common refrain I hear from many of my friends is a desire to read more. I get it. I have a long list of unfinished books, and a longer list of those I want to read.</p>
 <p>The fact is, that for any writer, aspiring or established, the importance of reading is paramount. A writer does not create out of nothing, but uses the material he knows as compost for growing new ideas. For this reason, I want to increase my reading time significantly. Over the last several months I have done so.</p>

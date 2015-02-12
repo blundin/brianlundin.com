@@ -5,6 +5,8 @@ redirect_from:
   - /2013/04/20/2013420tolkien-on-the-love-of-an-artist-for-their-art/
   - /2013/04/20/tolkien-on-the-love-of-an-artist-for-their-art/
 date: '2013-04-20 16:34:26 -0500'
+categories:
+- Storytelling
 ---
 <p><em>This is an older post from <a href="http://brianlundin.tumblr.com/" target="_blank">my tumblr.&nbsp;</a>I am reposting it&nbsp;because it fits well with stuff I am currently working on. &nbsp;On my tumblr I post links to things I'm reading and gathering, as well as things things too long for twitter, but not suited for the blog. <a href="http://feeds.feedburner.com/tumblr_blundin" target="_blank">You can subscribe to it in your RSS reader here</a>.</em></p></p>
 <blockquote><p>Then Manwë spoke and said: ‘Hearest thou, Fëanor son of Finwë, the words of Yavanna? Wilt thou grant what she would ask?’</p></blockquote>

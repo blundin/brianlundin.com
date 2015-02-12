@@ -1,30 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Find your creative lineage
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 310
-wordpress_url: http://brianlundin.com/?p=310
+redirect_from:
+  - /?p=310
 date: '2014-02-24 09:29:56 -0600'
-date_gmt: '2014-02-24 15:29:56 -0600'
-categories:
-- Writing
-tags:
-- cs-lewis
-- john-piper
-- jk-rowling
-- jrr-tolkien
-- cormac-mccarthy
-- austin-kleon
-comments: []
 ---
 <p>"Write what you know" is common advice to writers, and it's advice I used to give until a great little book pointed out something important.</p>
 <p>That's where terrible stories come from.</p>

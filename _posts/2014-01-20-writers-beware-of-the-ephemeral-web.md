@@ -1,28 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: 'Writers: Beware of the ephemeral web'
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 281
-wordpress_url: http://brianlundin.com/?p=281
+redirect_from: 
+  - /?p=281
 date: '2014-01-20 09:15:15 -0600'
-date_gmt: '2014-01-20 14:15:15 -0600'
-categories:
-- Technology
-- Writing
-tags:
-- internet
-- legacy
-- ephemeral-web
-comments: []
 ---
 <p>The internet has been a boon for writers, particularly in terms of exposure. But, there are many downsides—just ask print journalists. In my mind, one of the biggest questions we face as writers is a new framing of an old question: How can we preserve our work?</p>
 <p>Over the last few weeks I kicked off a <a href="http://www.davidco.com/about-gtd">GTD</a> reboot[ref]<a href="http://www.davidco.com/about-gtd">Getting Things Done is a great productivity system created by David Allen</a> that's not really a system. It's more a way of thinking that drives your own system. I love it and it's the only thing that works for me, but my lack of discipline in pretty much all things means that I have to reboot my system a couple of times a year. Despite this, I HIGHLY recommend it.[/ref]. I usually do this a few times a year, but this one was especially needed as both work and personal projects were out of control. I wanted to tweak my system, so I went digging around on the web.</p>

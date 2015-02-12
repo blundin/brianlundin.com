@@ -1,24 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: "'This is where I make my stand'"
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 348
-wordpress_url: http://brianlundin.com/?p=348
+redirect_from:
+  - /?p=348
 date: '2014-06-09 07:48:52 -0500'
-date_gmt: '2014-06-09 12:48:52 -0500'
-categories:
-- Writing
-tags: []
-comments: []
 ---
 <p>The thought of writing a novel has always scared me. It seems so big, so daunting. I can hardly imagine finishing the first draft, much less the multiple edits and rewrites a novel goes through before publication. It just seems like too much. Plays, short stories, screenplays and blog posts always seemed more manageable. Less ambitious, smaller chunks of work. Yeah, that's what I preferred.</p>
 <p>But then I had a conversation with my friend Jared. I told him about the first time I took my wife to the Museum of Modern Art in New York. I told home about how much I love that museum, and how I introduced her to the place, the art, and even the ideas that underpin the modern art world. He watched me relay the story with passion, as I often do with those things that I love, and he looked me dead in the eye and said, "That's your book."</p>

@@ -1,26 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Austin Stone Worship Conference + New Album!
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 217
-wordpress_url: http://brianlundin.com/?p=217
+redirect_from: 
+  - /?p=217
 date: '2013-10-22 14:19:13 -0500'
-date_gmt: '2013-10-22 19:19:13 -0500'
 categories:
 - Storytelling
-tags:
-- austin-stone
-- conferences
-comments: []
 ---
 <p>Today we are kicking off the Austin Stone Worship Conference at the Austin Music Hall. The Story Team is happy to be a part of the conference, and to get to connect with worship leaders and artists from across the country.</p>
 <p><a href="http://austinstoneworship.com"><img class="aligncenter size-full wp-image-220" alt="Austin Stone Worship Conference Logo" src="http://brianlundin.com/wp-content/uploads/2013/10/cropped_asw.jpg" width="600" height="252" /></a></p>

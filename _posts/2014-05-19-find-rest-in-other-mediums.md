@@ -1,24 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Find rest in other mediums
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 345
-wordpress_url: http://brianlundin.com/?p=345
+redirect_from:
+  - /?p=345
 date: '2014-05-19 12:28:38 -0500'
-date_gmt: '2014-05-19 17:28:38 -0500'
-categories:
-- Personal
-tags: []
-comments: []
 ---
 <p>Last week was one of those weeks we all have occasionally, where the schedule is full, your mind is engaged all week, and yet somehow you're not dead at the end of it. Through a long hard week, I came out of it encouraged and satisfied. It was good, and I think there is a lesson in it for all of us creative types.</p>
 <p>This weekend Lindsey and I were able to spend plenty of time together, and spend it immersed in the arts. Thursday night drove down to the historic Greune Hall to see local songwriter David Ramierez open up for Patty Griffin. It was a great night. David is one of the best songwriters out there. Period. If you've never heard him, <a href="http://open.spotify.com/artist/4MBIFx8pthemIVuEJSgAxb">you really should give him a listen</a>. Patty Griffin was amazing, but that's more Lindsey's jam than mine. But it was a beautiful night. The weather was great, the venue classic, and both performances were outstanding.</p>

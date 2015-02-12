@@ -1,24 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Is your work truly your own?
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 227
-wordpress_url: http://brianlundin.com/?p=227
+redirect_from:
+  - /?p=227
 date: '2013-11-02 10:00:14 -0500'
-date_gmt: '2013-11-02 15:00:14 -0500'
 categories:
-- Writing
-tags: []
-comments: []
+- Storytelling
 ---
 <p>How much ownership can an artist claim over their work, especially after it is in the public consciousness? I began to ponder this question after watching this really excellent cover of Led Zepplin's "Stairway to Heaven" at the Kennedy Center Honors.</p>
 <p><iframe src="//www.youtube.com/embed/JK_DOJa99oo" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>

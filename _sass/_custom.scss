@@ -21,7 +21,7 @@ ul, ol, dl, figure,
 
 .site-header {
   margin-top: 15px;
-  height: 50px;
+  height: 40px;
 }
 
 // .header-block {
@@ -67,7 +67,7 @@ ul, ol, dl, figure,
   font: {
     family: $sans-serif-font;
     size: $small-subtitle-font-size;
-    weight: bold;
+    // weight: bold;
   }
   margin-top: 0px;
   letter-spacing: 0.03em;
@@ -92,8 +92,8 @@ ul, ol, dl, figure,
   }
   margin-left: 0px;
   padding-bottom: 10px;
-  padding-top: 50px;
   vertical-align: bottom;
+  text-align: right;
 }
 
 .header-heading {
@@ -103,7 +103,7 @@ ul, ol, dl, figure,
 
 /* Content */
 .content {
-  margin-top: 15px;
+  margin-top: 0px;
 }
 
 /* Paginator */
@@ -116,7 +116,6 @@ ul, ol, dl, figure,
   margin-bottom: 15px;
   width: 100px;
 }
-
 
 /* Post */
 .post-content {
@@ -191,12 +190,29 @@ article {
 }
 
 .bio-text {
-  font-size: 10pt;
+  font: {
+    family: $sans-serif-font;
+    size: 9pt;
+  }
   margin-top: 15px;
+}
+
+/* Mail Chimp */
+#mc_embed_signup {
+  background:#fff;
+  font: {
+    size: 14px;
+    family: $sans-serif-font;
+  }
 }
 
 /* Mobile-first design, so we adjust from the small for the larger screens */
 @media #{$medium-up} {
+  .site-header {
+    margin-top: 15px;
+    height: 50px;
+  }
+
   .site-title {
     font-size: $med-title-font-size;
   }
@@ -211,7 +227,7 @@ article {
     padding-bottom: 0px;
     margin-left: 0px;
     padding-top: 0px;
-    // text-align: center;
+    text-align: left;
   }
 
   .site-header {
@@ -229,6 +245,11 @@ article {
     float: left;
     background: url('http://cdn.brianlundin.com/images/big-avatar.png') no-repeat 0 0;
     @include image-2x('http://cdn.brianlundin.com/images/big-avatar@2x.png', 70px, 70px);
+  }
+
+  /* Content */
+  .content {
+    margin-top: 15px;
   }
 
   .social-icon {
@@ -253,5 +274,9 @@ article {
     float: left;
     background: url('/images/avatar-large.png') no-repeat 0 0;
     @include image-2x('/images/avatar-large@2x.png', 250px, 172px);
+  }
+
+  .bio-text {
+    font-size: 10pt;
   }
 }

@@ -1,27 +1,11 @@
 ---
 layout: post
-status: publish
-published: true
 title: Seek out criticism
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 304
-wordpress_url: http://brianlundin.com/?p=304
+redirect_from:
+  - /?p=304
 date: '2014-02-17 09:11:25 -0600'
-date_gmt: '2014-02-17 15:11:25 -0600'
 categories:
-- Writing
-tags:
-- community
-- feedback
-- criticism
-comments: []
+- Storytelling
 ---
 <p>Feedback on your work is important, you already know this. But, it is too easy to dismiss exactly how much this matters for a writer. Honest feedback is the key ingredient to improving in anything you do, but especially in your writing.</p>
 <p>[caption id="attachment_306" align="alignright" width="228"]<a href="http://brianlundin.com/wp-content/uploads/2014/02/Birdandbaby.jpg"><img class="size-medium wp-image-306 " title="The Eagle and Child" alt="Birdandbaby" src="http://brianlundin.com/wp-content/uploads/2014/02/Birdandbaby-228x300.jpg" width="228" height="300" /></a> The Eagle and Child pub (also known and 'The Bird and Baby' in Oxford, England, where the Inklings often met to read their work and discuss literature.[/caption]</p>

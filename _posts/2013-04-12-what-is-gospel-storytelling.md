@@ -1,8 +1,11 @@
 ---
 layout: post
 title: What is Gospel Storytelling?
-redirect_from: /2013/04/12/2013412what-is-gospel-storytelling/
+redirect_from: 
+  - /2013/04/12/2013412what-is-gospel-storytelling/
 date: '2013-04-12 20:58:12 -0500'
+categories:
+- Storytelling
 ---
 <p>I attended The Gospel Coalition national conference this week as part of the <a href="http://storyframes.org/" target="_blank">Storyframes Collective</a> team. Storyframes is a collaboration between <a href="http://thegospelcoalition.org/">The Gospel Coalition</a> and the Story Team from my local church, <a href="http://austinstone.org/">the Austin Stone</a>. I was humbled to serve alongside a great team that believes in the power of gospel storytelling, and to talk to conference attendees about how storytelling can impact the lives of believers.</p>
 <p class="p1">I had good conversations with pastors and church leaders from around the world, but there was one question that kept coming up first, “what is gospel storytelling?” It’s a good question, because the term is not familiar to most people, or at least there is no obvious definition.</p>

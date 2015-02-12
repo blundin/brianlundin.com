@@ -1,25 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: "'It's All Too Much' by Peter Walsh"
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 363
-wordpress_url: http://brianlundin.com/?p=363
+redirect_from:
+  - /?p=363
 date: '2015-01-08 09:30:32 -0600'
-date_gmt: '2015-01-08 15:30:32 -0600'
-categories:
-- Reading
-tags:
-- 35in2015
-comments: []
 ---
 <p>The first book I finished for my goal of 35 books in 2015 was <a href="http://www.amazon.com/gp/product/0743292650/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0743292650&amp;linkCode=as2&amp;tag=blundin-20&amp;linkId=SU5BCBKMJDL7IXQL">'It's All Too Much' by Peter Walsh</a>. I never would have chosen this book on my own. From the cheesy cover to the author's sweet spot of helping hoarders, it strikes me as a book I just don't need to read. Enter <a href="https://twitter.com/hotdogsladies">Merlin Mann</a>, <a href="http://www.merlinmann.com">gentleman about the Internet</a>.</p>
 <p>In <a href="http://5by5.tv/b2w/202">Back to Work episode #202</a>, Merlin mentioned this book along with <a href="http://www.amazon.com/gp/product/0142000280/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0142000280&amp;linkCode=as2&amp;tag=blundin-20&amp;linkId=FOPIB2HCITAE2XWV">'Getting Things Done'</a> by David Allen as the two books that influence him greatly and he continues to recommend to everyone. Being a big fan of Merlin and the other book, I immediately ordered this one from Amazon. It was a good call.</p>

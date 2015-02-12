@@ -5,6 +5,8 @@ redirect_from:
   - /2013/08/21/2013821at-the-intersection-of-plot-and-the-gospel-storyline/
   - /2013/08/21/at-the-intersection-of-plot-and-the-gospel-storyline/
 date: '2013-08-21 17:19:41 -0500'
+categories:
+- Storytelling
 ---
 <p class="p1"><em>This blog post is an adaptation of a training talk I gave last week for <a href="http://storyteam.org">The Austin Stone Story Team</a>.</em></p>
 <p class="p1">As our mission statement for the Austin Stone Story Team says, we “use creative storytelling to glorify the name and purpose of Jesus Christ, encourage the saints, and compel all people to gospel action.” We do this by telling the stories of how the gospel changes lives, but I also believe there is a deeper meaning to the idea of “gospel stories”. Ideally, our stories should not just describe how the gospel changes lives, they should reflect the gospel storyline.</p>

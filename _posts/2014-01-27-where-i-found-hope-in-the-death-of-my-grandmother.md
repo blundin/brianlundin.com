@@ -1,37 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: Where I found hope in the death of my grandmother
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 288
-wordpress_url: http://brianlundin.com/?p=288
+redirect_from: 
+  - /?p=288
 date: '2014-01-27 09:25:49 -0600'
-date_gmt: '2014-01-27 15:25:49 -0600'
-categories:
-- Personal
-tags:
-- love
-- death
-- faith
-- Jesus
-comments:
-- id: 56
-  author: LoriK
-  author_email: lawgirl@cox.net
-  author_url: ''
-  date: '2014-01-27 16:46:00 -0600'
-  date_gmt: '2014-01-27 22:46:00 -0600'
-  content: Great job on the eulogy and sharing your faith. Your grandmother was proud
-    of you for the man you have become and she would have been proud of the eulogy
-    you gave for her.
 ---
 <p>Last Friday I gave the eulogy at my grandmother’s funeral. My grandmother, Mary Downey, was an incredible woman of faith and love. She was diagnosed with cancer that advanced very quickly, just two months ago. She passed away last week. The speed and circumstances were surprising and difficult.</p>
 <p>I lost my Grandpa Downey in January 2011 and my Grandpa Lundin later that spring. That year forced me to really think about death in very personal terms for the first time in a long time. Contemplating these things that year drew me closer to Jesus.</p>

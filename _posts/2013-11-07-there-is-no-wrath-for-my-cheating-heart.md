@@ -1,35 +1,9 @@
 ---
 layout: post
-status: publish
-published: true
 title: There is no wrath for my cheating heart
-author:
-  display_name: Brian
-  login: brian.lundin@gmail.com
-  email: brian.lundin@gmail.com
-  url: http://brianlundin.com
-author_login: brian.lundin@gmail.com
-author_email: brian.lundin@gmail.com
-author_url: http://brianlundin.com
-wordpress_id: 230
-wordpress_url: http://brianlundin.com/?p=230
+redirect_from: 
+  - /?p=230
 date: '2013-11-07 13:00:06 -0600'
-date_gmt: '2013-11-07 18:00:06 -0600'
-categories:
-- Theology
-tags:
-- scripture
-- Paul
-- hosea
-- romans
-comments:
-- id: 54
-  author: Top 5 posts from 2013
-  author_email: ''
-  author_url: http://brianlundin.com/2013/12/31/top-5-posts-from-2013/
-  date: '2013-12-31 12:48:49 -0600'
-  date_gmt: '2013-12-31 17:48:49 -0600'
-  content: "[&#8230;] 5. There is no wrath for my cheating heart [&#8230;]"
 ---
 <p>On Monday, after reading several chapters in Hosea, I tweeted:</p>
 <blockquote class="twitter-tweet"><p>For the Christian who understands the grace shown to us, God&#39;s wrath is never a thing to be feared. Instead it should prompt us to thank Him</p>
