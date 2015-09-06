@@ -12,8 +12,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brianlundin.com" # the base hostname & protocol for your site
 #cdn: "http://cdn.brianlundin.com" # comment this line out for the site to generate local URLs for CDN-hosted assests
 
-# Build settings
-markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 paginate: 5
 paginate_path: "page:num"
@@ -32,3 +32,4 @@ exclude: ["node_modules",
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate

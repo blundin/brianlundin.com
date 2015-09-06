@@ -4,6 +4,7 @@ module.exports = function(grunt) {
 
     clean: {
       modernizr: ['_site/bower_components/modernizr/modernizr.js'],
+      html5shiv: ['_site/bower_components/html5shiv/dist/html5shiv.js'],
       css: ['_site/css/*.css', '!_site/css/*.min.css']
     },
     uglify: {
@@ -11,20 +12,31 @@ module.exports = function(grunt) {
         files: {
           '_site/bower_components/modernizr/modernizr.min.js': ['_site/bower_components/modernizr/modernizr.js']
         }
-      }//,
-      // app: {
-      // // Grunt will search for "**/*.js" under "lib/" when the "uglify" task
-      // // runs and build the appropriate src-dest file mappings then, so you
-      // // don't need to update the Gruntfile when files are added or removed.
-      //   files: [
-      //     {
-      //       expand: true,     // Enable dynamic expansion.
-      //       src: ['_site/js/*.js'], // Actual pattern(s) to match.
-      //       ext: '.min.js',   // Dest filepaths will have this extension.
-      //       extDot: 'first'   // Extensions in filenames begin after the first dot
-      //     }
-      //   ]
-      // }
+      },
+      app: {
+      // Grunt will search for "**/*.js" under "lib/" when the "uglify" task
+      // runs and build the appropriate src-dest file mappings then, so you
+      // don't need to update the Gruntfile when files are added or removed.
+      files: [
+        {
+          expand: true,     // Enable dynamic expansion.
+          src: ['_site/js/*.js'], // Actual pattern(s) to match.
+          ext: '.min.js',   // Dest filepaths will have this extension.
+          extDot: 'first'   // Extensions in filenames begin after the first dot
+        }
+      ]
+    }
+    },
+    cssmin: {
+      target: {
+        files: [{
+          expand: true,
+          cwd: '_site/css',
+          src: ['*.css', '!*.min.css'],
+          dest: '_site/css',
+          ext: '.min.css'
+        }]
+      }
     },
     exec: {
       build: {
@@ -64,14 +76,12 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-exec');
-  grunt.loadNpmTasks('grunt-contrib-clean');
+  // grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-contrib-cssmin');
+  grunt.loadNpmTasks('grunt-bower-clean');
 
-  // grunt.registerTask('default', ['exec:build', 'uglify', 'clean']);
-  grunt.registerTask('default', ['exec:build', 'uglify']);
-
-  // grunt.registerTask('dev', ['exec:build', 'uglify', 'clean', 'watch']);
-  grunt.registerTask('dev', ['exec:build', 'uglify', 'watch'])
-
+  grunt.registerTask('default', ['exec:build', 'cssmin', 'uglify']);
+  grunt.registerTask('dev', ['exec:build', 'watch'])
   grunt.registerTask('deploy', ['default', 'exec:deploy']);
 };

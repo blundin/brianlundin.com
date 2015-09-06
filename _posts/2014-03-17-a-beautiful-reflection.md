@@ -5,7 +5,8 @@ redirect_from:
   - /?p=322
 date: '2014-03-17 09:30:55 -0500'
 ---
-<p><img src="http://brianlundin.com/wp-content/uploads/2014/03/Santa-Elena-Canyon.jpg" alt="Santa-Elena-Canyon" width="979" height="734" class="aligncenter size-full wp-image-323" />We stood on the banks of the Rio Grande, just yards away from the threshold of the Santa Elena Canyon, with tears in our eyes. Without taking her eyes off the sunset in the canyon, my wife said to me, "I've never seen anything more beautiful." I agreed with her. And my heart leapt with praise for our God.</p>
+<p class="text-center"><img src="/images/posts/Santa-Elena-Canyon.jpg" /></p>
+<p>We stood on the banks of the Rio Grande, just yards away from the threshold of the Santa Elena Canyon, with tears in our eyes. Without taking her eyes off the sunset in the canyon, my wife said to me, "I've never seen anything more beautiful." I agreed with her. And my heart leapt with praise for our God.</p>
 <blockquote><p>
   The heavens declare the glory of God,<br />
           and the sky above proclaims his handiwork.<br />

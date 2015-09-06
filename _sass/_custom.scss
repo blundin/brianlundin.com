@@ -101,9 +101,34 @@ ul, ol, dl, figure,
   padding-bottom: 0px;
 }
 
+.small-margin-hr {
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.subscription {
+  padding-top: 25px;
+}
+
+#subscribe-label {
+  font: {
+    size: 12pt;
+  }
+}
+
 /* Content */
 .content {
   margin-top: 0px;
+}
+
+.image-wrap-right {
+  float: right;
+  margin: 10px;
+}
+
+.image-wrap-left {
+  float: left;
+  margin: 10px;
 }
 
 /* Paginator */
@@ -118,6 +143,16 @@ ul, ol, dl, figure,
 }
 
 /* Post */
+.post-header {
+  h2 {
+    font: {
+      family: $sans-serif-font;
+      size: rem-calc(20);
+    }
+
+  }
+}
+
 .post-content {
   p {
     line-height: 1.7;
@@ -201,9 +236,13 @@ article {
 #mc_embed_signup {
   background:#fff;
   font: {
-    size: 14px;
+    size: 1.125rem;
     family: $sans-serif-font;
   }
+}
+
+#mce-EMAIL {
+  width: 100%;
 }
 
 /* Mobile-first design, so we adjust from the small for the larger screens */
@@ -224,7 +263,7 @@ article {
 
   .header-link {
     font-size: $med-header-link-font-size;
-    padding-bottom: 0px;
+    margin-bottom: 10px;
     margin-left: 0px;
     padding-top: 0px;
     text-align: left;

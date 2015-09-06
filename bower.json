@@ -18,5 +18,11 @@
   ],
   "dependencies": {
     "foundation": "~5.5.0"
+  },
+  "dependenciesIgnore": {
+    "fastclick": ["*.!(js)"],
+    "foundation": ["*.!(js)", "*.!(css)", "*.!(map)", "*.!(scss)"],
+    "jquery": ["src", "*.!(js)", "*.!(map)"],
+    "modernizr": ["test", "media", "*.!(js)"]
   }
 }

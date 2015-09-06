@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.1.5'
 
-gem 'jekyll-redirect-from', '0.6.2'
-gem 'growl', '1.0.3'
+gem 'jekyll', '~> 3.0.0.pre.beta8'
+gem 'jekyll-paginate'
+gem 'jekyll-redirect-from'
+gem 'jekyll-docs'
+
+gem 'growl'

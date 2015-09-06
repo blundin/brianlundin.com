@@ -1,0 +1,83 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/blundin/.nvm/versions/node/v0.12.7/bin/node',
+1 verbose cli   '/Users/blundin/.nvm/versions/node/v0.12.7/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'bower-cli' ]
+2 info using npm@2.11.3
+3 info using node@v0.12.7
+4 verbose install initial load of /Users/blundin/.nvm/versions/node/v0.12.7/lib/package.json
+5 verbose readDependencies loading dependencies from /Users/blundin/.nvm/versions/node/v0.12.7/lib/package.json
+6 silly cache add args [ 'bower-cli', null ]
+7 verbose cache add spec bower-cli
+8 silly cache add parsed spec { raw: 'bower-cli',
+8 silly cache add   scope: null,
+8 silly cache add   name: 'bower-cli',
+8 silly cache add   rawSpec: '',
+8 silly cache add   spec: '*',
+8 silly cache add   type: 'range' }
+9 silly addNamed bower-cli@*
+10 verbose addNamed "*" is a valid semver range for bower-cli
+11 silly addNameRange { name: 'bower-cli', range: '*', hasData: false }
+12 silly mapToRegistry name bower-cli
+13 silly mapToRegistry using default registry
+14 silly mapToRegistry registry https://registry.npmjs.org/
+15 silly mapToRegistry uri https://registry.npmjs.org/bower-cli
+16 verbose addNameRange registry:https://registry.npmjs.org/bower-cli not in flight; fetching
+17 verbose request uri https://registry.npmjs.org/bower-cli
+18 verbose request no auth needed
+19 info attempt registry request try #1 at 5:31:48 PM
+20 verbose request using bearer token for auth
+21 verbose request id 9c27f5b85dfbae57
+22 http request GET https://registry.npmjs.org/bower-cli
+23 http 404 https://registry.npmjs.org/bower-cli
+24 verbose headers { 'content-type': 'application/json',
+24 verbose headers   'cache-control': 'max-age=0',
+24 verbose headers   'content-length': '2',
+24 verbose headers   'accept-ranges': 'bytes',
+24 verbose headers   date: 'Sun, 06 Sep 2015 22:31:49 GMT',
+24 verbose headers   via: '1.1 varnish',
+24 verbose headers   connection: 'keep-alive',
+24 verbose headers   'x-served-by': 'cache-ord1730-ORD',
+24 verbose headers   'x-cache': 'MISS',
+24 verbose headers   'x-cache-hits': '0',
+24 verbose headers   'x-timer': 'S1441578708.974232,VS0,VE38' }
+25 silly get cb [ 404,
+25 silly get   { 'content-type': 'application/json',
+25 silly get     'cache-control': 'max-age=0',
+25 silly get     'content-length': '2',
+25 silly get     'accept-ranges': 'bytes',
+25 silly get     date: 'Sun, 06 Sep 2015 22:31:49 GMT',
+25 silly get     via: '1.1 varnish',
+25 silly get     connection: 'keep-alive',
+25 silly get     'x-served-by': 'cache-ord1730-ORD',
+25 silly get     'x-cache': 'MISS',
+25 silly get     'x-cache-hits': '0',
+25 silly get     'x-timer': 'S1441578708.974232,VS0,VE38' } ]
+26 verbose stack Error: Registry returned 404 for GET on https://registry.npmjs.org/bower-cli
+26 verbose stack     at CachingRegistryClient.<anonymous> (/Users/blundin/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:239:14)
+26 verbose stack     at Request._callback (/Users/blundin/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:170:14)
+26 verbose stack     at Request.self.callback (/Users/blundin/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/request/request.js:354:22)
+26 verbose stack     at Request.emit (events.js:110:17)
+26 verbose stack     at Request.<anonymous> (/Users/blundin/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/request/request.js:1207:14)
+26 verbose stack     at Request.emit (events.js:129:20)
+26 verbose stack     at IncomingMessage.<anonymous> (/Users/blundin/.nvm/versions/node/v0.12.7/lib/node_modules/npm/node_modules/request/request.js:1153:12)
+26 verbose stack     at IncomingMessage.emit (events.js:129:20)
+26 verbose stack     at _stream_readable.js:908:16
+26 verbose stack     at process._tickCallback (node.js:355:11)
+27 verbose statusCode 404
+28 verbose pkgid bower-cli
+29 verbose cwd /Users/blundin/Documents/blogging/brianlundin
+30 error Darwin 14.5.0
+31 error argv "/Users/blundin/.nvm/versions/node/v0.12.7/bin/node" "/Users/blundin/.nvm/versions/node/v0.12.7/bin/npm" "install" "-g" "bower-cli"
+32 error node v0.12.7
+33 error npm  v2.11.3
+34 error code E404
+35 error 404 Registry returned 404 for GET on https://registry.npmjs.org/bower-cli
+35 error 404
+35 error 404 'bower-cli' is not in the npm registry.
+35 error 404 You should bug the author to publish it (or use the name yourself!)
+35 error 404
+35 error 404 Note that you can also install from a
+35 error 404 tarball, folder, http url, or git url.
+36 verbose exit [ 1, true ]
