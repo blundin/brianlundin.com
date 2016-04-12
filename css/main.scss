@@ -4,20 +4,20 @@
 @charset "utf-8";
 
 /* Typography */
-// $serif-font: "century-old-style-std", serif; // No sans serif use
-$sans-serif-font: "jaf-facitweb", sans-serif;
+$sans-serif-font: "futura-pt", Helvetica, Arial, sans-serif;
+$serif-font: "ff-tisa-web-pro", Georgia, "Times New Roman", serif;
 
-$small-title-font-size: 12pt;
-$small-subtitle-font-size: 8pt;
-$small-header-link-font-size: 10pt;
+$small-title-font-size: 16pt;
+$small-subtitle-font-size: 16pt;
+$small-header-link-font-size: 16pt;
 
-$med-title-font-size: 16pt;
-$med-subtitle-font-size: 10pt;
-$med-header-link-font-size: 12pt;
+$med-title-font-size: 20pt;
+$med-subtitle-font-size: 14pt;
+$med-header-link-font-size: 16pt;
 
-$large-title-font-size: 16pt;
-$large-subtitle-font-size: 11pt;
-$large-header-link-font-size: 12pt;
+$large-title-font-size: 20pt;
+$large-subtitle-font-size: 15pt;
+$large-header-link-font-size: 16pt;
 
 
 /* Colors */

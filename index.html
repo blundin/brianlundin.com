@@ -17,13 +17,13 @@ redirect_from:
       {% for post in paginator.posts %}
         <article>
           <header>
-            <h1>
+            <h2>
               {% if post.link %}
                 <a href="{{ post.link }}">&rarr;&nbsp;{{ post.title }}</a>
               {% else %}
                 <a href="{{ post.url }}">{{ post.title }}</a>
               {% endif %}
-            </h1>
+            </h2>
           </header>
           <div class="post-content">
             {{ post.content }}

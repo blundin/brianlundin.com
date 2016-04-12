@@ -4,15 +4,15 @@
   "license": "MIT",
   "version": "1.0.0",
   "devDependencies": {
-    "bower": "^1.4.1",
-    "grunt": "^0.4.4",
-    "grunt-bower-clean": "^0.2.2",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-cssmin": "^0.13.0",
-    "grunt-contrib-uglify": "^0.9.1",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-exec": "^0.4.6",
-    "grunt-sass": "^1.0.0",
-    "node-sass": "^3.2.0"
+    "bower": "*",
+    "grunt": "*",
+    "grunt-bower": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-exec": "*",
+    "grunt-sass": "*",
+    "node-sass": "*"
   }
 }

@@ -28,7 +28,8 @@ exclude: ["node_modules",
           "*.sublime-*",
           "Gemfile",
           "Gemfile.lock",
-          "LICENSE.md"]
+          "LICENSE.md",
+          "bower_components"]
 
 gems:
   - jekyll-redirect-from

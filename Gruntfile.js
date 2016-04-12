@@ -2,30 +2,15 @@ module.exports = function(grunt) {
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
-    clean: {
-      modernizr: ['_site/bower_components/modernizr/modernizr.js'],
-      html5shiv: ['_site/bower_components/html5shiv/dist/html5shiv.js'],
-      css: ['_site/css/*.css', '!_site/css/*.min.css']
-    },
-    uglify: {
-      modernizr: {
-        files: {
-          '_site/bower_components/modernizr/modernizr.min.js': ['_site/bower_components/modernizr/modernizr.js']
+    bower: {
+      dev: {
+        dest: '_site/assets',
+        css_dest: '_site/css',
+        js_dest: '_site/js',
+        options: {
+          expand: true
         }
-      },
-      app: {
-      // Grunt will search for "**/*.js" under "lib/" when the "uglify" task
-      // runs and build the appropriate src-dest file mappings then, so you
-      // don't need to update the Gruntfile when files are added or removed.
-      files: [
-        {
-          expand: true,     // Enable dynamic expansion.
-          src: ['_site/js/*.js'], // Actual pattern(s) to match.
-          ext: '.min.js',   // Dest filepaths will have this extension.
-          extDot: 'first'   // Extensions in filenames begin after the first dot
-        }
-      ]
-    }
+      }
     },
     cssmin: {
       target: {
@@ -37,6 +22,20 @@ module.exports = function(grunt) {
           ext: '.min.css'
         }]
       }
+    },
+    uglify: {
+      my_target: {
+        files: {
+          '_site/js/app.min.js': ['_site/js/app.js'],
+          '_site/js/foundation/js/foundation.min.js': ['_site/js/foundation/js/foundation.js'],
+          '_site/js/jquery/dist/jquery.min.js': ['_site/js/jquery/dist/jquery.js'],
+          '_site/js/modernizr/modernizr.min.js': ['_site/js/modernizr/modernizr.js'],         
+        }
+      }
+    },
+    clean: {
+      js: ['_site/js/**/*.js', '!_site/js/**/*.min.js'],
+      css: ['_site/css/**/*.css', '!_site/css/**/*.min.css']
     },
     exec: {
       build: {
@@ -76,12 +75,12 @@ module.exports = function(grunt) {
 
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-exec');
-  // grunt.loadNpmTasks('grunt-contrib-clean');
+  grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-cssmin');
-  grunt.loadNpmTasks('grunt-bower-clean');
+  grunt.loadNpmTasks('grunt-bower');
 
-  grunt.registerTask('default', ['exec:build', 'cssmin', 'uglify']);
-  grunt.registerTask('dev', ['exec:build', 'watch'])
+  grunt.registerTask('default', ['exec:build', 'bower', 'uglify', 'cssmin', 'clean']);
+  grunt.registerTask('dev', ['default', 'watch'])
   grunt.registerTask('deploy', ['default', 'exec:deploy']);
 };
