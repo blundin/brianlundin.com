@@ -1,6 +1,6 @@
 {
   "name": "brianlundin",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "http://brianlundin.com",
   "authors": [
     "Brian Lundin <brian.lundin@gmail.com>"
@@ -17,7 +17,7 @@
     "tests"
   ],
   "dependencies": {
-    "foundation": "~5.5.0"
+    "foundation": "~5.5.3"
   },
   "dependenciesIgnore": {
     "fastclick": ["*.!(js)"],

@@ -27,9 +27,9 @@ module.exports = function(grunt) {
       my_target: {
         files: {
           '_site/js/app.min.js': ['_site/js/app.js'],
-          '_site/js/foundation/js/foundation.min.js': ['_site/js/foundation/js/foundation.js'],
+          /*'_site/js/foundation/js/foundation.min.js': ['_site/js/foundation/js/foundation.js'],
           '_site/js/jquery/dist/jquery.min.js': ['_site/js/jquery/dist/jquery.js'],
-          '_site/js/modernizr/modernizr.min.js': ['_site/js/modernizr/modernizr.js'],         
+          '_site/js/modernizr/modernizr.min.js': ['_site/js/modernizr/modernizr.js'],*/         
         }
       }
     },
