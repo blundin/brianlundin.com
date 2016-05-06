@@ -3,7 +3,6 @@ layout: page
 title: Welcome!
 redirect_from: 
   - /?page_id=196
-  - /twitter/
 date: '2013-10-12 13:47:44 -0500'
 ---
 <p>If you've found yourself on this page it means one of two things:</p>
