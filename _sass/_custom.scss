@@ -56,7 +56,7 @@ ul, ol, dl, figure,
     weight: 600;
   }
   margin-left: 0px;
-  margin-top: 20px;
+  margin-top: 15px;
   margin-bottom: 0px;
 
   a {
@@ -250,13 +250,14 @@ article {
 /* Mobile-first design, so we adjust from the small for the larger screens */
 @media #{$medium-up} {
   .site-header {
-    margin-top: 15px;
+    margin-top: 0px;
     margin-bottom: 0px;
     height: 50px;
   }
 
   .site-title {
     font-size: $med-title-font-size;
+    margin-top: 32px;
   }
 
   .site-subtitle {
