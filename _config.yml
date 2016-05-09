@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://brianlundin.com" # the base hostname & protocol for your site
-#cdn: "http://cdn.brianlundin.com" # comment this line out for the site to generate local URLs for CDN-hosted assests
+cdn: "http://cdn.brianlundin.com" # comment this line out for the site to generate local URLs for CDN-hosted assests
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
