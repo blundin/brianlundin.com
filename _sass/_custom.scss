@@ -247,6 +247,11 @@ article {
   width: 100%;
 }
 
+/* Footnotes */
+// .footnote-top-border {
+//   margin-top: 200px;
+// }
+
 /* Mobile-first design, so we adjust from the small for the larger screens */
 @media #{$medium-up} {
   .site-header {

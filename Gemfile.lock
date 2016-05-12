@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/friedenberg/jekyll-footnotes.git
+  revision: a7afbe8e43ee647d6cd75e19bbe302466b67eb3a
+  ref: a7afbe8
+  specs:
+    jekyll-footnotes (0.7.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -19,6 +26,9 @@ GEM
       jekyll (>= 2.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-srcset (0.1.3)
+      jekyll (> 2)
+      rmagick
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.11.1)
@@ -30,6 +40,7 @@ GEM
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
+    rmagick (2.15.4)
     rouge (1.10.1)
     safe_yaml (1.0.4)
     sass (3.4.22)
@@ -41,8 +52,10 @@ DEPENDENCIES
   growl
   jekyll (~> 3.1.3)
   jekyll-docs
+  jekyll-footnotes!
   jekyll-paginate
   jekyll-redirect-from
+  jekyll-srcset
 
 BUNDLED WITH
    1.10.6

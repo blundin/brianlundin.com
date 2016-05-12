@@ -23,7 +23,7 @@ For me, the decision was easy. I went with Jekyll for 5 reasons:
 2. Beyond those themes, all of the “features” of WordPress were not only unnecessary, they made it harder for me to create the kind of site I wanted. The platform is overgrown and cluttered with features that don’t add much discernible value
 3. I don’t need to post “on-the-go” from my phone
 4. I do all my writing in Markdown, and WordPress did not offer an acceptable workflow for it. Yes, even with the fancy plugins and Markdown “integration”
-5. Finally, and most decisively, I had the technical skills to code and my own site
+5. Finally, and most decisively, I had the technical skills to code my own site
 
 This last reason is why most people will not be able to make the same choice I did. Even with [great guides out there like the one I used](http://paulstamatiou.com/hosting-on-amazon-s3-with-cloudfront/), implementing a custom Jekyll site is still beyond the average blogger’s reach.
 
