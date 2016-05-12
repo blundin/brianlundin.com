@@ -4,7 +4,7 @@ title: Why you should care about App.Net
 redirect_from: 
   - /2013/07/22/2013722why-you-should-care-about-appnet/
   - /2013/07/22/why-you-should-care-about-appnet/
-date: '2013-07-22 18:48:41 -0500'
+date: 2013-07-22
 ---
 <p>I've closed down my Facebook account twice, and I am considering doing it yet a third time. Why? Because I don't like being someone else's product-- and you shouldn't either. Each time I closed it I eventually went back because so much of my social interactions have moved online. My privacy concerns were trumped by the very nature of Facebook.</p>
 <p class="p1">But that does not have to be the case any longer. There is a new alternative, one that is a real alternative. App.Net is a new(ish) social developer platform that addresses these concerns and more.</p>
