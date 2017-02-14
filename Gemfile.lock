@@ -14,7 +14,7 @@ GEM
     ffi (1.9.17)
     forwardable-extended (2.6.0)
     growl (1.0.3)
-    jekyll (3.3.0)
+    jekyll (3.4.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -25,8 +25,7 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-docs (3.3.0)
-      jekyll (= 3.3.0)
+    jekyll-docs (2.5.3)
     jekyll-paginate (1.1.0)
     jekyll-redirect-from (0.12.1)
       jekyll (~> 3.3)
@@ -59,7 +58,7 @@ PLATFORMS
 
 DEPENDENCIES
   growl
-  jekyll (= 3.3.0)
+  jekyll (= 3.4.0)
   jekyll-docs
   jekyll-footnotes!
   jekyll-paginate
