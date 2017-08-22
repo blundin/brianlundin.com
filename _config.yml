@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Brian Lundin is a storyteller, writer, and geek who lives in Austin, TX. He is passionate about Jesus, literature, writing, and telling stories of redemption in the lives of God’s people.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://brianlundin.com" # the base hostname & protocol for your site
-cdn: "http://cdn.brianlundin.com" # comment this line out for the site to generate local URLs for CDN-hosted assests
+url: "https://brianlundin.com" # the base hostname & protocol for your site
+cdn: "https://brianlundin.com" # comment this line out for the site to generate local URLs for CDN-hosted assests
 
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
