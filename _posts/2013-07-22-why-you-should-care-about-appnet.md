@@ -1,0 +1,23 @@
+---
+layout: post
+title: Why you should care about App.Net
+redirect_from: 
+  - /2013/07/22/2013722why-you-should-care-about-appnet/
+  - /2013/07/22/why-you-should-care-about-appnet/
+date: 2013-07-22
+---
+<p>I've closed down my Facebook account twice, and I am considering doing it yet a third time. Why? Because I don't like being someone else's product-- and you shouldn't either. Each time I closed it I eventually went back because so much of my social interactions have moved online. My privacy concerns were trumped by the very nature of Facebook.</p>
+<p class="p1">But that does not have to be the case any longer. There is a new alternative, one that is a real alternative. App.Net is a new(ish) social developer platform that addresses these concerns and more.</p>
+<p class="p1">But why do I (or you) need another social media service? Well, this post will explain my reasons.</p>
+<p class="p1">I am a heavy user of Twitter, but I use Facebook significantly less. The difference in my usage stems from what we know about the two companies advertising models. Twitter uses who I follow, and who follows me, to populate my feed with the occasional, and almost always unobtrusive, Promoted Tweet. Facebook uses all of my profile data to promote ads on the right sidebar and in my feed. They sound the same, but they are not.</p>
+<p class="p1">The difference lies in what Facebook knows, and what it wants to know. Look at the average user profiles on Facebook, and pay attention to what information people give up. Full personal bios, interactions with friends and family, entertainment preferences, links to web content, and geographic check-ins. That is everything about who you are, who you know, what you like, what you read, and where you go. It's your entire life. And you do not control it.</p>
+<p class="p1">This is a screenshot from my Facebook profile. I removed all of my 'Likes' a few months ago, but since then, these new 'No Content' posts keep appearing.</p>
+<p>[caption id="attachment_89" align="aligncenter" width="482"]<a href="http://brianlundin.com/wp-content/uploads/2013/07/Screen-Shot-2013-07-22-at-10.52.04-AM.png"><img class="size-full wp-image-89" alt="A post from 'No Content'?" src="http://brianlundin.com/wp-content/uploads/2013/07/Screen-Shot-2013-07-22-at-10.52.04-AM.png" width="482" height="477" /></a> A post from 'No Content'?[/caption]</p>
+<p class="p1">This post is from the How I Met Your Mother page, one that I formerly marked as 'Liked' and removed from my profile months ago. Clearly Facebook does not delete the associations that their users 'unlike' or delete, or else they would not be able to post this content to my feed. This has happened consistently since I have removed those interests from my profile. Facebook is holding back on what data I can and can't control. On Facebook, 'delete' does not really mean 'delete'. Apparently the rule is "once known, always known."</p>
+<p class="p1">This may very well be consistent with their terms of service, but it's not something I am comfortable with.</p>
+<p class="p1">This brings me back around to App.Net. App.Net is a freemium service which has three tiers, Free, Basic and Developer. All users own and control their data that resides in the service. <a href="http://blog.app.net/2012/08/29/what-is-app-net/"><span class="s1">In their own words</span></a>:</p>
+<blockquote><p><span class="s1"><a href="http://app.net/">App.net</a></span> is a subscription-based, advertising-free social network and API. It’s a platform that developers can rely on and that members can use to interact with each other… We take this pledge very seriously: we will never sell user data to advertisers, never turn users into the product. Our paid model aligns our interests with our users.</p></blockquote>
+<p class="p5">I am fully behind App.Net for one reason, the platform is the product, not my data. Additionally, the entire platform is meant to be the backbone for a whole new generation of social apps, and the initial results are encouraging. There are many new and interesting applications built on top of App.Net.</p>
+<p class="p5">To answer the titular question of this post, I say this: we should care about, and support, App.Net as a vote on the future of social and web services. It is a good platform, with a good goal, and an important mission.</p>
+<p class="p5">Do you want your entire life offered up to marketers? In this day and age, our social data closely approximates our identities. Do you want that up for open bidding?</p>
+<p class="p5">I don't want that, and that is why I support App.Net.</p>
