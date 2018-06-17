@@ -1,34 +1,43 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: brianlundin.com
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Your awesome title
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
-email: brian.lundin@gmail.com
-twitter_username: blundin
-github_username:  blundin
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
 
-description: > # this means to ignore newlines until "baseurl:"
-  Brian Lundin is a storyteller, writer, and geek who lives in Austin, TX. He is passionate about Jesus, literature, writing, and telling stories of redemption in the lives of God’s people.
-
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://brianlundin.com" # the base hostname & protocol for your site
-cdn: "https://brianlundin.com" # comment this line out for the site to generate local URLs for CDN-hosted assests
-
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-paginate: 7
-paginate_path: "page:num"
-permalink: blog/:title.html
-
-exclude: ["node_modules",
-          "Gruntfile.js",
-          "bower.json",
-          "package.json",
-          "publish.sh",
-          "README.md",
-          "*.sublime-*",
-          "Gemfile",
-          "Gemfile.lock",
-          "LICENSE.md",
-          "bower_components"]
-
-plugins: ["jekyll-redirect-from", "jekyll-paginate", "jekyll/footnotes"]
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

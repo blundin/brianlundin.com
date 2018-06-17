@@ -1,7 +1,4 @@
 _drafts
-_site
 .sass-cache
 node_modules
 public
-
-*.sublime-*
