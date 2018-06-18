@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <header class="row site-header">
+      <div class="small-16 medium-11 medium-centered large-10 large-centered columns">
+        {% include header.html %}
+      </div>
+    </header>
+    <div class="row content">
+      <div class="small-16 medium-11 medium-centered large-10 large-centered columns">
+      {{ content }}
+      </div>
+    </div>
+    <div id="footer">
+      <footer class="row">
+        <div class="small-16 medium-11 medium-centered large-10 large-centered columns">
+          {% include footer.html %}
+        </div>
+      </footer>
+    </div>
+    {% include scripts.html %}
+  </body>
+</html>
