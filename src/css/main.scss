@@ -2,6 +2,24 @@
 ---
 @charset "utf-8";
 
-
-
+@import "functions";
+@import "variable_overrides";
 @import "bootstrap";
+
+.container {
+  padding-top: 15px;
+}
+
+.site-title {
+  font-weight: bold;
+  font-size: 1.8em;
+}
+
+.site-subtitle {
+  font-weight: normal;
+  font-size: 1.2em;
+}
+
+.site-description {
+  font-size: 0.85em;
+}

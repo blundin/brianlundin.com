@@ -1,24 +1,21 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="">
   {% include head.html %}
   <body>
-    <header class="row site-header">
-      <div class="small-16 medium-11 medium-centered large-10 large-centered columns">
-        {% include header.html %}
-      </div>
-    </header>
-    <div class="row content">
-      <div class="small-16 medium-11 medium-centered large-10 large-centered columns">
-      {{ content }}
-      </div>
-    </div>
-    <div id="footer">
-      <footer class="row">
-        <div class="small-16 medium-11 medium-centered large-10 large-centered columns">
-          {% include footer.html %}
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    <div class="container">
+      <div class="row">
+        <div class="col-16 col-sm-4">
+          {% include header.html %}
         </div>
-      </footer>
+        <div class="col-16 col-sm-12">
+          {{ content }}
+        </div>
+      </div>
     </div>
+    {% include footer.html %}
     {% include scripts.html %}
   </body>
 </html>

@@ -4,7 +4,8 @@ email: brian.lundin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Brian Lundin is the Lead Writer & Story Team Producer at The Austin Stone Community Church. Brian is a storyteller, writer and geek who is passsionate about sharing stories of gospel transformation.
 baseurl: ""
-url: "https://brianlundin.com"
+url: "https://brianlundin.com/"
+cdn_url: ""
 twitter_username: blundin
 github_username:  blundin
 
