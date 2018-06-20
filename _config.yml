@@ -3,9 +3,11 @@ title: Brian Lundin
 email: brian.lundin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Brian Lundin is the Lead Writer & Story Team Producer at The Austin Stone Community Church. Brian is a storyteller, writer and geek who is passsionate about sharing stories of gospel transformation.
+
+# Settings for the site
 baseurl: ""
 url: "https://brianlundin.com/"
-cdn_url: ""
+cdn_url: "" # If this is set the site will directly use the CDN URL for all assets
 twitter_username: blundin
 github_username:  blundin
 
@@ -13,6 +15,7 @@ github_username:  blundin
 source: src
 destination: public
 markdown: kramdown
+permalink: /blog/:title:output_ext
 sass:
   load_paths:
     - "../node_modules/bootstrap/scss"
@@ -20,9 +23,19 @@ sass:
   style: compressed
 safe: false
 
+# Pagination options
+pagination:
+  enabled: true
+  debug: false
+  per_page: 5
+  sort_reverse: true
+autopages:
+  enabled: false
+
 # Jekyll stuff
 plugins:
   - jekyll-feed
+  - jekyll-paginate-v2
 
 # Exclude from processing
 exclude:
@@ -35,3 +48,5 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - .ruby-version
+  - .ruby-gemset
