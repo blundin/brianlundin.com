@@ -15,6 +15,7 @@ github_username:  blundin
 source: src
 destination: public
 markdown: kramdown
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /blog/:title:output_ext
 sass:
   load_paths:
@@ -25,10 +26,14 @@ safe: false
 
 # Pagination options
 pagination:
+  trail:
+    before: 3 # The number of links before the current page
+    after: 3  # The number of links after the current page
   enabled: true
   debug: false
   per_page: 5
   sort_reverse: true
+
 autopages:
   enabled: false
 

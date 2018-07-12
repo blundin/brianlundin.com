@@ -17,7 +17,7 @@ pagination:
           </h1>
         </header>
         <div class="post-content">
-          {{ post.content }}
+          {{ post.content | markdownify }}
         </div>
         {% if post.link %}<a href="{{ post.url }}" title="Permalink"><i class="fa fa-link"></i></a>{% endif %}
         <hr>
@@ -28,19 +28,14 @@ pagination:
 </div>
 <div class="row">
   <div class="col-16">
-    {% if paginator.total_pages > 1 %}
-      <ul>
-        {% if paginator.previous_page %}
-        <li>
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-        </li>
-        {% endif %}
-        {% if paginator.next_page %}
-        <li>
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-        </li>
-        {% endif %}
-      </ul>
+    {% if paginator.page_trail %}
+      <nav aria-label="Page navigation">
+        <ul class="pagination justify-content-center">
+          {% for trail in paginator.page_trail %}
+            <li class="page-item{% if page.url == trail.path %} active{% endif %}"><a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
     {% endif %}
   </div>
 </div>

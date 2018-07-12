@@ -6,20 +6,76 @@
 @import "variable_overrides";
 @import "bootstrap";
 
-.container {
-  padding-top: 15px;
-}
-
 .site-title {
-  font-weight: bold;
-  font-size: 1.8em;
+  font-weight: 500;
+  font-size: 1.25rem;
+  padding-top: 1.2rem;
+  vertical-align: text-bottom;
+
+  a {
+    color: black;
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: $primary;
+  }
 }
 
 .site-subtitle {
   font-weight: normal;
-  font-size: 1.2em;
+  font-size: 0.9rem;
+
+  a {
+    color: $gray-500;
+  }
+
+  a:hover {
+    text-decoration: none;
+    color: $primary;
+  }
 }
 
-.site-description {
-  font-size: 0.85em;
+.hr-header {
+  margin: .5rem 0 0 0;
+  padding-top: 0rem;
+  padding-bottom: 2rem;
+  padding-right: 0rem;
+  padding-left: 0rem;
+}
+
+.header-title {
+  text-align: center;
+}
+
+.header-nav {
+  text-align: center;
+  
+  font-size: 0.85rem;
+  font-weight: 500;
+
+  a {
+    color: $gray-500;
+  }
+
+  a:hover {
+    color: $primary;
+  }
+}
+
+
+// Responsive stlye changes
+@include media-breakpoint-up(sm) {
+  .header-title {
+    text-align: left;
+  }
+
+  .header-nav {
+    text-align: right;
+    padding-top: 1.2rem;
+  }
+}
+
+@include media-breakpoint-up(md) {
+
 }

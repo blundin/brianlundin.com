@@ -3,10 +3,12 @@ layout: post
 title: 3 Reasons Why You Should Keep a Productivity Journal
 date: 2016-06-27
 description: Why is keeping a productivity journal so important for me? Why do I think everyone who is interested in growth and productivity should keep a journal? I keep a journal for three simple reasons.
+tags:
+  - productivity
 ---
 Every day at 4pm, my phone dings with a reminder to write a journal entry. And (almost) every day I stop what I am doing and take a few moments to write about my day. It’s a simple act, but it is a crucial part of my productivity practice.
 
-Unless you read all of the productivity nerd blogs like I do, you probably have no clue what a “productivity journal” is. I didn’t either until a few years ago, but in that time this practice has become deeply important to my growth and productivity. 
+Unless you read all of the productivity nerd blogs like I do, you probably have no clue what a “productivity journal” is. I didn’t either until a few years ago, but in that time this practice has become deeply important to my growth and productivity.
 
 While more explanation is warranted, a productivity journal is simply a collection of daily entries summarizing your priorities, accomplishments, failures, and struggles.
 
@@ -28,7 +30,7 @@ Second, the permanent recording of these events and thoughts serve as grist for 
 
 #### A journal is a great transition out of your work day
 
-The final reason I find journalling to be so important is that it helps me begin to unwind my mind from the daily tasks, issues, and frustrations of work. It sums up the day—for good or for bad—in a way that allows me to put work away and switch modes. 
+The final reason I find journalling to be so important is that it helps me begin to unwind my mind from the daily tasks, issues, and frustrations of work. It sums up the day—for good or for bad—in a way that allows me to put work away and switch modes.
 
 This frees me up to focus my thoughts on my wife and what she needs, or on personal projects that lie in wait at home. It helps me transition from one area of life to another cleanly. It sorts the mental debris of the day in an ordered way for the next day’s work. It’s cleans up the mental workbench, and shuts off the workshop lights.
 
