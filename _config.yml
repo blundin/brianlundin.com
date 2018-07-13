@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # Settings for the site
 baseurl: ""
-url: "https://brianlundin.com/"
+url: "https://brianlundin.com"
 cdn_url: "" # If this is set the site will directly use the CDN URL for all assets
 twitter_username: blundin
 github_username:  blundin

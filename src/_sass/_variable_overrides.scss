@@ -19,4 +19,5 @@ $primary:       #3333cc;
 // Import Bootstrap variables
 @import "variables";
 
+// If you want to assign a variable to another variable, you have to do it here
 $text-muted: $gray-500;

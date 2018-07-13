@@ -1,14 +1,12 @@
 <div class="row">
-  <div class="small-8 columns">
+  <div class="col-8">
+    {% if page.date %}
     <a href="https://twitter.com/share?url={{ site.url | append: page.url | url_encode | downcase }}&via=blundin" target="_blank">
-      <div class="social-icon twitter-icon"></div>
+      <div class="social-icon twitter-icon">Share on Twitter</div>
     </a>
-    <!-- Facebook sharing is not working. It does not pass through the right URL. -->
-    <!--<a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url | append: page.url | url_encode | downcase }}" target="_blank">
-      <div class="social-icon facebook-icon"></div>
-    </a>-->
+    {% endif %}
   </div>
-  <div class="small-8 columns right-aligned sans-serif post-footer-text">
+  <div class="col-8 text-right">
     {% if page.date %}
       <div>
         <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -16,6 +14,6 @@
         </span>
       </div>
     {% endif %}
-    <div class="post-footer-text" {% if page.date %}itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}" {% endif %}>{% if page.date %}{{ page.date | date: "%b %-d, %Y" }}{% else %}{{ post.date | date: "%b %-d, %Y" }}{% endif %}</div>
+    <div class="" {% if page.date %}itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}" {% endif %}>{% if page.date %}{{ page.date | date: "%b %-d, %Y" }}{% else %}{{ post.date | date: "%b %-d, %Y" }}{% endif %}</div>
   </div>
 </div>
