@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 'How I use Evernote: Capturing information'
-redirect_from: 
+redirect_from:
   - /2013/05/30/2013530how-i-use-evernote-capturing-information/
   - /2013/05/30/how-i-use-evernote-capturing-information/
 date: '2013-05-30 15:16:16 -0500'
+tags:
+  - productivity
 ---
 <p>Evernote is the most versatile tool in my digital toolbox. I use it for, what seems like, everything. I’ve<br />
 heard their CEO say many times that their desire is for the service to be a 'second brain’ for their users. If I am any indication, they are well on their <span style="line-height: 1.5em;">way.</span></p>

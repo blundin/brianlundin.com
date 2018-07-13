@@ -1,10 +1,12 @@
 ---
 layout: post
 title: My social media workflow
-redirect_from: 
+redirect_from:
   - /2013/05/23/2013513my-social-media-workflow/
   - /2013/05/23/my-social-media-workflow/
 date: '2013-05-23 18:12:35 -0500'
+tags:
+  - productivity
 ---
 <p class="MsoNormal">Earlier this week, I sat down with a friend who had some questions about social media. His wife is a painter who wants to broaden her exposure and participation in social media, but was (rightly) mystified about how to wade into the morass of social networks, sites and tools. He just wanted to chat about how to navigate these waters. After making it clear I was not an expert, but just a fellow traveller a bit farther down the road, we had a long conversation. I hope it was helpful, and it prompted me to finish off this long-pending blog post.</p>
 <p class="MsoNormal">If you are like me, you do not use social media for <a href="http://mashable.com/2012/07/02/best-cat-memes-ever/">cat memes</a> and passive-aggressive status updates, but to find new and interesting things from new and interesting people. The Internet is a big place though, and trying to find good stuff is hard work. Plus, I like to share what I find. I like to comment on what I find, and share my thoughts with like minded people.</p>

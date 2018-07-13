@@ -4,8 +4,8 @@ title: Austin Stone Worship Conference + New Album!
 redirect_from: 
   - /?p=217
 date: '2013-10-22 14:19:13 -0500'
-categories:
-- Storytelling
+tags:
+- storytelling
 ---
 <p>Today we are kicking off the Austin Stone Worship Conference at the Austin Music Hall. The Story Team is happy to be a part of the conference, and to get to connect with worship leaders and artists from across the country.</p>
 <p class="text-center"><img src="/images/posts/cropped_asw.jpg" /></p>

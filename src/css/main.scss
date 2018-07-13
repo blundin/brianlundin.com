@@ -50,7 +50,7 @@
 
 .header-nav {
   text-align: center;
-  
+
   font-size: 0.85rem;
   font-weight: 500;
 
@@ -61,6 +61,16 @@
   a:hover {
     color: $primary;
   }
+}
+
+blockquote {
+  background-color: $gray-100;
+
+  margin-left: 2rem;
+  padding: 1rem 1.5rem 0.2rem 1.5rem;
+
+  font-size: ($font-size-base * 0.85);
+  line-height: 1.5;
 }
 
 

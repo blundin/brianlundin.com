@@ -4,8 +4,8 @@ title: Seek out criticism
 redirect_from:
   - /?p=304
 date: '2014-02-17 09:11:25 -0600'
-categories:
-- Storytelling
+tags:
+- storytelling
 ---
 <p>Feedback on your work is important, you already know this. But, it is too easy to dismiss exactly how much this matters for a writer. Honest feedback is the key ingredient to improving in anything you do, but especially in your writing.</p>
 <p><img class="image-wrap-left" src="/images/posts/Birdandbaby.jpg" />C.S. Lewis and J.R.R. Tolkien knew the value of honest criticism, and sought it out. Once a week, and sometimes more, Lewis and Tolkien met with their friends and colleagues to read their work, hear others read theirs, and share criticism. This informal literary society was known as '<a href="http://en.wikipedia.org/wiki/Inklings">The Inklings</a>,' and met like this for over fifteen years.</p>

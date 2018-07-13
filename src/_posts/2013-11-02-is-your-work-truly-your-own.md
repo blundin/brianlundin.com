@@ -4,8 +4,8 @@ title: Is your work truly your own?
 redirect_from:
   - /?p=227
 date: '2013-11-02 10:00:14 -0500'
-categories:
-- Storytelling
+tags:
+- storytelling
 ---
 <p>How much ownership can an artist claim over their work, especially after it is in the public consciousness? I began to ponder this question after watching this really excellent cover of Led Zepplin's "Stairway to Heaven" at the Kennedy Center Honors.</p>
 <p><iframe src="//www.youtube.com/embed/JK_DOJa99oo" height="315" width="560" allowfullscreen="" frameborder="0"></iframe></p>

@@ -4,8 +4,8 @@ title: Four things storytellers can teach the church
 redirect_from: 
   - /?p=251
 date: '2014-01-13 09:25:56 -0600'
-categories:
-- Storytelling
+tags:
+- storytelling
 ---
 <p>Storytellers are teachers.  For generations, oral storytelling was the only method of learning and culture-making. For the ancient Greeks the stories of their gods carried the morals and norms for the culture and served as a civilizing force. In tour day, the power of narrative has been co-opted by every major political movement. <a href="http://en.wikipedia.org/wiki/Triumph_of_the_Will"><em>Triumph of the Will</em> is recognized as one of the greatest films in cinematic history</a>, and yet it was Nazi propaganda that helped Hitler secure his hold on power. But this truth also holds great power for good.</p>
 <p>C.S. Lewis strongly believed he was a teacher through stories, as we see in his defense of fairy tales for children. “Since it is so likely that they will meet cruel enemies," he said, "let them at least have heard of brave knights and heroic courage. . . Let there be wicked kings and beheadings, battles and dungeons, giants and dragons, and let villains be soundly killed at the end of the book.” He knew the power of words and ideas in young minds, and how those same ideas could be used decades later to fight the dragons of the modern age.</p>
