@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.24.5",
+    "child-process": "^1.0.2",
     "fancy-log": "^1.3.2",
     "gulp": "^4.0.0",
     "gulp-awspublish": "^3.3.3",
