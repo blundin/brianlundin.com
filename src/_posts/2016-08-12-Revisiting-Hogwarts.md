@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Revisiting Hogwarts
+subtitle: It’s unfortunate that the writers of *Harry Potter and the Cursed Child* didn’t heed the very lesson they tried to teach their protagonists.
 date: 2016-08-12
 description: It’s unfortunate that the writers to *Harry Potter and the Cursed Child* didn’t heed the very lesson they tried to teach their protagonists.
 ---
@@ -10,7 +11,7 @@ I kept thinking about this idea as I read *Harry Potter and the Cursed Child.* W
 
 For a work that is to my mind clearly *not* the “eighth Harry Potter Book,” this might be a harsh way to judge it. So let’s consider this post a *reaction*, rather than a review. I’ll have more to say later, but these are my first thoughts, unaffected by the opinions of other Potter fans.
 
-My first thought is that honestly, this is a work doesn’t need to exist.  Don’t get me wrong, I had fun reading it. It was nice to see old friends grown up and in new situations. But it was also like a strange high school reunion. It’s a disorienting experience to be reunited with people who you’ve known since your childhood and who you walked the most formative experiences of your life with. Everyone is the same, but different—and not always for the better. 
+My first thought is that honestly, this is a work doesn’t need to exist.  Don’t get me wrong, I had fun reading it. It was nice to see old friends grown up and in new situations. But it was also like a strange high school reunion. It’s a disorienting experience to be reunited with people who you’ve known since your childhood and who you walked the most formative experiences of your life with. Everyone is the same, but different—and not always for the better.
 
 At first reading, this story seemed to do the one thing I hoped it would not. It changes the way I see the canonical series ending. And I don’t think the change honors the original series.
 

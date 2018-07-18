@@ -6,6 +6,7 @@
 @import "variable_overrides";
 @import "bootstrap";
 
+/*--------- Site Strcuture -----------*/
 .site-title {
   font-weight: 500;
   font-size: 1.25rem;
@@ -13,7 +14,7 @@
   vertical-align: text-bottom;
 
   a {
-    color: black;
+    color: $gray-700;
   }
 
   a:hover {
@@ -63,6 +64,20 @@
   }
 }
 
+/*------------ Article layout ----------------*/
+
+article header h1 {
+  padding-top: .5rem;
+  padding-bottom: .75rem;
+}
+
+article header h2 {
+  color: $gray-500;
+  font-size: ($font-size-base * 1.2);
+  padding-bottom: .75rem;
+}
+
+/*------------ Article typography ------------*/
 blockquote {
   background-color: $gray-100;
 
@@ -73,8 +88,7 @@ blockquote {
   line-height: 1.5;
 }
 
-
-// Responsive stlye changes
+/*----------- Responsive stlye changes -----------*/
 @include media-breakpoint-up(sm) {
   .header-title {
     text-align: left;
@@ -87,5 +101,13 @@ blockquote {
 }
 
 @include media-breakpoint-up(md) {
+  article header h1 {
+    padding-top: 2.0rem;
+    padding-bottom: 1.5rem;
+  }
 
+  article header h2 {
+    font-size: ($font-size-base * 1.2);
+    padding-bottom: 1.5rem;
+  }
 }
