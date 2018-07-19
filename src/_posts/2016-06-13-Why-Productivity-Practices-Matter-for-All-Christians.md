@@ -11,6 +11,7 @@ Jesus was the most productive person ever. That might sound obvious to some, or 
 What do I mean when I say that? What’s my point? It’s simple really:
 
 > Jesus always did the right thing, with the right people, at the right time, and in the right way, always.
+{: .blockquote}
 
 When we learn to do the right things, with the right people, at the right time, and in the right way, we become *more* like Jesus. For the believer the end goal of improving our productivity is actually sanctification.
 

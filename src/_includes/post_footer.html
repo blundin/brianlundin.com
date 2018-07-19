@@ -1,8 +1,9 @@
-<div class="row">
+<div class="row post-footer">
   <div class="col-8">
     {% if page.date %}
-    <a href="https://twitter.com/share?url={{ site.url | append: page.url | url_encode | downcase }}&via=blundin" target="_blank">
-      <div class="social-icon twitter-icon">Share on Twitter</div>
+    Share this article<br/>
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="&quot;{{ page.title }}&quot; by @blundin - " data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
     </a>
     {% endif %}
   </div>

@@ -64,8 +64,34 @@
   }
 }
 
-/*------------ Article layout ----------------*/
+.site-footer {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
 
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: $gray-300;
+
+  background-color: $gray-100;
+
+  font-size: ($font-size-base * 0.8);
+
+  a {
+    color: $gray-600;
+  }
+
+  a:hover {
+    color: $primary;
+  }
+}
+
+.paginator-trail {
+  margin-top: 0rem;
+  padding-top: 0rem;
+  padding-bottom: 1.0rem;
+}
+
+/*------------ Article layout ----------------*/
 article header h1 {
   padding-top: .5rem;
   padding-bottom: .75rem;
@@ -75,6 +101,12 @@ article header h2 {
   color: $gray-500;
   font-size: ($font-size-base * 1.2);
   padding-bottom: .75rem;
+}
+
+.post-footer {
+  padding-bottom: 2.0rem;
+
+  font-size: ($font-size-base * 0.85);
 }
 
 /*------------ Article typography ------------*/

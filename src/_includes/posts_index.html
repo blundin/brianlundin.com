@@ -27,13 +27,7 @@
 <div class="row">
   <div class="col-16">
     {% if paginator.page_trail %}
-      <nav aria-label="Page navigation">
-        <ul class="pagination justify-content-center">
-          {% for trail in paginator.page_trail %}
-            <li class="page-item{% if page.url == trail.path %} active{% endif %}"><a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
+      {% include paginator_trail.html %}
     {% endif %}
   </div>
 </div>
