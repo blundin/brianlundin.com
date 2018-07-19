@@ -8,7 +8,7 @@ date: '2012-10-30 20:52:21 -0500'
 <h3 class="text-align-center">Do what makes you happy</h3>
 <p>Or, its corollary:</p>
 <h3 class="text-align-center">Follow your heart/feelings</h3>
-<p>I was prompted to consider this question by <a href="#">Rod Dreher's blog</a> where he quoted <a href="#" target="_blank">this post</a>. The question struck me hard because I realized this advice, this line of thinking, is the prevalent worldview of our day. And it is utterly destructive.</p>
+<p>I was prompted to consider this question by Rod Dreher's blog where he quoted this post. The question struck me hard because I realized this advice, this line of thinking, is the prevalent worldview of our day. And it is utterly destructive.</p>
 <p>Following this advice will wreck a marriage over time, or all in one moment. Following this advice will lead you to ignore your responsibilities and obligations. It will erode your sense of duty to family, community and even yourself. This advice will destroy you, and what you love.</p>
 <p>I'm sure some of you are not sold. I get it, it's a really hard sell these days. Everything in our society, philosophy, and media are telling you this is not true. They earnestly, and deftly, push the idea that if you would just follow your own feelings, and let others do the same, that we'd find ourselves in one big happy, tolerant culture-- and that everything would be fine.</p>
 <p>Just one problem; <em>it's all a lie</em>.</p>
