@@ -1,0 +1,9 @@
+---
+layout: default
+posts_index: false
+---
+{% for item in site.microblog %}
+  <h2>{{ item.content }}</h2>
+  <p>{{ item.date }}</p>
+  <hr/>
+{% endfor %}

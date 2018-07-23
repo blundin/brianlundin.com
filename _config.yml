@@ -24,6 +24,10 @@ sass:
   style: compressed
 safe: false
 
+# Collection is used for Microblogs
+collections:
+  - microblog
+
 # Pagination options
 pagination:
   trail:
@@ -39,7 +43,10 @@ autopages:
   categories:
     enabled: false
   collections:
-    enabled: false
+    layouts:
+      - 'microblog.html'
+    title: 'Microblogs' # :coll is replaced by the collection name
+    permalink: '/microblog/'
   tags:
     layouts:
       - 'tags.html'
