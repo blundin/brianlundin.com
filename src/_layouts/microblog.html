@@ -1,9 +1,15 @@
 ---
 layout: default
-posts_index: false
+pagination:
+  enabled: true
+  collection: microblog
+  debug: false
+  sort_reverse: true
 ---
-{% for item in site.microblog %}
-  <h2>{{ item.content }}</h2>
-  <p>{{ item.date }}</p>
+{% for post in paginator.posts %}
+  <div class="row microblog-post">
+    <div class="col-4"><div class="microblog-date">{{ post.date | date_to_string: "ordinal", "US" }}</div></div>
+    <div class="col-12"><div class="microblog-content">{{ post.content }}</div></div>
+  </div>
   <hr/>
 {% endfor %}
