@@ -23,7 +23,7 @@
   }
 }
 
-.site-subtitle {
+.site-subtitle-twitter-handle {
   font-weight: normal;
   font-size: 0.9rem;
 
@@ -47,6 +47,12 @@
 
 .header-title {
   text-align: center;
+  padding-bottom: 0px;
+}
+
+.header-subtitle {
+  font-size: ($font-size-base * 0.6);
+  text-align: center;
 }
 
 .header-nav {
@@ -54,6 +60,8 @@
 
   font-size: 0.85rem;
   font-weight: 500;
+
+  padding-top: 0.7rem;
 
   a {
     color: $gray-500;
@@ -129,6 +137,10 @@ blockquote {
   .header-nav {
     text-align: right;
     padding-top: 1.2rem;
+  }
+
+  .header-subtitle {
+    text-align: left;
   }
 }
 
