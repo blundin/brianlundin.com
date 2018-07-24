@@ -6,6 +6,18 @@
 @import "variable_overrides";
 @import "bootstrap";
 
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 5.0rem;
+  padding-bottom: 0rem;/* Margin bottom by footer height */
+}
+
 /*--------- Site Strcuture -----------*/
 .site-title {
   font-weight: 500;
@@ -72,9 +84,16 @@
   }
 }
 
-.site-footer {
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 5.0rem; /* Set the fixed height of the footer here */
+  line-height: 4.0; /* Vertically center the text there */
+  // background-color: #f5f5f5;
+
+  // padding-top: 1.5rem;
+  // padding-bottom: 1.5rem;
 
   border-top-style: solid;
   border-top-width: 1px;
