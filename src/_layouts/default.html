@@ -16,12 +16,17 @@
           {{ content }}
         </div>
       </div>
-      <div class="row">
-        <div class="col-16 site-footer">
-          {% include footer.html %}
+      <!--<div class="row">
+        <div class="col-16">
+
         </div>
-      </div>
+      </div>-->
     </div>
+    <footer class="footer">
+      <!-- <div class="container"> -->
+        {% include footer.html %}
+      <!-- </div> -->
+    </footer>
     {% include scripts.html %}
   </body>
 </html>
