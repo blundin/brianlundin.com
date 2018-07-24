@@ -6,10 +6,15 @@ pagination:
   debug: false
   sort_reverse: true
 ---
+<h1 class="microblog-page-title">Microblog</h1>
 {% for post in paginator.posts %}
-  <div class="row microblog-post">
-    <div class="col-4"><div class="microblog-date">{{ post.date | date_to_string: "ordinal", "US" }}</div></div>
-    <div class="col-12"><div class="microblog-content">{{ post.content }}</div></div>
+  <div class="row justify-content-center microblog-post">
+    <div class="col-14 col-sm-13 order-sm-2">
+      <div class="microblog-content">{{ post.content }}</div>
+    </div>
+    <div class="col-14 col-sm-3 order-sm-1">
+      <div class="microblog-date">{{ post.date | date_to_string }}</div>
+    </div>
   </div>
-  <hr/>
+
 {% endfor %}
