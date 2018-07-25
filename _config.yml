@@ -52,9 +52,11 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
 
+keep_files:
+  - js
+
 # Exclude from processing
 exclude:
-  - js
   - Gemfile
   - Gemfile.lock
   - gulpfile.js
