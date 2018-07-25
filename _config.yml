@@ -53,6 +53,7 @@ plugins:
 
 # Exclude from processing
 exclude:
+  - js
   - Gemfile
   - Gemfile.lock
   - gulpfile.js
