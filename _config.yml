@@ -41,6 +41,7 @@ autopages:
   collections:
     enabled: false
   tags:
+    enabled: true
     layouts:
       - 'tags.html'
     title: 'Posts tagged with :tag' # :tag is replaced by the tag name
