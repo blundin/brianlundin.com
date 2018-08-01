@@ -11,4 +11,3 @@ if (progress != null) {
     progress.style.setProperty('--scroll', scroll + '%');
   });
 }
-//testing
