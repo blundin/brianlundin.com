@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/blundin/jekyll-easy-images.git
+  revision: b0743eabc84c95e2e2a122415bc4742de459b2e4
+  branch: master
+  specs:
+    jekyll-easy-images (0.5.0)
+      jekyll (~> 3.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -91,6 +99,7 @@ PLATFORMS
 DEPENDENCIES
   html-proofer (~> 3.9.1)
   jekyll (~> 3.8.3)
+  jekyll-easy-images!
   jekyll-feed (~> 0.6)
   jekyll-paginate-v2 (~> 1.9.4)
 
