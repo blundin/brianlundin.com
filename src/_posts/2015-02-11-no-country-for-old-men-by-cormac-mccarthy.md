@@ -6,8 +6,6 @@ description:
 redirect_from:
   - /2015/02/11/no-country-for-old-men-by-cormac-mccarthy/
 ---
-<!--<img align="text-center" class="img-fluid" src="/images/posts/big-bend-desert.png" />-->
-<!-- ![The west Texas desert]({{ "/images/posts/big-bend-desert.png" | bootstrap_image }}) -->
 {% easy_image /images/posts/big-bend-desert.png %}
 
 It doesn't matter that Cormac McCarthy lives in Santa Fe, New Mexico, his work makes me think of him as a West Texan. West Texas, from El Paso, to Marfa, to Lubbock and Amarillo is a hard, dry land that will take everything from you in a heartbeat. But there is also rugged beauty and some of the best people on earth. It's a land with character,—and a murderous streak. I can't think of a better way to describe Cormac McCarthy's work, either.

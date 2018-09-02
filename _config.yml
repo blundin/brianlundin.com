@@ -47,10 +47,14 @@ autopages:
     title: 'Posts tagged with :tag' # :tag is replaced by the tag name
     permalink: '/:tag'
 
+easy_images:
+  responsive_image_class: "img-fluid"
+
 # Jekyll stuff
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-easy-images
 
 keep_files:
   - js
