@@ -3,9 +3,11 @@ layout: post
 title: "'Seeing Beauty and Saying Beautifully' by John Piper"
 summary: This is a subtitle that tells us what's going on in the story.
 date: 2015-02-15
-description: 
+description:
 redirect_from:
   - /2015/01/12/seeing-beauty-and-saying-beautifully-by-john-piper/index.html
+tags:
+  - writing
 ---
 <a href="http://www.amazon.com/gp/product/1433542943/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1433542943&amp;linkCode=as2&amp;tag=blundin-20&amp;linkId=DPZ27XWHO5JUO2FP"><em>Seeing Beauty and Saying Beautifully: The Power of Poetic Effort in the Work of George Herbert, George </em><i>Whitfield, and C.S. Lewis</i> by John Piper</a> is a short, powerful and inspiring shot to the heart for any lover of words and Jesus. It's one of the most fulfilling books I've read in a while, and one that left me wanting more.
 
