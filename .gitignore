@@ -3,4 +3,5 @@
 .sass-cache
 node_modules
 public
-.aws-cache
+.aws-staging-cache
+.aws-prod-cache
