@@ -55,6 +55,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-easy-images
+  - jekyll-redirect-from
 
 keep_files:
   - js
