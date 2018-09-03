@@ -5,7 +5,7 @@ redirect_from:
   - /?p=322
 date: '2014-03-17 09:30:55 -0500'
 ---
-<p class="text-center"><img src="/images/posts/Santa-Elena-Canyon.jpg" /></p>
+{% easy_image /images/posts/Santa-Elena-Canyon.jpg %}
 <p>We stood on the banks of the Rio Grande, just yards away from the threshold of the Santa Elena Canyon, with tears in our eyes. Without taking her eyes off the sunset in the canyon, my wife said to me, "I've never seen anything more beautiful." I agreed with her. And my heart leapt with praise for our God.</p>
 <blockquote><p>
   The heavens declare the glory of God,<br />
