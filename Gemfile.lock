@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/blundin/jekyll-easy-images.git
-  revision: 8bbe4f8fc6a57a7a8a7fe045d6da77fae91a946f
+  revision: 9deecc36f6d0749ac63c386d23141a303b8ebd57
   branch: master
   specs:
     jekyll-easy-images (0.5.0)
@@ -76,11 +76,11 @@ GEM
     parallel (1.12.1)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    public_suffix (3.0.2)
+    public_suffix (3.0.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    rouge (3.2.0)
+    rouge (3.2.1)
     ruby_dep (1.5.0)
     safe_yaml (1.0.4)
     sass (3.5.7)
