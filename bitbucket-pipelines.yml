@@ -1,7 +1,8 @@
 image: node:10.9.0
 
 pipelines:
-  default:
-    - step:
+  branches:
+    production:
+      - step:
         script:
-          - node -v
+          - echo "This only runs on the production branch"
