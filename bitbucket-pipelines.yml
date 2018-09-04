@@ -8,4 +8,4 @@ pipelines:
             - yarn global add gulp-cli
             - yarn install --production=false
             - bundle install
-            - gulp build
+            - gulp publish
