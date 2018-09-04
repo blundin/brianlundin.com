@@ -2,7 +2,7 @@ image: node:10.9.0
 
 pipelines:
   branches:
-    production:
+    publishing:
       - step:
         script:
           - echo "This only runs on the production branch"
