@@ -1,3 +1,5 @@
+image: node:10.9.0
+
 pipelines:
   default:
     - step:
