@@ -5,7 +5,7 @@ pipelines:
     publishing:
       - step:
           script:
-            - yarn global add culp-cli
+            - yarn global add gulp-cli
             - yarn install --production=false
             - bundle install
             - gulp build
