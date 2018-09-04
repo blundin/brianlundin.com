@@ -5,6 +5,6 @@ pipelines:
     publishing:
       - step:
           script:
-            - yarn install
+            - yarn install --production=false
             - bundle install
             - gulp build
