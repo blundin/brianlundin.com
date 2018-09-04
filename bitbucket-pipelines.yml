@@ -1,4 +1,4 @@
-image: starefossen/ruby-node:latest
+image: blundin/brianlundin_com:initial
 
 pipelines:
   branches:
