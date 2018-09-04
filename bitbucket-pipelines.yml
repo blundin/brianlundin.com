@@ -6,4 +6,5 @@ pipelines:
       - step:
           script:
             - yarn install
+            - bundle install
             - gulp build
