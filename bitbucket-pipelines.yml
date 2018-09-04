@@ -7,4 +7,4 @@ pipelines:
           script:
             - yarn install --production=false
             - bundle install
-            - gulp build
+            - jekyll build
