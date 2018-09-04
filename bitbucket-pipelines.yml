@@ -4,4 +4,4 @@ pipelines:
   default:
     - step:
         script:
-          - echo "I made a pipeline!"
+          - node -v
