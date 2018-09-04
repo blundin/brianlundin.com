@@ -1,8 +1,9 @@
-image: node:10.9.0
+image: starefossen/ruby-node:latest
 
 pipelines:
   branches:
     publishing:
       - step:
           script:
-            - npm install
+            - yarn install
+            -
