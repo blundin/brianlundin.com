@@ -4,5 +4,5 @@ pipelines:
   branches:
     publishing:
       - step:
-        script:
-          - echo "This only runs on the production branch"
+          script:
+            - npm install
