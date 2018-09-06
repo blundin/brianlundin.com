@@ -1,0 +1,11 @@
+image: blundin/brianlundin_com:initial
+
+pipelines:
+  branches:
+    publishing:
+      - step:
+          script:
+            - yarn global add gulp-cli
+            - yarn install --production=false
+            - bundle install
+            - gulp publish

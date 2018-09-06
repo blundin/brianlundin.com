@@ -5,14 +5,17 @@
     <!--[if lte IE 9]>
       <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
     <![endif]-->
+    {% if page.reading_progress != false %}
+      {% include reading_progress.html %}
+    {% endif %}
     <div class="container-fluid">
       <div class="row justify-content-center">
-        <div class="col-16 col-sm-16 col-md-14 col-lg-11 col-xl-9">
+        <div class="col-16 col-sm-16 col-md-14 col-lg-12 col-xl-8">
           {% include header.html %}
         </div>
       </div>
       <div class="row justify-content-center">
-        <div class="col-16 col-sm-16 col-md-14 col-lg-11 col-xl-9">
+        <div class="col-16 col-sm-16 col-md-14 col-lg-12 col-xl-8">
           {{ content }}
         </div>
       </div>

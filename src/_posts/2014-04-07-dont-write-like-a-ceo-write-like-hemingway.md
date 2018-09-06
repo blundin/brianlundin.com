@@ -4,6 +4,8 @@ title: Don't write like a CEO, write like Hemingway
 redirect_from:
   - /?p=327
 date: '2014-04-07 10:44:07 -0500'
+tags:
+  - writing
 ---
 <blockquote>My aim is to put down on paper what I see and what I feel in the best and simplest way.</p>
 <p>― Ernest Hemingway</p></blockquote>
