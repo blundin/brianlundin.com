@@ -3,6 +3,8 @@ layout: post
 title: Gospel storytelling requires conflict
 redirect_from: /2013/04/18/gospel-storytelling-requires-conflict/
 date: '2013-04-18 18:45:49 -0500'
+tags:
+  - writing
 ---
 <p>Conflict is the engine of good storytelling. As Christians, we should also understand that conflict is at the heart of the gospel. The proclamation of Christ’s victory over sin and death is good news precisely because mankind is locked in mortal conflict with sin. Without our sinful nature we would have no need for the mercy and grace Jesus’s victory secured. As the church, we need to remember this conflict honestly in order to rightly celebrate our deliverance.</p>
 <p class="p2"><span class="s1"><span class="Apple-tab-span">	</span>Gospel storytelling is the work of kingdom artists sharing stories of human sin and the redemption, healing, and response of God’s people through the gospel of Jesus Christ.&nbsp; When kingdom artists seek to show how the gospel changes the lives of believers, conflict must be front and center.</span></p>

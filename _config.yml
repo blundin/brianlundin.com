@@ -48,15 +48,24 @@ autopages:
     title: 'Microblogs' # :coll is replaced by the collection name
     permalink: '/microblog/'
   tags:
+    enabled: true
     layouts:
       - 'tags.html'
     title: 'Posts tagged with :tag' # :tag is replaced by the tag name
     permalink: '/:tag'
 
+easy_images:
+  responsive_image_class: "img-fluid"
+
 # Jekyll stuff
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-easy-images
+  - jekyll-redirect-from
+
+keep_files:
+  - js
 
 # Exclude from processing
 exclude:
