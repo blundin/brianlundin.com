@@ -43,10 +43,7 @@ autopages:
   categories:
     enabled: false
   collections:
-    layouts:
-      - 'microblog.html'
-    title: 'Microblogs' # :coll is replaced by the collection name
-    permalink: '/microblog/'
+    enabled: false
   tags:
     enabled: true
     layouts:
