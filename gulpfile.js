@@ -36,9 +36,9 @@ gulp.task('vendor-scripts', function(done) {
 gulp.task('app-scripts', function (done) {
   pump([
         gulp.src('src/js/*.js'),
-        sourcemaps.init(),
+        // sourcemaps.init(),
         uglify(),
-        sourcemaps.write('./'),
+        // sourcemaps.write('./'),
         gulp.dest('public/js')
     ],
     done
