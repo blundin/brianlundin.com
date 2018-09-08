@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="row">
+  <div class="col-16">
+    <h1 class="microblog-page-title">Microblog</h1>
+    {% for post in paginator.posts %}
+      <div class="row justify-content-center microblog-post">
+        <div class="col-14 col-sm-13 order-sm-2">
+          <div class="microblog-content">{{ post.content }}</div>
+        </div>
+        <div class="col-14 col-sm-3 order-sm-1">
+          <div class="microblog-date"><a href="{{ post.url }}">{{ post.date | date_to_string }}</a></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<div class="row">
+  <div class="col-16">
+    {% if paginator.page_trail %}
+      {% include paginator_trail.html %}
+    {% endif %}
+  </div>
+</div>
