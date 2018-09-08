@@ -14,6 +14,7 @@ My goals in building this site as a static HTML, CSS, and Javascript are straigh
 ## Dependencies
 
 There are a number of dependencies used in this project:
+
 - Bootstrap: front-end toolkit
 - Jekyll: static site generator
 - jekyll-easy-images: Jekyll plugin for making responsive images easy to use in blog posts
