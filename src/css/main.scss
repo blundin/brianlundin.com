@@ -91,7 +91,7 @@ body {
 .header-nav-row {
   border-bottom-color: $gray-300;
   border-bottom-style: solid;
-  border-bottom-width: 1px;
+  border-bottom-width: 0px;
 
   padding-bottom: 1rem;
 }
@@ -207,6 +207,10 @@ blockquote {
 
 /*----------- Responsive stlye changes -----------*/
 @include media-breakpoint-up(sm) {
+  .site-title {
+    font-size: 1.5rem;
+  }
+
   .header-title {
     text-align: left;
   }
