@@ -77,3 +77,8 @@ exclude:
   - vendor/ruby/
   - .ruby-version
   - .ruby-gemset
+  - bitbucket-pipelines.yml
+  - Dockerfile
+  - README.md
+  - LICENSE
+  - .gitignore
