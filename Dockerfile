@@ -1,4 +1,4 @@
-FROM starefossen/ruby-node
+FROM starefossen/ruby-node:2-8
 
 WORKDIR /app
 
