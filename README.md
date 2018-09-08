@@ -1,6 +1,6 @@
 # brianlundin.com
 
-This is the repository for my website at [brianlundin.com](https://brianlundin.com). The site is a static site built using [Jekyll](https:.\//jekyllrb.com) and [Bootstrap](https://getbootstrap.com). Maybe you will find it useful in setting up your own site.
+This is the repository for my website at [brianlundin.com](https://brianlundin.com). The site is a static site built using [Jekyll](https://jekyllrb.com) and [Bootstrap](https://getbootstrap.com). Maybe you will find it useful in setting up your own site.
 
 ## Goals
 
@@ -16,7 +16,7 @@ My goals in building this site as a static HTML, CSS, and Javascript are straigh
 There are a number of dependencies used in this project:
 
 - [Bootstrap](https://getbootstrap.com): front-end toolkit
-- [Jekyll](https:.\//jekyllrb.com): static site generator
+- [Jekyll](https://jekyllrb.com): static site generator
 - [jekyll-easy-images](https://github.com/blundin/jekyll-easy-images): Jekyll plugin for making responsive images easy to use in blog posts
 - [Gulp](https://gulpjs.com): a really handy Javascript-based build system
 - Several Gulp plugins to manage the build process
