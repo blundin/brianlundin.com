@@ -27,4 +27,4 @@ pipelines:
             - gulp staging
 definitions:
   caches:
-    aws: 
+    aws: aws-caches
