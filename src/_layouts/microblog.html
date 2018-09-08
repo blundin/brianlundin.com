@@ -1,11 +1,4 @@
 ---
 layout: default
 ---
-<div class="row justify-content-center microblog-post">
-  <div class="col-14 col-sm-13 order-sm-2">
-    <div class="microblog-content">{{ page.content }}</div>
-  </div>
-  <div class="col-14 col-sm-3 order-sm-1">
-    <div class="microblog-date">{{ page.date | date_to_string }}</div>
-  </div>
-</div>
+{% include microblog_post.html %}
