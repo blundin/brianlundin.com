@@ -12,9 +12,6 @@ pipelines:
             - export PRODUCTION_ACCESS_KEY=$PRODUCTION_ACCESS_KEY
             - export PRODUCTION_SECRET_ACCESS_KEY=$PRODUCTION_SECRET_ACCESS_KEY
             - export AWS_REGION=$AWS_REGION
-            - yarn global add gulp-cli
-            - yarn install --production=false
-            - bundle install
             - gulp publish
     staging:
       - step:
@@ -23,7 +20,4 @@ pipelines:
             - export STAGING_ACCESS_KEY=$STAGING_ACCESS_KEY
             - export STAGING_SECRET_ACCESS_KEY=$STAGING_SECRET_ACCESS_KEY
             - export AWS_REGION=$AWS_REGION
-            - yarn global add gulp-cli
-            - yarn install --production=false
-            - bundle install
-            - gulp publish
+            - gulp staging
