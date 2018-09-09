@@ -1,22 +1,23 @@
 sudo: required
 
 language: node
+
 node_js:
-  - "10"
-
-services:
-  - docker
-
-branches:
-  only:
-  - development
+  - 10.9.0
 
 before_install:
-  - docker login --username $DOCKER_USERNAME --password $DOCKER_PASSWORD
-  - docker pull blundin/brianlundin_com:latest
-  - docker ps -a
-  - docker run -d blundin/brianlundin_com /bin/sh -c "yarn add gulp-cli; gulp publish;"
+  - rvm install 2.5.1
+  - sudo apt-key adv --fetch-keys http://dl.yarnpkg.com/debian/pubkey.gpg
+  - echo "deb http://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+  - sudo apt-get update -qq
+  - sudo apt-get install -y -qq yarn=1.9.4
+cache:
+  yarn: true
+
+install:
+  - yarn global add gulp-cli
+  - yarn install --production=false --ignore-optional
+  - bundle install
 
 script:
-  - yarn add gulp-cli
   - gulp publish
