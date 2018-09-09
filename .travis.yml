@@ -15,7 +15,7 @@ before_install:
   - docker login --username $DOCKER_USERNAME --password $DOCKER_PASSWORD
   - docker pull blundin/brianlundin_com:latest
   - docker ps -a
-  docker run -d blundin/brianlundin_com /bin/sh -c "yarn add gulp-cli; gulp publish;"
+  - docker run -d blundin/brianlundin_com /bin/sh -c "yarn add gulp-cli; gulp publish;"
 
 script:
   - yarn add gulp-cli
