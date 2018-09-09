@@ -20,4 +20,4 @@ install:
   - bundle install
 
 script:
-  - gulp publish
+  - gulp staging
