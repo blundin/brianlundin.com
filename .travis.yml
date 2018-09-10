@@ -11,6 +11,10 @@ before_install:
 
 cache:
   yarn: true
+  bundler: true
+  directories:
+    - /node_modules/
+    - /aws-caches/
 
 install:
   - yarn install --production=false --ignore-optional
