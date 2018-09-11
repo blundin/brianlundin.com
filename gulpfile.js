@@ -1,4 +1,5 @@
 'use strict';
+require('dotenv').config({path: './config.env'})
 
 var gulp = require('gulp');
 
@@ -35,9 +36,9 @@ gulp.task('vendor-scripts', function(done) {
 gulp.task('app-scripts', function (done) {
   pump([
         gulp.src('src/js/*.js'),
-        sourcemaps.init(),
+        // sourcemaps.init(),
         uglify(),
-        sourcemaps.write('./'),
+        // sourcemaps.write('./'),
         gulp.dest('public/js')
     ],
     done
@@ -90,18 +91,17 @@ gulp.task('serve', function() {
 });
 
 gulp.task('staging', function(done) {
-
   // create a new publisher using S3 options
   // http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#constructor-property
   var publisher = awspublish.create({
-    region: 'us-east-1',
+    region: process.env.AWS_REGION,
     params: {
-      Bucket: 'staging.brianlundin.com'
+      Bucket: process.env.STAGING_BUCKET
     },
-    accessKeyId: '***REMOVED***',
-    secretAccessKey: '***REMOVED***'
+    accessKeyId: process.env.STAGING_ACCESS_KEY,
+    secretAccessKey: process.env.STAGING_SECRET_ACCESS_KEY
   }, {
-    cacheFileName: '.aws-staging-cache'
+    cacheFileName: 'aws-caches/.aws-staging-cache'
   });
 
   // define custom headers
@@ -129,18 +129,17 @@ gulp.task('staging', function(done) {
 });
 
 gulp.task('production', function(done) {
-
   // create a new publisher using S3 options
   // http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#constructor-property
   var publisher = awspublish.create({
-    region: 'us-east-1',
+    region: process.env.AWS_REGION,
     params: {
-      Bucket: 'brianlundin.com'
+      Bucket: process.env.PRODUCTION_BUCKET
     },
-    accessKeyId: '***REMOVED***',
-    secretAccessKey: '***REMOVED***'
+    accessKeyId: process.env.PRODUCTION_ACCESS_KEY,
+    secretAccessKey: process.env.PRODUCTION_SECRET_ACCESS_KEY
   }, {
-    cacheFileName: '.aws-prod-cache'
+    cacheFileName: 'aws-caches/.aws-production-cache'
   });
 
   // define custom headers

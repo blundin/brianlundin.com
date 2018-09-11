@@ -1,17 +1,51 @@
-<ul class="nav justify-content-center">
-  <li class="nav-item">
-    <a class="nav-link active" href="/">Home</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link active" href="/microblog/">Microblog</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/">All Topics</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="hire-me.html">Contact</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="/about.html">About</a>
-  </li>
-</ul>
+<div class="container">
+  <div class="row justify-content-md-center">
+    <div class="col-5 col-md-4 col-lg-4 col-xl-3">
+      <h6><a class="h-card" rel="me" href="https://brianlundin.com">Brian Lundin</a></h6>
+      <ul class="nav flex-column">
+        <li class="nav-item">
+          <script language="JavaScript">
+            var username = "brian";
+            var hostname = "brianlundin.com";
+            var linktext = username + "@" + hostname ;
+            document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "' rel='me' class='nav-link'>" + linktext + "</a>");
+          </script>
+        </li>
+        <li class="nav-item">
+          <a href="https://code.brianlundin.com" class="nav-link">My tech blog</a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-5 col-md-4 col-lg-4 col-xl-3">
+      <h6>More</h6>
+      <ul class="nav flex-column">
+        <li class="nav-item">
+          <a class="nav-link" href="/">All Topics</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="/microblog/index.html" rel="me">Microblog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="hire-me.html">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/about.html">About</a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-5 col-md-4 col-lg-4 col-xl-3">
+      <h6>Follow Me</h6>
+      <ul class="nav flex-column">
+        <li class="nav-item">
+          <a href="https://twitter.com/blundin" rel="me" class="nav-link">Twitter</a>
+        </li>
+        <li class="nav-item">
+          <a href="https://www.instagram.com/blundin/" rel="me" class="nav-link">Instagram</a>
+        </li>
+        <li class="nav-item">
+          <a href="https://github.com/blundin" rel="me" class="nav-link">Github</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

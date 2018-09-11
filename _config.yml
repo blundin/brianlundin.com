@@ -24,11 +24,31 @@ sass:
   style: compressed
 safe: false
 
-# Collection is used for Microblogs
 collections:
-  - microblog
+  microblog:
+    output: true
+#   posts:
+#     output: false
 
-# Pagination options
+autopages:
+  enabled: true
+  categories:
+    enabled: false
+  collections:
+    enabled: false
+    collection: microblog
+    layouts:
+      - 'microblog_index.html'
+    slugify:
+      mode: 'ascii'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+  tags:
+    enabled: true
+    layouts:
+      - 'tags.html'
+    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/:tag'
+
 pagination:
   trail:
     before: 3 # The number of links before the current page
@@ -37,22 +57,6 @@ pagination:
   debug: false
   per_page: 5
   sort_reverse: true
-
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    layouts:
-      - 'microblog.html'
-    title: 'Microblogs' # :coll is replaced by the collection name
-    permalink: '/microblog/'
-  tags:
-    enabled: true
-    layouts:
-      - 'tags.html'
-    title: 'Posts tagged with :tag' # :tag is replaced by the tag name
-    permalink: '/:tag'
 
 easy_images:
   responsive_image_class: "img-fluid"
@@ -80,3 +84,8 @@ exclude:
   - vendor/ruby/
   - .ruby-version
   - .ruby-gemset
+  - bitbucket-pipelines.yml
+  - Dockerfile
+  - README.md
+  - LICENSE
+  - .gitignore
