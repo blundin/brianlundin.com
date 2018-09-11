@@ -5,6 +5,10 @@ language: node_js
 node_js:
   - "10"
 
+branches:
+  only:
+  - development
+
 before_install:
   - rvm install 2.5.1
   - yarn global add gulp-cli
