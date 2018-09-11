@@ -24,5 +24,11 @@ install:
   - yarn install --production=false --ignore-optional
   - bundle install
 
-script:
-  - gulp staging
+jobs:
+  include:
+    - stage: staging-job
+      if: branch = development OR branch = staging
+      script: gulp staging
+    - stage: publishing-job
+      if: branch = publishing
+      script: gulp publish
