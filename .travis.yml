@@ -8,6 +8,7 @@ node_js:
 branches:
   only:
   - development
+  - publishing
 
 before_install:
   - rvm install 2.5.1
@@ -23,7 +24,7 @@ cache:
 
 install:
   - yarn install --production=false --ignore-optional
-  - bundle install --path=vendor/bundle
+  - bundle install --deployment
 
 jobs:
   include:
