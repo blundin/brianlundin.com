@@ -19,9 +19,11 @@ cache:
   directories:
     - /node_modules/
     - /aws-caches/
+    - /vendor/bundle/
 
 install:
   - yarn install --production=false --ignore-optional
+  - bundle install --path=vendor/bundle
 
 jobs:
   include:
