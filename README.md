@@ -4,7 +4,7 @@ This is the repository for my website at [brianlundin.com](https://brianlundin.c
 
 ## Goals
 
-My goals in building this site as a static HTML, CSS, and Javascript are straightforward:
+My goals creating my website as a static HTML, CSS, and Javascript site are straightforward:
 
 1. I want to code my site myself to maintain control over the quality of the HTML and what dependencies are used
 2. I do not want to mess with complicated hosting setups
