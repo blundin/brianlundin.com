@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/blundin/jekyll-easy-images.git
+  remote: https://github.com/blundin/jekyll-easy-images.git
   revision: 9deecc36f6d0749ac63c386d23141a303b8ebd57
   branch: master
   specs:

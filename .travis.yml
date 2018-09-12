@@ -1,19 +1,36 @@
 sudo: required
 
-language: node
+os: osx
+language: node_js
 node_js:
   - "10"
-
-services:
-  - docker
 
 branches:
   only:
   - development
+  - publishing
 
 before_install:
-  - docker pull blundin/brianlundin_com:latest
-  - docker run -d blundin/brianlundin_com /bin/sh -c "yarn add gulp-cli; gulp publish;"
+  - rvm install 2.5.1
+  - yarn global add gulp-cli
 
-script:
-  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME"
+cache:
+  yarn: true
+  bundler: true
+  directories:
+    - /node_modules/
+    - /aws-caches/
+    - /vendor/bundle/
+
+install:
+  - yarn install --production=false --ignore-optional
+  - bundle install
+
+jobs:
+  include:
+    - stage: staging-job
+      if: branch = development OR branch = staging
+      script: gulp staging
+    - stage: publishing-job
+      if: branch = publishing
+      script: gulp publish
