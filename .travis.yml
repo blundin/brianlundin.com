@@ -24,7 +24,7 @@ cache:
 
 install:
   - yarn install --production=false --ignore-optional
-  - bundle install --deployment
+  - bundle install
 
 jobs:
   include:
