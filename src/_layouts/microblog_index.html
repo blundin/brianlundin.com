@@ -14,7 +14,7 @@ layout: default
           <div class="microblog-content rounded">{{ post.content | markdownify }}</div>
         </div>
         <div class="col-14 col-sm-3 order-sm-1">
-          <div class="microblog-date"><a href="{{ post.url }}">{{ post.date | date_to_string }}</a></div>
+          <div class="microblog-date"><a href="{{ post.url }}">&rarr;&nbsp;{{ post.date | date_to_string }}</a></div>
         </div>
       </div>
     {% endfor %}
