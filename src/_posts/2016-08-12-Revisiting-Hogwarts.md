@@ -4,8 +4,7 @@ title: Revisiting Hogwarts
 subtitle: It’s unfortunate that the writers of *Harry Potter and the Cursed Child* didn’t heed the very lesson they tried to teach their protagonists.
 date: 2016-08-12
 description: It’s unfortunate that the writers to *Harry Potter and the Cursed Child* didn’t heed the very lesson they tried to teach their protagonists.
-tags:
-  - writing
+category: writing
 ---
 You can never go home again.
 

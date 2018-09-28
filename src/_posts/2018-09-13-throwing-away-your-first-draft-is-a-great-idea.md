@@ -4,7 +4,7 @@ title: Throwing Away Your First Draft Is a Great Idea
 subtitle: On the occasion of throwing out the first 14,000 words of a manuscript
 date: 2018-09-13 14:52:03 -0500
 description: On the occasion of throwing out the first 14,000 words of a manuscript
-tags: writing
+category: writing
 ---
 
 Last month I shared the 8,000 of 14,000 words of a new project with my writing group. It was the first two chapters of a novel, just the beginning of the story really. With these two chapters I’d taken a risk. I tried something interesting and—at least to my mind—unique. I was excited about it, and I had high hopes for it. I really wanted it to work. But of course, it didn’t.
