@@ -11,16 +11,13 @@ branches:
   - master
 
 before_install:
-  - rvm install 2.5.1
   - yarn global add gulp-cli
 
 cache:
   yarn: true
   bundler: true
   directories:
-    - /node_modules/
     - /aws-caches/
-    - /vendor/bundle/
 
 install:
   - yarn install --production=false --ignore-optional

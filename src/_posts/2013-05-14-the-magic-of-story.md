@@ -7,7 +7,7 @@ redirect_from:
 date: '2013-05-14 17:11:06 -0500'
 tags:
   - storytelling
-  - writing
+category: writing
 ---
 <p class="p1">I'm stuck in the tense space between authorial intent and reader response. And that’s okay.</p>
 <p class="p1"><span class="s1"><em>&lt;Well, there go any non-lit geeks. If you're still here, hang with me, I promise I am going somewhere.&gt;</em></span></p>

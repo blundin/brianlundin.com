@@ -4,8 +4,7 @@ title: How to be a writer
 redirect_from:
   - /?p=341
 date: '2014-05-05 09:25:32 -0500'
-tags:
-  - writing
+category: writing
 ---
 <p>We use the word 'writer' as a noun, as a job description, but really we use it as an honorific title. Those of us who love the written word struggle with how to bestow this title. We look at that word, 'writer', and see so many things. We see books on shelves, we see interviews in <a href="http://www.theparisreview.org">The Paris Review</a>, we see a mythic figure, from whose mind springs whole new worlds. For many of us, we see a writer as one who has written, and one whose work was read and approved of by those who matter.</p>
 <p>But, there are big differences amongst those who we could call writers. From the New York Times best-selling author, to the humble self-publisher who no one reads, we naturally see authors on a spectrum and only deem those above a certain point to be "writers." And the ones who are the worst about this, who judge success—or lack thereof—most harshly, and hold back the title most stingily are the people who aspire to the title themselves. I don't think we should look at the word that way.</p>
