@@ -8,7 +8,7 @@ node_js:
 branches:
   only:
   - development
-  - master=
+  - master
 
 before_install:
   - rvm install 2.5.1
