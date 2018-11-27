@@ -3,8 +3,7 @@ layout: post
 title: Why Productivity Practices Matter for All Christians
 date: 2016-06-13
 description: When we learn to do the right things, with the right people, at the right time, and in the right way, we become more like Jesus. For the believer the end goal of improving our productivity is actually sanctification.
-tags:
-  - productivity
+category: productivity
 ---
 Jesus was the most productive person ever. That might sound obvious to some, or trivial to others, but I believe that truth is incredibly important to believers living in the modern world.
 

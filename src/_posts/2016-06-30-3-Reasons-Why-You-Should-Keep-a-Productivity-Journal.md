@@ -3,8 +3,7 @@ layout: post
 title: 3 Reasons Why You Should Keep a Productivity Journal
 date: 2016-06-27
 description: Why is keeping a productivity journal so important for me? Why do I think everyone who is interested in growth and productivity should keep a journal? I keep a journal for three simple reasons.
-tags:
-  - productivity
+category: productivity
 ---
 Every day at 4pm, my phone dings with a reminder to write a journal entry. And (almost) every day I stop what I am doing and take a few moments to write about my day. It’s a simple act, but it is a crucial part of my productivity practice.
 

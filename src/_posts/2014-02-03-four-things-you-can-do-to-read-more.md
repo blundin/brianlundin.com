@@ -4,8 +4,7 @@ title: Four things you can do to read more
 redirect_from:
   - /?p=292
 date: '2014-02-03 03:15:35 -0600'
-tags:
-  - productivity
+category: productivity
 ---
 <p>A common refrain I hear from many of my friends is a desire to read more. I get it. I have a long list of unfinished books, and a longer list of those I want to read.</p>
 <p>The fact is, that for any writer, aspiring or established, the importance of reading is paramount. A writer does not create out of nothing, but uses the material he knows as compost for growing new ideas. For this reason, I want to increase my reading time significantly. Over the last several months I have done so.</p>

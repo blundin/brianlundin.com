@@ -4,8 +4,7 @@ title: Better tools won't make you a better writer
 redirect_from:
   - /?p=317
 date: '2014-03-03 09:20:54 -0600'
-tags:
-  - writing
+category: writing
 ---
 <p>The newest and fanciest writing tools will not help you to become a more effective, efficient and creative writer. A new piece of software or new notebook alone can't make your writing better.</p>
 <p>Let's be honest, good tools are great. Tools help writers out. They can help us out a lot, in fact. But good tools won't make you a good writer. They can make you more efficient or faster, and they may even make your words look better on the screen or page. But they won't make the work better. Only two things will do that: work and time. Together.</p>

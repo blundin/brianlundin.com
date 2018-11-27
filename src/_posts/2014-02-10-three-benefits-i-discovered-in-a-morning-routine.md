@@ -4,8 +4,7 @@ title: Three benefits I discovered in a morning routine
 redirect_from:
   - /?p=298
 date: '2014-02-10 09:17:39 -0600'
-tags:
-  - productivity
+category: productivity
 ---
 <p>This year, I found a powerful ally in the battle to be productive. Routine. Last week I let my routine go, and the impact was not small.</p>
 <p>I was quite sick, and it killed my morning routine. My wife can attest that I am a terrible patient. When I get sick it's as if the world is ending. I'm sluggish, cranky and very lethargic. It's not pretty, and I know it's a fault, but there it is. Last week I was particularly affected in the mornings. Usually by the afternoon I was able to focus on work and be somewhat normal. Before noon though? Forget about it.</p>
