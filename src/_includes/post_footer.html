@@ -3,8 +3,6 @@
     {% if page.date %}
     Share this article<br/>
     <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="&quot;{{ page.title }}&quot; by @blundin - " data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-    </a>
     {% endif %}
   </div>
   <div class="col-8 text-right">
@@ -15,6 +13,12 @@
         </span>
       </div>
     {% endif %}
-    <div class="" {% if page.date %}itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}" {% endif %}>{% if page.date %}{{ page.date | date: "%b %-d, %Y" }}{% else %}{{ post.date | date: "%b %-d, %Y" }}{% endif %}</div>
+    <div {% if page.date %}itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}" {% endif %}>
+      <a href="{{site.url}}{{page.url}}" class="u-url">
+        {% if page.date %}{{ page.date | date: "%b %-d, %Y" }}<div style="visibility: hidden;"><time class="dt-published">{{page.date}}</time></div>
+        {% else %}{{ post.date | date: "%b %-d, %Y" }}<div style="visibility: hidden;"><time class="dt-published">{{post.date}}</time></div>
+        {% endif %}
+      </a>
+    </div>
   </div>
 </div>
