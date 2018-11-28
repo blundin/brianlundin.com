@@ -12,10 +12,7 @@ branches:
 
 before_install:
   - yarn global add gulp-cli
-
-after_install:
-  - bundle show --paths
-
+  
 cache:
   yarn: true
   bundler: true
@@ -28,7 +25,7 @@ jobs:
   include:
     - stage: staging-job
       if: branch = development OR branch = staging
-      script: gulp staging
+      script: gulp staging && bundle show --paths
     - stage: publishing-job
       if: branch = master
       script: gulp publish
