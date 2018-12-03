@@ -6,3 +6,9 @@
 <!-- Place favicon.ico in the root directory -->
 <!--<link rel="apple-touch-icon" href="icon.png">-->
 <link rel="stylesheet" href="{{ '/css/main.css' | cdn }}" type="text/css">
+{% if page.url == "/index.html" %}
+  {% include homepage_head.html %}
+{% endif %}
+{% if page.url == "/microblog/index.html" %}
+  {% include microblog_homepage_head.html %}
+{% endif %}
