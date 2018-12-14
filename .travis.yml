@@ -10,12 +10,14 @@ branches:
   - development
   - master
 
-before_install:
-  - yarn global add gulp-cli
-  
 cache:
   yarn: true
   bundler: true
+  directories:
+    - /Users/travis/.rvm/
+
+before_install:
+  - yarn global add gulp-cli
 
 install:
   - yarn install --production=false --ignore-optional
