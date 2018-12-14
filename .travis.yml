@@ -27,7 +27,7 @@ jobs:
   include:
     - stage: staging-job
       if: branch = development OR branch = staging
-      script: gulp staging && bundle show --paths
+      script: gulp staging
     - stage: publishing-job
       if: branch = master
       script: gulp publish
