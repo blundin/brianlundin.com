@@ -35,7 +35,7 @@ gulp.task('vendor-scripts', function(done) {
 
 gulp.task('app-scripts', function (done) {
   pump([
-        gulp.src('src/js/*.js'),
+        gulp.src('src/js/main.js'),
         // sourcemaps.init(),
         uglify(),
         // sourcemaps.write('./'),
@@ -47,11 +47,11 @@ gulp.task('app-scripts', function (done) {
 
 // Jekyll builds the site after watching files
 gulp.task('jekyll-build-and-watch', function() {
-  const jekyll = child.spawn('jekyll', ['build',
-    '--watch',
-    '--incremental',
-    '--drafts'
-  ]);
+  const jekyll = child.spawn('jekyll',
+    ['build',
+      '--watch',
+      '--incremental',
+      '--drafts']);
 
   const jekyllLogger = (buffer) => {
     buffer.toString()
@@ -64,7 +64,7 @@ gulp.task('jekyll-build-and-watch', function() {
 });
 
 gulp.task('jekyll-build', function(done) {
-  exec('jekyll build', function (err, stdout, stderr) {
+  exec('JEKYLL_ENV=production jekyll build', function (err, stdout, stderr) {
     console.log(stdout);
     console.log(stderr);
     done(err);
@@ -165,6 +165,11 @@ gulp.task('production', function(done) {
      // print upload updates to console
     .pipe(awspublish.reporter(), done);
 });
+
+gulp.task('jekyll-env', function(done) {
+
+});
+
 
 gulp.task('js', gulp.series('lint', 'vendor-scripts', 'app-scripts'));
 gulp.task('build', gulp.series('jekyll-build', 'js'));

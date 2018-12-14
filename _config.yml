@@ -28,7 +28,6 @@ collections:
   microblog:
     output: true
 
-
 autopages:
   enabled: true
   categories:
@@ -62,6 +61,13 @@ pagination:
 
 easy_images:
   responsive_image_class: "img-fluid"
+
+webmentions:
+  username: brianlundin.com
+  collections:
+    - microblog
+  cache_folder: .cache
+  cache_bad_uris_for: 5
 
 # Jekyll stuff
 plugins:

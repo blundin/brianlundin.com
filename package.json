@@ -26,6 +26,7 @@
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify": "^3.0.1",
     "gulp-watch": "^5.0.1",
+    "gulp-spawn": "^0.4.4",
     "jshint": "^2.9.5"
   }
 }
