@@ -15,6 +15,8 @@ cache:
   bundler: true
   directories:
     - /Users/travis/.rvm/
+    - $HOME/src/.cache
+    - $HOME/aws-caches
 
 before_install:
   - yarn global add gulp-cli
