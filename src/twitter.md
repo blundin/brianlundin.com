@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About
-reading_progress: true
+reading_progress: false
 ---
