@@ -166,11 +166,6 @@ gulp.task('production', function(done) {
     .pipe(awspublish.reporter(), done);
 });
 
-gulp.task('jekyll-env', function(done) {
-
-});
-
-
 gulp.task('js', gulp.series('lint', 'vendor-scripts', 'app-scripts'));
 gulp.task('build', gulp.series('jekyll-build', 'js'));
 gulp.task('serve', gulp.parallel('jekyll-build-and-watch', 'js', 'serve'));
