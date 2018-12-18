@@ -4,7 +4,7 @@ title: What I'm Doing Now
 date: 2018-12-18
 description: The current state of work, life, etc.
 ---
-Life is hectic, and there are always more projects than time. This page contains both the things that I am focusing on right now and general life updates. If you have your own website, [you should consider adding a "now page" too](https://nownownow.com/about).
+Life is hectic, and there are always more projects than time. This page contains both the things that I am focusing on right now and general life updates. If you have your own website, [you should consider adding a "now" page too](https://nownownow.com/about).
 
 *Updated: 12/18/2018*
 
