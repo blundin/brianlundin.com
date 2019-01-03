@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A Reading Plan for 2019
+title: A Reading Plan for 2019 📚
 subtitle: The process is more important than the outcome
 date: 2019-01-02 19:56:47 -0600
 description: A new reading plan for 2019, focused on the process.
-categories: 
+categories: books
 tags: reading
 ---
 
@@ -18,7 +18,7 @@ The goal of my plan for this year is not to list out specific books I must read,
 
 As I have gotten older it’s been increasingly hard to find time to read. From childhood through college reading for fun was always high on the list of what filled my free time. But as I got out of school and into a career that time started to drain away. Then, as the internet, smartphones, and social media began to loom larger I gave up even more reading time. Finally adding the weighty roles of husband and father filled up the last bit of margin. So this year I must work to find the time.
 
-My relationship with Jesus, my family, my ministry, and my writing are the things that really matter. These are the responsibilities and commitments that actually move the needle in terms of making my time count. From that understanding, what needs to be eliminated or reduced becomes obvious: social media, time wasted on devices, and any excess screen time. I will write about how I am going to approach this in detail later, but this is where I must find time to accomplish my plan. 
+My relationship with Jesus, my family, my ministry, and my writing are the things that really matter. These are the responsibilities and commitments that actually move the needle in terms of making my time count. From that understanding, what needs to be eliminated or reduced becomes obvious: social media, time wasted on devices, and any excess screen time. I will write about how I am going to approach this in detail later, but this is where I must find time to accomplish my plan.
 
 Finally, a key requirement of finding the time to read is that it cannot take time away from the discipline of reading my Bible daily. If my morning routine is disrupted, the first thing I will read each day will be the Bible.
 
@@ -59,6 +59,6 @@ In the end, my 2019 plan is simple:
 - Always have one active book in both the Pleasure and Research categories
 - Publish a short reaction/review for each book I complete
 
-I am not setting a “goal” of a certain number of books for each month or the year, and I don’t have a set list. Just this set of priorities and a list of books I will build out by category. If I can follow this process somewhat regularly I will be a much more active reader than I have been the last couple of years. 
+I am not setting a “goal” of a certain number of books for each month or the year, and I don’t have a set list. Just this set of priorities and a list of books I will build out by category. If I can follow this process somewhat regularly I will be a much more active reader than I have been the last couple of years.
 
 And honestly that’s a big deal, because I miss it.

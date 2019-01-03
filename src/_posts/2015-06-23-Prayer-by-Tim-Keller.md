@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "'Prayer' by Tim Keller"
+title: "'Prayer' by Tim Keller 📚"
 date: 2015-06-23
 description: Turns out audiobooks and non-fiction don't mix well for me.
+categories: books
+tags: reading
 redirect_from:
   - /2015/06/23/prayer-by-tim-keller/
 ---
