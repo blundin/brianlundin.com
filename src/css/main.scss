@@ -136,10 +136,24 @@ body {
 }
 
 /*------------ Article layout ----------------*/
+article {
+  a {
+    text-decoration: underline;
+  }
+}
+
 article header h1 {
   padding-top: .5rem;
   padding-bottom: 0rem;
   margin-bottom: 0rem;
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
 }
 
 article header h2 {
@@ -175,6 +189,7 @@ article header h2 {
 
   a {
     color: $gray-500;
+    text-decoration: underline;
   }
 
   a:hover {

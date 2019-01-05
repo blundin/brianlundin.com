@@ -3,8 +3,7 @@ layout: post
 title: "'Writing A Novel with Ulysses' by David Hewson 📚"
 date: 2015-05-24
 description: I learned alot from this about using a new tool, even if it was not an exciting read.
-categories: books
-tags: reading
+categories: reading
 redirect_from:
   - /2015/05/24/writing-a-novel-with-ulysses-iii-by-david-hewson/
 ---

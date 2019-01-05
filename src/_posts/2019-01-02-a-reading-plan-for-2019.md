@@ -4,8 +4,7 @@ title: A Reading Plan for 2019 📚
 subtitle: The process is more important than the outcome
 date: 2019-01-02 19:56:47 -0600
 description: A new reading plan for 2019, focused on the process.
-categories: books
-tags: reading
+categories: reading
 ---
 
 In the past I’ve set reading goals, but I’ve never really succeeded in them. Whether it was a goal of a number of books or a specific list, I’ve never been able to set a single plan and follow it for a full year. But, as with most practices that matter, the value is in the process not the results. So for 2019 I have yet another reading plan.
