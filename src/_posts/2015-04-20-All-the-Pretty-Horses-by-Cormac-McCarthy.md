@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "'All the Pretty Horses' by Cormac McCarthy"
+title: "'All the Pretty Horses' by Cormac McCarthy 📚"
 date: 2015-04-20
+categories: books
+tags: reading
 description: In John Grady's travels and travails we find the dying cries of the Old West.
 ---
 > He’d never touched her and her hand was small and her waist so slight and she looked at him with great forthrightness and smiled and put her face against his shoulder. They turned under the lights. A long trumpet note guided the dancers on their separate and collective paths. Moths circled the paper lights aloft and the goathawks passed down the wires and flared and arced upward into the darkness again.

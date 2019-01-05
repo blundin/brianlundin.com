@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "'Seeing Beauty and Saying Beautifully' by John Piper"
+title: "'Seeing Beauty and Saying Beautifully' by John Piper 📚"
 summary: This is a subtitle that tells us what's going on in the story.
 date: 2015-02-15
 description:
+categories: books
+tags: reading
 redirect_from:
   - /2015/01/12/seeing-beauty-and-saying-beautifully-by-john-piper/index.html
 category: writing

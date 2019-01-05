@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "'It's All Too Much' by Peter Walsh"
+title: "'It's All Too Much' by Peter Walsh 📚"
 redirect_from:
   - /?p=363
+categories: books
+tags: reading
 date: '2015-01-08 09:30:32 -0600'
 ---
 <p>The first book I finished for my goal of 35 books in 2015 was <a href="http://www.amazon.com/gp/product/0743292650/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0743292650&amp;linkCode=as2&amp;tag=blundin-20&amp;linkId=SU5BCBKMJDL7IXQL">'It's All Too Much' by Peter Walsh</a>. I never would have chosen this book on my own. From the cheesy cover to the author's sweet spot of helping hoarders, it strikes me as a book I just don't need to read. Enter <a href="https://twitter.com/hotdogsladies">Merlin Mann</a>, <a href="http://www.merlinmann.com">gentleman about the Internet</a>.</p>

@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "'No Country for Old Men' by Cormac McCarthy"
+title: "'No Country for Old Men' by Cormac McCarthy 📚"
 date: 2015-02-11
 description:
+categories: books
+tags: reading
 redirect_from:
   - /2015/02/11/no-country-for-old-men-by-cormac-mccarthy/
 ---

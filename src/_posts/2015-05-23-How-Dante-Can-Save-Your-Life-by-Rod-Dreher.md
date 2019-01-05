@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "'How Dante Can Save Your Life' by Rod Dreher"
+title: "'How Dante Can Save Your Life' by Rod Dreher 📚"
 date: 2015-05-23
+categories: books
+tags: reading
 description: You don’t have to know anything about Dante or his *Divine Comedy* to read and appreciate this book. Rod’s careful treatment and plain-spoken approach make it an approachable experience for all readers.
 ---
 I was really skeptical about [Rod Dreher’s new book *How Dante Can Save Your Life*](http://amzn.to/1T47LQL). When he started writing about it on his blog I wasn’t interested—at all. I started skipping posts about Dante. After being deeply affected by his two previous books I was not even going to read this one.

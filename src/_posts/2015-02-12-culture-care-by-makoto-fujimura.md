@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "'Culture Care' by Makoto Fujimura"
+title: "'Culture Care' by Makoto Fujimura 📚"
 date: 2015-02-12
 description:
+categories: books
+tags: reading
 redirect_from:
   - /2015/02/12/culture-care-by-makoto-fujimura/
 ---
