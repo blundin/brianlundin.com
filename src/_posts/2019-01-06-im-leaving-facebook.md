@@ -1,10 +1,10 @@
 ---
 layout: post
-title: I'm Leaving Facebook
+title: Why I'm Leaving Facebook
 subtitle: The costs associated with the free social platform are just too high
 date: 2019-01-06 10:47:37 -0600
 description: The costs of the free social platform are just too high.
-categories: 
+categories:
 tags: social-media
 ---
 
@@ -14,7 +14,7 @@ I’ve read many people lately who are making the same decision over concerns ab
 
 My goal is not to make a convert out of you. I’m not looking to spark a boycott or any sort of public demonstration. This post is to explain my thinking and maybe prompt you to think about your relationship with this company. That is all.
 
-The issue I have with Facebook is cut and dried: [They know too much about us](https://www.axios.com/facebook-personal-data-scope-suer-privacy-de15c860-9153-45b6-95e8-ddac8cd47c34.html) (even if [you *don’t* have an account](https://www.theguardian.com/technology/2018/apr/17/facebook-admits-tracking-users-and-non-users-off-site)), and [they lie about what they do with that data](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html). 
+The issue I have with Facebook is cut and dried: [They know too much about us](https://www.axios.com/facebook-personal-data-scope-suer-privacy-de15c860-9153-45b6-95e8-ddac8cd47c34.html) (even if [you *don’t* have an account](https://www.theguardian.com/technology/2018/apr/17/facebook-admits-tracking-users-and-non-users-off-site)), and [they lie about what they do with that data](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html).
 
 Over the course of 2018, [we learned a lot about how Facebook really operates, and it generated numerous scandals](https://www.nbcnews.com/tech/tech-news/facebook-s-2018-timeline-scandals-hearings-security-bugs-n952796). Not only does Facebook follow you all over the web, track what you read, watch, and listen to, they also know what you purchase, where you go, and who you hang out with. Facebook has built a surveillance infrastructure that rivals in reach and depth anything George Orwell or the CIA could have dreamt up. And they have convinced us all to willingly hand over this information. Every day, millions of people share private and intimate details of their lives with this company.
 
