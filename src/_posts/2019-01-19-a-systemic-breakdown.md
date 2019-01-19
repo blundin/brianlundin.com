@@ -4,7 +4,7 @@ title: A Systemic Breakdown
 subtitle: Rebooting a whole life is hard, but when the systems break down there is no other choice.
 tags: year-of-rebooting
 category: productivity
-date: 2019-01-19
+date: 2019-01-19 10:22:01 -0600
 description: Rebooting a whole life is hard, but when the systems break down there is no other choice.
 link: 
 ---
