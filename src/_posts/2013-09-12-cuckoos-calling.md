@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Cuckoo's Calling
-redirect_to: 
+redirect_to:
   - /?p=132
   - /2013/09/12/cuckoos-calling/
 date: '2013-09-12 10:00:21 -0500'
+categories: reading
 ---
 <p>Many writers would sacrifice a lot to have a name like J.K. Rowling. "Think of all the books I would sell if I was well-known," they say to themselves. It turns out that Ms. Rowling found this fame a bit constricting. For her second post-Potter book she bailed on the idea of recognition and took a time-tested route, the pseudonym.</p>
 <p>Published under the name 'Robert Galbraith', <em>Cuckoo's Calling</em> is an entertaining story of Cormoran Strike, an amputee and military police veteran-turned private investigator. Upon the tale's opening he is hired by the brother of a recently deceased supermodel. Her death appears to be a clear suicide, but the brother has his doubts. After serendipitously gaining a plucky sidekick on the form of Robin, a temp secretary with a secret fascination with the idea of the PI life, the story is off and running.</p>

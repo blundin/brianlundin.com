@@ -4,7 +4,7 @@ title: Why I'm Leaving Facebook
 subtitle: The costs associated with the free social platform are just too high
 date: 2019-01-06 10:47:37 -0600
 description: The costs of the free social platform are just too high.
-categories:
+categories: technology
 tags: social-media
 ---
 

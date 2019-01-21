@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Review: God in the Gallery'
-redirect_from: 
+redirect_from:
   - /2013/07/29/2013728review-god-in-the-gallery/
   - /2013/07/29/review-god-in-the-gallery/
 date: '2013-07-29 03:49:01 -0500'
+cateories: reading
 ---
 <p><em style="line-height: 1.6em;"><a href="http://www.amazon.com/gp/product/0801031842/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0801031842&amp;linkCode=as2&amp;tag=blundin-20">God in the Gallery</a> </em><span style="line-height: 1.6em;">is exactly what the subtitle claims, ‘a Christian embrace of modern art’. Daniel A. Siedell embraces the contemporary art world, and will bring the willing reader along with him.</span></p>
 <p class="MsoNormal">I am a layperson when it comes to contemporary art. I have no training or degrees, but I love to engage with modern art and artists.  I am a big fan of abstract expressionism, I love the aesthetic sensibilities of the Futurists, and pop art, With Warhol in the lead, is a fascinating and fun world. But my true art love is the paintings of Mark Rothko.</p>

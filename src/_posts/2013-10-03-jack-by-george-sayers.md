@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "'Jack' by George Sayers"
-redirect_from: 
+redirect_from:
   - /?p=165
   - /2013/10/03/jack-by-george-sayers/
 date: '2013-10-03 13:03:32 -0500'
+categories: reading
 ---
 <p>I finished <em><a href="http://www.amazon.com/gp/product/1581347391/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1581347391&amp;linkCode=as2&amp;tag=blundin-20">Jack: A Life of C. S. Lewis</a></em> by George Sayers earlier this week, and I genuinely loved it. This book should have already joined the many biographies in my library. Honestly, I cannot say why I have not read it earlier, because it was right up my alley.</p>
 <p><a href="http://www.amazon.com/gp/product/1581347391/ref=as_li_ss_il?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1581347391&amp;linkCode=as2&amp;tag=blundin-20"><img class="alignleft" style="border: 0px;" alt="" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=1581347391&amp;Format=_SL160_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=blundin-20" width="104" height="160" border="0" /></a><img style="border: none !important; margin: 0px !important;" alt="" src="http://ir-na.amazon-adsystem.com/e/ir?t=blundin-20&amp;l=as2&amp;o=1&amp;a=1581347391" width="1" height="1" border="0" />Sayers was a pupil of Lewis at Oxford, and subsequently became a close friend. This depiction of Lewis benefits from his first hand knowledge of the man. It paints an intimate picture of the man, complete with his flaws and foibles as well as his virtues. To my eyes it is not an unctuous portrayal that seeks to polish a friend's reputation, but rather a measured view of the man through research, seasoned with personal knowledge. It was delightful.</p>
