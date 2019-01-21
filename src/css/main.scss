@@ -71,7 +71,6 @@ body {
   text-align: center;
 
   font-size: 0.85rem;
-  font-weight: 500;
 
   padding-top: 0.7rem;
 
@@ -82,11 +81,14 @@ body {
   a:hover {
     color: $primary;
     text-decoration: underline;
+    background-color: transparent;
   }
 }
 
 .nav-text {
   margin-left: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
 }
 
 .header-nav-row {

@@ -1,19 +1,74 @@
 <div class="row">
   <div class="col-16">
     <div class="row align-items-center header-nav-row">
-      <div class="col-16 col-sm-7">
+      <div class="col-16 col-sm-6">
         <div class="row">
           <div class="col-16 header-title">
             <div class="text-nowrap site-title"><a href="/" class="">Brian Lundin</a>&nbsp;<a class="site-subtitle-twitter-handle" href="https://twitter.com/blundin">@blundin</a></div>
           </div>
         </div>
       </div>
-      <div class="col-16 col-sm-9">
-        <nav class="nav header-nav justify-content-center justify-content-sm-end">
-          <a class="nav-link nav-text" href="/writing/index.html">Writing</a>
-          <a class="nav-link nav-text" href="/productivity/index.html">Productivity</a>
-          <a class="nav-link nav-text" href="/about.html">About</a>
-        </nav>
+      <div class="col-16 col-sm-10">
+        <!-- default -->
+        <ul class="nav header-nav justify-content-center justify-content-sm-end d-flex d-md-none">
+          <li class="nav-item dropdown nav-text">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Topics</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item nav-text" href="/writing/index.html">Writing</a>
+              <a class="dropdown-item nav-text" href="/productivity/index.html">Productivity</a>
+              <a class="dropdown-item nav-text" href="#">Reading</a>
+              <a class="dropdown-item nav-text" href="#">Technology</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/now.html">Now</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/about.html">About</a>
+          </li>
+        </ul>
+        <!-- md & up -->
+        <ul class="nav header-nav justify-content-center justify-content-sm-end d-none d-md-flex d-lg-none">
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/writing/index.html">Writing</a>
+          </li>
+          <li class="nav-item dropdown nav-text">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More Topics</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item nav-text" href="/productivity/index.html">Productivity</a>
+              <a class="dropdown-item nav-text" href="#">Reading</a>
+              <a class="dropdown-item nav-text" href="#">Technology</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/now.html">Now</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/about.html">About</a>
+          </li>
+        </ul>
+        <!-- lg & up -->
+        <ul class="nav header-nav justify-content-center justify-content-sm-end d-none d-lg-flex">
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/writing/index.html">Writing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/productivity/index.html">Productivity</a>
+          </li>
+          <li class="nav-item dropdown nav-text">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">More Topics</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item nav-text" href="#">Reading</a>
+              <a class="dropdown-item nav-text" href="#">Technology</a>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/now.html">Now</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link nav-text" href="/about.html">About</a>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
