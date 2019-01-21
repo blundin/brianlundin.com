@@ -9,7 +9,7 @@
       </div>
     {% endif %}
     <div {% if page.date %}itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}" {% endif %}>
-      <a href="{{site.url}}{{page.url}}" class="u-url">
+      <a href="{{post.url}}" class="u-url">
         {% if page.date %}{{ page.date | date: "%b %-d, %Y" }}<div style="visibility: hidden;"><time class="dt-published">{{page.date}}</time></div>
         {% else %}{{ post.date | date: "%b %-d, %Y" }}<div style="visibility: hidden;"><time class="dt-published">{{post.date}}</time></div>
         {% endif %}

@@ -5,7 +5,8 @@
         <header>
           <h1>
             {% if post.link %}
-              <a href="{{ post.link }}">&rarr;&nbsp;{{ post.title | markdownify }}</a>
+              {% capture link_title %}&rarr;&nbsp;{{ post.title }}{% endcapture %}
+              <a href="{{ post.link }}">{{ link_title | markdownify }}</a>
             {% else %}
               <a href="{{ post.url }}">{{ post.title | markdownify }}</a>
             {% endif %}
