@@ -17,7 +17,7 @@ The novel manuscript has been on the back burner through all of this, and I don�
 
 ### Ministry
 
-My [Story Team](https://austinstone.org/stories)) work is moving along well. We are getting to the final stages on my first documentary film, and our written stories are close to kicking off for the Spring. The most exciting thing for me is a project we are kicking off next week to overhaul and standardize our creative production processes. Nerdy, I know. But it’s in my wheelhouse and I love this stuff!
+My [Story Team](https://austinstone.org/stories) work is moving along well. We are getting to the final stages on my first documentary film, and our written stories are close to kicking off for the Spring. The most exciting thing for me is a project we are kicking off next week to overhaul and standardize our creative production processes. Nerdy, I know. But it’s in my wheelhouse and I love this stuff!
 
 The [Writer Development Program](https://www.austinstoneinstitute.org/what-we-do/development-programs/wdp/) is in full swing again, and I love coaching and teaching in it. I’m starting to plan for poetry month in April, but I’m also excited about next month where our topic is collaboration. It’s going to be a lot of fun.
 
