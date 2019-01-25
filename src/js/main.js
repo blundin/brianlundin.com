@@ -1,3 +1,11 @@
+var toast_options = {
+  animation: true,
+  autohide: false,
+  delay: 0
+}
+$('.toast').toast(toast_options)
+$('#subscription_toast').toast('show')
+
 var h = document.documentElement,
   b = document.body,
   st = 'scrollTop',

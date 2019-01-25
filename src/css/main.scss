@@ -250,6 +250,13 @@ blockquote {
   z-index: 1;
 }
 
+/*------------- Subscription popup ----------------*/
+#subscription_toast {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
 /*----------- Responsive stlye changes -----------*/
 @include media-breakpoint-up(sm) {
   .site-title {
