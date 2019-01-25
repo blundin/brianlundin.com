@@ -3,7 +3,7 @@ layout: post
 title: Goodbye Facebook, Hello Web!
 subtitle: I’m leaving Facebook soon, and here is how to keep up with me
 date: 2019-01-25 14:40:03 -0600
-description: I’m leaving Facebook soon, so here are six ways to keep up with me.
+description: I’m leaving Facebook soon, so here are five ways to keep up with me.
 categories:
 tags: social-media
 ---
@@ -34,15 +34,6 @@ The advantage to this platform—and why I’ve been an early supporter—is tha
 Follow [@blundin on Twitter](https://twitter.com/blundin).
 
 I don’t love Twitter, but until Micro.blog gains wide adoption or blogs come back, this is the best way to get posts from my blog out into the world. I will be scaling back my time on this site, but *all* of my blog posts and posts to Micro.blog will be posted there automatically. If you follow me there, you will see everything I publish. But seriously, please consider Micro.blog too.
-
-### Email me
-
-You can always email me at <script>
-            var username = "brian";
-            var hostname = "brianlundin.com";
-            var linktext = username + "@" + hostname ;
-            document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "' rel='me' class='nav-link u-email'>Email me</a>");
-          </script>. I know, it seems really old-fashioned, but I will reply!
 
 ### Sign up for our monthly family update
 
