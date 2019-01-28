@@ -3,8 +3,8 @@ layout: post
 title: Goodbye Facebook, Hello Web!
 subtitle: I’m leaving Facebook soon, and here is how to keep up with me
 date: 2019-01-25 14:40:03 -0600
-description: I’m leaving Facebook soon, so here are six ways to keep up with me.
-categories: 
+description: I’m leaving Facebook soon, so here are five ways to keep up with me.
+categories:
 tags: social-media
 ---
 [As I posted earlier this month, I am leaving Facebook soon](https://brianlundin.com/blog/im-leaving-facebook.html).  I will be deleting my existing Facebook and Instagram accounts soon. If you are interested in why, you can read the post linked above. But, I will still be writing and posting on the web! I know that given the dominance of Facebook I will most likely lose touch with almost everyone that follows me on those platforms, but that’s okay. However, I know some folks will want to keep in touch (and I’m glad you do!), so I want to make that easy for you. So here are six ways to keep in touch once I am no longer on Facebook.
@@ -35,13 +35,9 @@ Follow [@blundin on Twitter](https://twitter.com/blundin).
 
 I don’t love Twitter, but until Micro.blog gains wide adoption or blogs come back, this is the best way to get posts from my blog out into the world. I will be scaling back my time on this site, but *all* of my blog posts and posts to Micro.blog will be posted there automatically. If you follow me there, you will see everything I publish. But seriously, please consider Micro.blog too.
 
-### Email me
-
-You can always email me at . I know, it seems really old-fashioned, but I will reply!
-
 ### Sign up for our monthly family update
 
-Finally, if you want to know what’s going on in our family’s life, I am starting a private email list just for that purpose. We’ll send email updates once a month about what’s going on with our family. We’d love to have you sign up. Please make sure to sign up with your name, so we can see who you are. 
+Finally, if you want to know what’s going on in our family’s life, I am starting a private email list just for that purpose. We’ll send email updates once a month about what’s going on with our family. We’d love to have you sign up. Please make sure to sign up with your name, so we can see who you are.
 
 [Sign up for the Lundin Family Updates here.](http://eepurl.com/gfgu_5)
 
