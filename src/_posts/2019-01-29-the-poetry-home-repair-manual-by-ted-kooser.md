@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *The Poetry Home Repair Manual* by Ted Kooser 📚
+title: _The Poetry Home Repair Manual_ by Ted Kooser 📚
 subtitle: A joyful read that’s full of insight for new poets—and readers of poetry
 date: 2019-01-29 21:23:59 -0600
 description: The Poetry Home Repair Manual is a joyful read that’s full of insight for poets—and readers of poetry.
@@ -9,7 +9,7 @@ tags: poetry
 ---
 {% easy_image /images/posts/kooser_repair_manual.jpg %}
 
-Ted Kooser was Poet Laureate of The United States from 2004-2006. He is a professor of English at The University of Nebraska-Lincoln, although for years he worked as an executive in the insurance industry (because even the best poets must have day jobs). He’s a Pulitzer Prize-winner and has published many collections of poetry. And with [*The Poetry Home Repair Manual* he wrote one of the most approachable, practical, and joyful books on writing poetry that I’ve yet run across](https://amzn.to/2WuLFOr). 
+Ted Kooser was Poet Laureate of The United States from 2004-2006. He is a professor of English at The University of Nebraska-Lincoln, although for years he worked as an executive in the insurance industry (because even the best poets must have day jobs). He’s a Pulitzer Prize-winner and has published many collections of poetry. And with [*The Poetry Home Repair Manual* he wrote one of the most approachable, practical, and joyful books on writing poetry that I’ve yet run across](https://amzn.to/2WuLFOr).
 
 A friend of mine recommended this book to me a while back when I started writing poetry, and I was intrigued by the title right away. Who writes a book for beginning poets and styles the name as a home repair manual? Well, only a few pages in, I got it. The book *is* a repair manual. In it, Kooser will not teach you the basics of verse, rhyme, or rhythm. He does not lecture about forms. Of course, this is all ground that he covers, and he covers it well. But it's not academic or theoretical. Instead he approaches poetry as he would a broken lawnmower or dishwasher. He helps the reader see what’s wrong, and then instructs you how to fix it by demonstrating *how* the thing is supposed to work. This unusual title is actually perfect for this book.
 
