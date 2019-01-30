@@ -4,7 +4,9 @@ title: _The Poetry Home Repair Manual_ by Ted Kooser 📚
 subtitle: A joyful read that’s full of insight for new poets—and readers of poetry
 date: 2019-01-29 21:23:59 -0600
 description: The Poetry Home Repair Manual is a joyful read that’s full of insight for poets—and readers of poetry.
-categories: reading
+categories:
+  - reading
+  - writing
 tags: poetry
 ---
 {% easy_image /images/posts/kooser_repair_manual.jpg %}
