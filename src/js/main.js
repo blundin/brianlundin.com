@@ -4,7 +4,22 @@ var toast_options = {
   delay: 0
 }
 $('.toast').toast(toast_options)
-$('#subscription_toast').toast('show')
+
+var not_dismissed = true;
+var not_shown = true;
+$(window).scroll(function() {
+    if (not_dismissed) {
+      if (not_shown) {
+        if ($(window).scrollTop() > 200) {
+          $('#subscription_toast').toast('show');
+          not_shown = false;
+        }
+        else {
+          $('#subscription_toast').toast('hide');
+        }
+      }
+    }
+});
 
 var h = document.documentElement,
   b = document.body,
