@@ -13,10 +13,18 @@
       target="popupwindow"
       onsubmit="window.open('https://buttondown.email/blundin', 'popupwindow')"
       class="embeddable-buttondown-form">
-      <p>Sign up now to follow the most interesting things I read, like, and occasionally write.</p>
-      <input type="email" name="email" id="bd-email">
+      <div class="form-row">
+        <div class="col">Sign up now to follow the most interesting things I read, like, and occasionally write.</div>
+      </div>
+      <div class="form-row">
+        <div class="col-11">
+          <input type="email" name="email" class="form-control form-control-sm" id="bd-email">
+        </div>
+        <div class="col-2">
+          <input type="submit" class="btn btn-secondary btn-sm" value="Subscribe" />
+        </div>
+      </div>
       <input type="hidden" value="1" name="embed"/>
-      <input type="submit" value="Subscribe" />
     </form>
   </div>
 </div>
