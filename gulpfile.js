@@ -90,7 +90,7 @@ gulp.task('serve', function() {
   });
 });
 
-gulp.task('staging', function(done) {
+gulp.task('publish-staging', function(done) {
   // create a new publisher using S3 options
   // http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#constructor-property
   var publisher = awspublish.create({
@@ -128,7 +128,7 @@ gulp.task('staging', function(done) {
     .pipe(awspublish.reporter(), done);
 });
 
-gulp.task('production', function(done) {
+gulp.task('publish-production', function(done) {
   // create a new publisher using S3 options
   // http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#constructor-property
   var publisher = awspublish.create({
@@ -169,6 +169,6 @@ gulp.task('production', function(done) {
 gulp.task('js', gulp.series('lint', 'vendor-scripts', 'app-scripts'));
 gulp.task('build', gulp.series('jekyll-build', 'js'));
 gulp.task('serve', gulp.parallel('jekyll-build-and-watch', 'js', 'serve'));
-gulp.task('staging', gulp.series('build', 'staging'));
-gulp.task('publish', gulp.series('build', 'production'));
+gulp.task('staging', gulp.series('build', 'publish-staging'));
+gulp.task('publish', gulp.series('build', 'publish-production'));
 gulp.task('default', gulp.series('build'));
