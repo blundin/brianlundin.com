@@ -10,7 +10,7 @@ var not_shown = true;
 $(window).scroll(function() {
     if (not_dismissed) {
       if (not_shown) {
-        if ($(window).scrollTop() > 500) {
+        if ($(window).scrollTop() > 450) {
           $('#subscription_toast').toast('show');
           not_shown = false;
         }
