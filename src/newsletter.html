@@ -4,8 +4,8 @@ pagination:
   enabled: false
 reading_progress: false
 ---
-<h1>Subscribe to my newsletter!</h1>
 
+<h1>Subscribe to my newsletter!</h1>
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/blundin"
   method="post"
@@ -13,11 +13,10 @@ reading_progress: false
   onsubmit="window.open('https://buttondown.email/blundin', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email">
-  <input type="hidden" value="1" name="embed"/>
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-  </p>
+  <div class="form-group">
+    <label for="bd-email">Enter your email</label>
+    <input type="email" name="email" class="form-control" id="bd-email">
+    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+  </div>
+  <input type="submit" class="btn btn-primary" value="Subscribe" />
 </form>
