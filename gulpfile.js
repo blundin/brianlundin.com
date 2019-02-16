@@ -100,8 +100,8 @@ gulp.task('staging', function(done) {
     },
     accessKeyId: process.env.STAGING_ACCESS_KEY,
     secretAccessKey: process.env.STAGING_SECRET_ACCESS_KEY
-  }, {
-    cacheFileName: 'aws-caches/.aws-staging-cache'
+  // }, {
+  //   cacheFileName: 'aws-caches/.aws-staging-cache'
   });
 
   // define custom headers
@@ -138,8 +138,8 @@ gulp.task('production', function(done) {
     },
     accessKeyId: process.env.PRODUCTION_ACCESS_KEY,
     secretAccessKey: process.env.PRODUCTION_SECRET_ACCESS_KEY
-  }, {
-    cacheFileName: 'aws-caches/.aws-production-cache'
+  // }, {
+  //   cacheFileName: 'aws-caches/.aws-production-cache'
   });
 
   // define custom headers
