@@ -29,7 +29,8 @@ gulp.task('vendor-scripts', function(done) {
                   './node_modules/popper.js/dist/umd/popper.min.js',
                   './node_modules/bootstrap/dist/js/bootstrap.min.js.map',
                   './node_modules/jquery/dist/jquery.min.map',
-                  './node_modules/popper.js/dist/umd/popper.min.js.map'])
+                  './node_modules/popper.js/dist/umd/popper.min.js.map',
+                  './node_modules/js-cookie/src/js.cookie.js'])
     .pipe(gulp.dest('./public/js/vendor'), done);
 });
 
