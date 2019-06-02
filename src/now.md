@@ -11,13 +11,15 @@ Life is hectic, and there are always more projects than time. This page contains
 
 ### Writing
 
-I am a few weeks into a novel project that I started after my last update here. The longer fiction project is still on the backburner, and I am totally fine with it. This new project is fun and I have a story idea I love.
+I am a few weeks into a novel project that I started after my last update here. The longer fiction project that's been in the works for a while is still on the backburner, and I am totally fine with it. This new project is fun and I have a story idea I love.
 
 The blog has not been a priority and probably won't be for awhile. And I'm okay with that, too.
 
 ### Ministry
 
 [Story Team](http://austinstone.org/stories/) is in the midst of renewing our volunteers and considering applications for next year. This is a fun time of year to hear what God is doing in our artists lives and meet new artists. It takes a lot of energy, but I do love it.
+
+The first year of the [Writer Development Program](https://www.austinstoneinstitute.org/what-we-do/development-programs/wdp/) is over, and I cannot believe how faithful God has been to us this year. We had wonderful students, great teachers, and my fellow coaches and leaders were amazing to work with. I am so thankful for what God has done this past year, and I am excited to continue to be a part of it next year.
 
 ### Family
 
