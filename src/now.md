@@ -7,24 +7,20 @@ reading_progress: false
 ---
 Life is hectic, and there are always more projects than time. This page contains both the things that I am focusing on right now and general life updates. If you have your own website, [you should consider adding a "now" page too](https://nownownow.com/about).
 
-*Updated: 1/19/2019*
+*Updated: 6/2/2019*
 
 ### Writing
 
-Writing has been a struggle over the last month as our new baby arrived and the holidays came and went. I did start writing more on this site as [I kicked off the “Year of Rebooting”](/blog/year-of-rebooting.html).  One of my aims this year is to post more to the blog, about both writing and my productivity and creative practices.
+I am a few weeks into a novel project that I started after my last update here. The longer fiction project that's been in the works for a while is still on the backburner, and I am totally fine with it. This new project is fun and I have a story idea I love.
 
-The novel manuscript has been on the back burner through all of this, and I don’t know when this spring I will pick it back up. And, as usually happens this time of year, my eyes are on [the Austin Film Festival script contest](https://austinfilmfestival.com/submit/). After placing in the second round a few years ago, I really want to take some time to enter again.
+The blog has not been a priority and probably won't be for awhile. And I'm okay with that, too.
 
 ### Ministry
 
-My [Story Team](https://austinstone.org/stories) work is moving along well. We are getting to the final stages on my first documentary film, and our written stories are close to kicking off for the Spring. The most exciting thing for me is a project we are kicking off next week to overhaul and standardize our creative production processes. Nerdy, I know. But it’s in my wheelhouse and I love this stuff!
+[Story Team](http://austinstone.org/stories/) is in the midst of renewing our volunteers and considering applications for next year. This is a fun time of year to hear what God is doing in our artists lives and meet new artists. It takes a lot of energy, but I do love it.
 
-The [Writer Development Program](https://www.austinstoneinstitute.org/what-we-do/development-programs/wdp/) is in full swing again, and I love coaching and teaching in it. I’m starting to plan for poetry month in April, but I’m also excited about next month where our topic is collaboration. It’s going to be a lot of fun.
-
-Finally, I’m enrolled in two seminary courses right now. I’m finishing up a winter session course on Bible exposition, and doing a mentored internship in the Spring on discipleship. I’m really looking forward to the experience!
+The first year of the [Writer Development Program](https://www.austinstoneinstitute.org/what-we-do/development-programs/wdp/) is over, and I cannot believe how faithful God has been to us this year. We had wonderful students, great teachers, and my fellow coaches and leaders were amazing to work with. I am so thankful for what God has done this past year, and I am excited to continue to be a part of it next year.
 
 ### Family
 
-Our family is doing great! Our oldest daughter is starting to get over her jealousy of the new baby, and the baby is still acting like an angel. We’ll take it for as long as we have it!
-
-Lindsey is working to finalize a contract on an exciting new book project, and we could not be happier! She is an amazing editor, and she is really getting some great chances to stretch those muscles and edit some great stuff. More news on that soon!
+Family is good. Life is hard at times with a two year old and a six month old, but we love it. This past week we were reading *The Jesus Storybook Bible* and Lily started talking about Jesus's "owies" and how people were mean to him and put him on a cross. I can't describe the feeling and do it justice. I just can't.
