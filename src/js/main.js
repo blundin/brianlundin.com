@@ -5,25 +5,32 @@ var toast_options = {
   delay: 0
 };
 
-$('.toast').toast(toast_options)
-
 // logic for when to show subscription toast
-var not_dismissed = true;
 var not_shown = true;
 var dismissed_today = false;
 
-if (Cookies.get('toast_dismissed')) {
-  dismissed_today = true;
+updateCookies();
+
+function updateCookies(){
+  if (Cookies.get('toast_dismissed')) {
+    dismissed_today = true;
+  }
 }
+
+$('.toast').toast(toast_options)
 
 // Called when user closes the email subscription toast
 $('.toast').on('hide.bs.toast', function (e) {
   var dateDismissed = new Date();
+  Cookies.set('date_dismissed', dateDismissed, {expires: 1});
+
+  dismissed_today = true;
   Cookies.set('toast_dismissed', '1', { expires: 1 });
 });
 
 $(window).scroll(function() {
-    if (not_dismissed && not_shown) {
+    updateCookies()
+    if (!dismissed_today && not_shown) {
       if ($(window).scrollTop() > 450) {
         $('#subscription_toast').toast('show');
         not_shown = false;
@@ -31,9 +38,8 @@ $(window).scroll(function() {
       else {
         $('#subscription_toast').toast('hide');
       }
-  }
+    }
 });
-
 
 // Animation and control script for reading progress bar
 var h = document.documentElement,
