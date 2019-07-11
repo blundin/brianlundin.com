@@ -8,3 +8,82 @@ pagination:
   per_page: 20
 reading_progress: false
 ---
+<div class="row justify-content-center pt-3 pb-4">
+  <div class="col-11 col-lg-12 text-center">
+    <h1>The Narrative</h1>
+  </div>
+</div>
+<div class="row justify-content-center">
+  <div class="col-11 col-lg-12 text-center">
+    <h6 class="font-weight-light">The Narrative is a newsletter about stories, creativity, and culture. Sign up now for insight on creativity and the stories that shape our faith and culture. </h6>
+  </div>
+</div>
+<div class="row justify-content-center">
+  <div class="col-14 col-sm-12 col-md-10">
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/thenarrative"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/thenarrative', 'popupwindow')"
+      class="form-inline"
+      >
+      <div class="form-group w-100">
+        <div class="input-group mb-3 w-100">
+          <input type="email" class="form-control" placeholder="Enter your email address" aria-label="Email address" aria-describedby="button-addon2" id="bd-email">
+          <div class="input-group-append">
+            <input type="submit" value="Subscribe" class="btn btn-primary" id="button-addon2"/>
+          </div>
+        </div>
+        <input type="hidden" value="1" name="embed"/>
+      </div>
+    </form>
+  </div>
+</div>
+<div class="row justify-content-center pt-2 pb-5">
+  <div class="col-16">
+    <p class="text-center">
+      Want to check it out first? <a href="https://buttondown.email/thenarrative/archive">View the archives here</a>.
+    </p>
+  </div>
+</div>
+<!-- Full post archive for The Narrative -->
+<div class="row pt-3">
+  <div class="col-16">
+    <!--<h3>The latest articles and essays from The Narrative</h3>-->
+    <hr>
+  </div>
+</div>
+<div class="row">
+  <div class="col-16">
+    {% for post in paginator.posts %}
+      <article>
+        <header>
+          <h1>
+            {% if post.link %}
+              {% capture link_title %}&rarr;&nbsp;{{ post.title }}{% endcapture %}
+              <a href="{{ post.link }}">{{ link_title | markdownify }}</a>
+            {% else %}
+              <a href="{{ post.url }}">{{ post.title | markdownify }}</a>
+            {% endif %}
+          </h1>
+          {% if post.subtitle %}
+            <h2>{{ post.subtitle | markdownify }}</h2>
+          {% endif %}
+        </header>
+        <div class="post-content">
+          {{ post.content | markdownify }}
+        </div>
+        {% if post.link %}<a href="{{ post.url }}" title="Permalink"><i class="fa fa-link"></i></a>{% endif %}
+        <hr>
+        {% include post_footer.html %}
+      </article>
+    {% endfor %}
+  </div>
+</div>
+<div class="row">
+  <div class="col-16">
+    {% if paginator.page_trail %}
+      {% include paginator_trail.html %}
+    {% endif %}
+  </div>
+</div>
