@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+    <![endif]-->
+    {% if page.reading_progress != false %}
+      {% include reading_progress.html %}
+    {% endif %}
+    <div class="container-fluid">
+      <div class="row justify-content-center">
+        <div class="col-16 col-lg-14 col-xl-12">
+          {% include header.html %}
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-16 col-lg-13 col-xl-9">
+          <div class="row justify-content-center pt-3 pb-4">
+            <div class="col-11 col-lg-12 text-center">
+              <h1>The Narrative</h1>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 order-md-2">
+            {% include narrative_sidebar.html %}
+          </div>
+          <div class="col-16 col-md-12 order-md-1">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+        {% include footer.html %}
+    </footer>
+    {% include subscription_toast.html %}
+    {% include scripts.html %}
+  </body>
+</html>
