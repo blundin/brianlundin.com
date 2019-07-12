@@ -10,14 +10,13 @@ var not_shown = true;
 var dismissed_today = false;
 
 updateCookies();
+$('.toast').toast(toast_options)
 
 function updateCookies(){
   if (Cookies.get('toast_dismissed')) {
     dismissed_today = true;
   }
 }
-
-$('.toast').toast(toast_options)
 
 // Called when user closes the email subscription toast
 $('.toast').on('hide.bs.toast', function (e) {

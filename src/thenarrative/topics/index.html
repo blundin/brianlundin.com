@@ -4,7 +4,10 @@ title: "The Narrative: Topics"
 pagination:
   enabled: true
   category: thenarrative
-  debug: false
+  tags:
+  sort_field: 'title'
+  sort_reverse: false
+  debug: true
   per_page: 20
 reading_progress: false
 ---
@@ -13,6 +16,15 @@ reading_progress: false
 TODO: Turn this into an A-Z list of tags for 'thenarrative' category. This list links to that tags index page.
 
 -->
+<div class="row">
+  <div class="col-16">
+    
+  </div>
+</div>
+
+
+
+
 <div class="row">
   <div class="col-16">
     {% for post in paginator.posts %}
