@@ -71,6 +71,14 @@ gulp.task('jekyll-build', function(done) {
   });
 });
 
+gulp.task('jekyll-build-with-drafts', function(done) {
+  exec('JEKYLL_ENV=production jekyll build --drafts', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    done(err);
+  });
+});
+
 gulp.task('test', function(done) {
   exec('htmlproofer --assume-extension ./public', function (err, stdout, stderr) {
     console.log(stdout);
@@ -168,7 +176,8 @@ gulp.task('production', function(done) {
 
 gulp.task('js', gulp.series('lint', 'vendor-scripts', 'app-scripts'));
 gulp.task('build', gulp.series('jekyll-build', 'js'));
+gulp.task('build-with-drafts', gulp.series('jekyll-build-with-drafts', 'js'));
 gulp.task('serve', gulp.parallel('jekyll-build-and-watch', 'js', 'serve'));
-gulp.task('staging', gulp.series('build', 'staging'));
+gulp.task('stage', gulp.series('build-with-drafts', 'staging'));
 gulp.task('publish', gulp.series('build', 'production'));
 gulp.task('default', gulp.series('build'));
