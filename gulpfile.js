@@ -178,7 +178,7 @@ gulp.task('publish-production', function(done) {
 gulp.task('js', gulp.series('lint', 'vendor-scripts', 'app-scripts'));
 gulp.task('build', gulp.series('jekyll-build', 'js'));
 gulp.task('build-drafts', gulp.series('jekyll-build-drafts', 'js'));
-gulp.task('staging', gulp.series('build', 'publish-staging'));
+gulp.task('staging', gulp.series('build-drafts', 'publish-staging'));
 gulp.task('publish', gulp.series('build', 'publish-production'));
 gulp.task('default', gulp.series('build'));
 gulp.task('serve', gulp.parallel('jekyll-build-and-watch', 'js', 'serve'));
