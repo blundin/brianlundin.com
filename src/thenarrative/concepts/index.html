@@ -21,11 +21,11 @@ TODO: Turn this into a pretty card-based display for all posts tagged 'concept' 
       {% for post in paginator.posts %}
         <div class="card">
           <div class="card-body">
-            <h5 class="card-title">{{ post.title | markdownify }}</h5>
+            <h5 class="card-title"><a href="{{ post.url }}">{{ post.title | markdownify }}</a></h5>
             <h6 class="card-subtitle mb-2 text-muted">{{ post.subtitle | markdownify }}</h6>
             <p class="card-text">{{ post.description | markdownify }}</p>
-            <a href="{{ post.url }}" class="card-link">Read</a>
-            <a href="#" class="card-link">Another link</a>
+            <a href="{{ post.url }}" class="btn btn-sm btn-outline-primary mt-1 mb-1">Read...</a>
+            <!--<a href="#" class="btn btn-sm btn-outline-secondary mt-1 mb-1">Related Posts</a>-->
           </div>
         </div>
       {% endfor %}
