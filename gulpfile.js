@@ -25,6 +25,7 @@ gulp.task('lint', function(done) {
 // Copy Javascript files from node_modules
 gulp.task('vendor-scripts', function(done) {
   return gulp.src(['./node_modules/js-cookie/src/js.cookie.js',
+                  './node_modules/moment/min/moment.min.js',
                   './node_modules/bootstrap/dist/js/bootstrap.min.js',
                   './node_modules/jquery/dist/jquery.min.js',
                   './node_modules/popper.js/dist/umd/popper.min.js',

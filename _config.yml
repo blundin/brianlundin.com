@@ -76,8 +76,8 @@ plugins:
   - jekyll-easy-images
   - jekyll-redirect-from
 
-# keep_files:
-#   - js
+keep_files:
+  - js
 
 # Exclude from processing
 exclude:
