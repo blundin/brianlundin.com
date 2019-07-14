@@ -12,24 +12,30 @@
     {% endif %}
     <div class="container-fluid">
       <div class="row justify-content-center">
-        <div class="col-16 col-lg-14 col-xl-12">
-          {% include header.html %}
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-14 col-lg-13 col-xl-9">
-          <div class="row justify-content-center pt-3 pb-4">
-            <div class="col-11 col-lg-12 text-center">
+        <div class="col-16 col-md-14 col-xl-12">
+          <div class="row justify-content-center">
+            <div class="col-16">
+              {% include header.html %}
+            </div>
+          </div>
+          <div class="row pt-3 pb-3">
+            <div class="col-16 text-center">
+              <!-- Header -->
               <h1>{% if page.title %}{{page.title}}{% else %}The Narrative{% endif %}</h1>
             </div>
           </div>
-        </div>
-        <div class="row justify-content-center">
-          <div class="col-14 col-sm-4 col-md-3 col-lg-4 order-sm-2">
-            {% include narrative_sidebar.html %}
-          </div>
-          <div class="col-14 col-sm-11 col-md-10 col-lg-10 col-xl-9 order-sm-1">
-            {{ content }}
+          <div class="row justify-content-center">
+            <div class="col-16">
+              <!-- Page content -->
+              <div class="row justify-content-center">
+                <div class="col-16 col-sm-5 order-sm-2">
+                  {% include narrative_sidebar.html %}
+                </div>
+                <div class="col-16 col-sm-11 order-sm-1">
+                  {{ content }}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

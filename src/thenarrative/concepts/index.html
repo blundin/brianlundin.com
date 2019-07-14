@@ -1,6 +1,7 @@
 ---
 layout: narrative
-title: "The Narrative: Concepts"
+title: The Narrative
+subtitle: Concepts
 pagination:
   enabled: true
   category: thenarrative
@@ -16,14 +17,14 @@ TODO: Turn this into a pretty card-based display for all posts tagged 'concept' 
 -->
 <div class="row">
   <div class="col-16">
-    <div class="card-deck">
+    <div class="card-columns">
       {% for post in paginator.posts %}
         <div class="card">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="card-link">Card link</a>
+            <h5 class="card-title">{{ post.title | markdownify }}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{ post.subtitle | markdownify }}</h6>
+            <p class="card-text">{{ post.description | markdownify }}</p>
+            <a href="{{ post.url }}" class="card-link">Read</a>
             <a href="#" class="card-link">Another link</a>
           </div>
         </div>
