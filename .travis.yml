@@ -27,7 +27,7 @@ install:
 jobs:
   include:
     - stage: staging-job
-      if: branch = development OR branch = staging
+      if: branch = development OR branch = staging OR branch = issues
       script: gulp staging
     - stage: publishing-job
       if: branch = master
