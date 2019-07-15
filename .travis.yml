@@ -8,6 +8,8 @@ node_js:
 branches:
   only:
   - development
+  - staging
+  - issues
   - master
 
 cache:
