@@ -8,6 +8,10 @@ var toast_options = {
 var days_after_dismissing = 4;        // '0' for debugging
 var days_after_shown = 1;             // '0' for debugging
 
+if (!shouldShowToast()) {
+  $('#subscription_toast').toast('hide');
+}
+
 function shouldShowToast() {
   var show_toast = false;
 
