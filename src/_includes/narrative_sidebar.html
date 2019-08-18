@@ -16,20 +16,15 @@
 </div>
 <div class="row pb-3">
   <div class="col">
-    <form
-      action="https://buttondown.email/api/emails/embed-subscribe/thenarrative"
-      method="post"
-      target="popupwindow"
-      onsubmit="window.open('https://buttondown.email/thenarrative', 'popupwindow')"
-      >
+    <form action="https://thenarrative.substack.com/api/v1/import/form" method="post">
       <div class="row">
         <div class="col">
           <h6>Subscribe now</h6>
         </div>
       </div>
       <div class="form-group">
-        <input type="email" name="email" id="bd-email" placeholder="Email Address" class="form-control form-control-sm position-static">
-        <input type="hidden" value="1" name="embed"/>
+        <input type="email" name="email" placeholder="Email Address" class="form-control form-control-sm position-static">
+        <input type="hidden" name="source" value="external">
       </div>
       <div class="form-group text-right">
         <input class="btn btn-primary btn-sm" type="submit" value="Subscribe">

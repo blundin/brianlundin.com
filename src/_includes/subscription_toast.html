@@ -10,14 +10,20 @@
     <p>Sign up now for insight on creativity and the stories that shape our faith and culture.</p>
     <form action="https://thenarrative.substack.com/api/v1/import/form"
           method="post"
-          target="popupwindow"
-          onsubmit="$('.toast').toast('hide');window.open('https://buttondown.email/thenarrative', 'popupwindow')"
           class="form-inline">
       <div class="form-group w-100">
         <div class="input-group input-group-sm mb-3 w-100">
-          <input type="email" class="form-control" placeholder="Enter your email address" aria-label="Email address" aria-describedby="button-addon2" name="email">
+          <input type="email"
+            class="form-control"
+            placeholder="Enter your email address"
+            aria-label="Email address"
+            aria-describedby="button-addon2"
+            name="email">
           <div class="input-group-append">
-            <input type="submit" value="Submit" class="btn btn-primary" id="button-addon2"/>
+            <input
+              type="submit"
+              value="Submit"
+              class="btn btn-primary"/>
           </div>
         </div>
         <input type="hidden" name="source" value="external">
