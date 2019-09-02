@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 3.8.5'
-gem 'html-proofer', '~> 3.9.3'
+gem 'html-proofer', '~> 3.11.1'
+gem "nokogiri", "~> 1.10.4"
 
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.11.0'
