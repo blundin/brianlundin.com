@@ -21,6 +21,7 @@ cache:
 
 before_install:
   - yarn global add gulp-cli
+  - rvm install 2.6.3
   - rvm use 2.6.3
 
 install:
