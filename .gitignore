@@ -1,6 +1,7 @@
 .jekyll-metadata
 .DS_Store
 aws-caches/
+.awspublish*
 .sass-cache
 node_modules
 public
