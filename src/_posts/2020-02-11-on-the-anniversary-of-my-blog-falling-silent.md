@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the Anniversary of a Blog Falling Silent
+title: On the Anniversary of My Blog Falling Silent
 subtitle: What “The Year of Rebooting” really meant
 date: 2020-02-11 23:59:59 -0600
 description: What the Year of Rebooting really meant.
