@@ -1,8 +1,6 @@
 ---
 layout: post
 title: How to be a writer
-redirect_from:
-  - /?p=341
 date: '2014-05-05 09:25:32 -0500'
 category: writing
 ---

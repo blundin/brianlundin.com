@@ -1,8 +1,7 @@
 ---
 layout: post
 title: What you will get from me on Twitter
-redirect_from: 
-  - /?p=200
+redirect_from:
   - /2013/10/12/what-you-will-get-from-me-on-twitter/
 date: '2013-10-12 15:09:47 -0500'
 ---

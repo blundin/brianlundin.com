@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The table bears the weight of all
-redirect_from: 
-  - /?p=144
+redirect_from:
   - /2013/09/23/the-table-bears-the-weight-of-all
 date: '2013-09-23 13:30:18 -0500'
 ---

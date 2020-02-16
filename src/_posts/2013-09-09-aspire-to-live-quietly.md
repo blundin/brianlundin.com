@@ -2,7 +2,6 @@
 layout: post
 title: Aspire to live quietly
 redirect_from:
-  - /?p=118
   - /2013/09/09/aspire-to-live-quietly/
 date: '2013-09-09 23:13:20 -0500'
 ---

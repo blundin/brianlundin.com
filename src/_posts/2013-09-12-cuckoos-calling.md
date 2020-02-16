@@ -2,7 +2,6 @@
 layout: post
 title: Cuckoo's Calling
 redirect_to:
-  - /?p=132
   - /2013/09/12/cuckoos-calling/
 date: '2013-09-12 10:00:21 -0500'
 categories: reading

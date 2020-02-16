@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Four things storytellers can teach the church
-redirect_from: 
-  - /?p=251
 date: '2014-01-13 09:25:56 -0600'
 tags:
 - storytelling

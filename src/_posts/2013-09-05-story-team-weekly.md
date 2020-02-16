@@ -2,7 +2,6 @@
 layout: post
 title: Story Team Weekly
 redirect_from:
-  - /?p=106
   - /2013/09/05/story-team-weekly/
 date: '2013-09-05 09:13:20 -0500'
 tags: storytelling

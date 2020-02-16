@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Where I found hope in the death of my grandmother
-redirect_from: 
-  - /?p=288
 date: '2014-01-27 09:25:49 -0600'
 ---
 <p>Last Friday I gave the eulogy at my grandmother’s funeral. My grandmother, Mary Downey, was an incredible woman of faith and love. She was diagnosed with cancer that advanced very quickly, just two months ago. She passed away last week. The speed and circumstances were surprising and difficult.</p>

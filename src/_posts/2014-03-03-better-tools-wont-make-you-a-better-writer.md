@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Better tools won't make you a better writer
-redirect_from:
-  - /?p=317
 date: '2014-03-03 09:20:54 -0600'
 category: writing
 ---

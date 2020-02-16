@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Three benefits I discovered in a morning routine
-redirect_from:
-  - /?p=298
 date: '2014-02-10 09:17:39 -0600'
 category: productivity
 ---

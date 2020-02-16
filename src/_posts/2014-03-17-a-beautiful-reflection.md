@@ -1,8 +1,6 @@
 ---
 layout: post
 title: A beautiful reflection
-redirect_from:
-  - /?p=322
 date: '2014-03-17 09:30:55 -0500'
 ---
 {% easy_image /images/posts/Santa-Elena-Canyon.jpg %}

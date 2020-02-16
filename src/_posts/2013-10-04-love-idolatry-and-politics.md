@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Love, idolatry and politics
-redirect_from: 
-  - /?p=182
+redirect_from:
   - /2013/10/04/love-idolatry-and-politics/
 date: '2013-10-04 12:00:34 -0500'
 ---

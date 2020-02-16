@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "'It's All Too Much' by Peter Walsh 📚"
-redirect_from:
-  - /?p=363
 categories: reading
 date: '2015-01-08 09:30:32 -0600'
 ---

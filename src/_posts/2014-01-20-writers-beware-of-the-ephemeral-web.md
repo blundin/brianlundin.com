@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 'Writers: Beware of the ephemeral web'
-redirect_from:
-  - /?p=281
 date: '2014-01-20 09:15:15 -0600'
 categories:
   - writing
