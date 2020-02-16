@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Find your creative lineage
-redirect_from:
-  - /?p=310
 date: '2014-02-24 09:29:56 -0600'
 ---
 <p>"Write what you know" is common advice to writers, and it's advice I used to give until a great little book pointed out something important.</p>

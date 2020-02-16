@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Is your work truly your own?
-redirect_from:
-  - /?p=227
 date: '2013-11-02 10:00:14 -0500'
 tags: storytelling
 ---

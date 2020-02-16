@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 15 books every storyteller and writer should read 📚
-redirect_from:
-  - /?p=262
 date: '2014-01-06 09:15:21 -0600'
 tags:
 - storytelling

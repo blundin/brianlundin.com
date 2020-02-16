@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Is Austin really a 'no kill' city?
-redirect_from: 
-  - /?p=189
+redirect_from:
   - /2013/10/11/is-austin-really-a-no-kill-city/
 date: '2013-10-11 10:16:22 -0500'
 ---

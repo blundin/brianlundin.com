@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Four things you can do to read more
-redirect_from:
-  - /?p=292
 date: '2014-02-03 03:15:35 -0600'
 category: productivity
 ---

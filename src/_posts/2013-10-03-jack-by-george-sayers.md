@@ -2,7 +2,6 @@
 layout: post
 title: "'Jack' by George Sayers"
 redirect_from:
-  - /?p=165
   - /2013/10/03/jack-by-george-sayers/
 date: '2013-10-03 13:03:32 -0500'
 categories: reading

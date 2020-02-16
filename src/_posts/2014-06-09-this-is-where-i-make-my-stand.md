@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "'This is where I make my stand'"
-redirect_from:
-  - /?p=348
 date: '2014-06-09 07:48:52 -0500'
 ---
 <p>The thought of writing a novel has always scared me. It seems so big, so daunting. I can hardly imagine finishing the first draft, much less the multiple edits and rewrites a novel goes through before publication. It just seems like too much. Plays, short stories, screenplays and blog posts always seemed more manageable. Less ambitious, smaller chunks of work. Yeah, that's what I preferred.</p>
