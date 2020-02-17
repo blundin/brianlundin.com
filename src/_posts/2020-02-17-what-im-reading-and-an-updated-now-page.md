@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ‘“What I’m Reading” and an updated “Now” page’
+title: What I’m Reading and an updated Now page
 subtitle: 
-date: 2020-02-17 07:29:20 -0600
+date: 2020-02-17 07:35:47 -0600
 description: 
 categories: 
 tags: 
