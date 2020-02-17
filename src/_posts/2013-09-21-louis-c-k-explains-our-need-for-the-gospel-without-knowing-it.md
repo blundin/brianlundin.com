@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Louis C.K. explains our need for the gospel, without knowing it
-redirect_from: 
-  - /?p=151
+redirect_from:
   - /2013/09/21/louis-c-k-explains-our-need-for-the-gospel-without-knowing-it/
 date: '2013-09-21 14:55:40 -0500'
 ---

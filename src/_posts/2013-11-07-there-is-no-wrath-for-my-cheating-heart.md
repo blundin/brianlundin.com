@@ -1,8 +1,6 @@
 ---
 layout: post
 title: There is no wrath for my cheating heart
-redirect_from: 
-  - /?p=230
 date: '2013-11-07 13:00:06 -0600'
 ---
 <p>On Monday, after reading several chapters in Hosea, I tweeted:</p>

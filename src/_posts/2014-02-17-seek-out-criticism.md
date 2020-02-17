@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Seek out criticism
-redirect_from:
-  - /?p=304
 date: '2014-02-17 09:11:25 -0600'
 tags:
 - storytelling

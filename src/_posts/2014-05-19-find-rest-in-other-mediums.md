@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Find rest in other mediums
-redirect_from:
-  - /?p=345
 date: '2014-05-19 12:28:38 -0500'
 ---
 <p>Last week was one of those weeks we all have occasionally, where the schedule is full, your mind is engaged all week, and yet somehow you're not dead at the end of it. Through a long hard week, I came out of it encouraged and satisfied. It was good, and I think there is a lesson in it for all of us creative types.</p>

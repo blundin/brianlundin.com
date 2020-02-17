@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Austin Stone Worship Conference + New Album!
-redirect_from:
-  - /?p=217
 date: '2013-10-22 14:19:13 -0500'
 tags: storytelling
 ---
