@@ -24,7 +24,7 @@ before_install:
 
 install:
   - yarn install --production=false --ignore-optional
-  - bundle install
+  - bundle install 2.1.4
 
 jobs:
   include:
