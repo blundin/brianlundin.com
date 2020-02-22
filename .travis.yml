@@ -3,7 +3,7 @@ sudo: required
 os: osx
 language: node_js
 node_js:
-  - "10"
+  - "10.12"
 
 branches:
   only:
@@ -24,6 +24,7 @@ before_install:
 
 install:
   - yarn install --production=false --ignore-optional
+  - gem install bundler:2.1.4
   - bundle install
 
 jobs:

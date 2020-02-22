@@ -1,3 +1,4 @@
+// Animation and control script for reading progress bar
 var h = document.documentElement,
   b = document.body,
   st = 'scrollTop',

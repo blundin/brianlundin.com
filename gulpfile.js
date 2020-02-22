@@ -24,7 +24,9 @@ gulp.task('lint', function(done) {
 
 // Copy Javascript files from node_modules
 gulp.task('vendor-scripts', function(done) {
-  return gulp.src(['./node_modules/bootstrap/dist/js/bootstrap.min.js',
+  return gulp.src(['./node_modules/js-cookie/src/js.cookie.js',
+                  './node_modules/moment/min/moment.min.js',
+                  './node_modules/bootstrap/dist/js/bootstrap.min.js',
                   './node_modules/jquery/dist/jquery.min.js',
                   './node_modules/popper.js/dist/umd/popper.min.js',
                   './node_modules/bootstrap/dist/js/bootstrap.min.js.map',
@@ -71,6 +73,14 @@ gulp.task('jekyll-build', function(done) {
   });
 });
 
+gulp.task('jekyll-build-drafts', function(done) {
+  exec('JEKYLL_ENV=production jekyll build --drafts', function (err, stdout, stderr) {
+    console.log(stdout);
+    console.log(stderr);
+    done(err);
+  });
+});
+
 gulp.task('test', function(done) {
   exec('htmlproofer --assume-extension ./public', function (err, stdout, stderr) {
     console.log(stdout);
@@ -90,7 +100,7 @@ gulp.task('serve', function() {
   });
 });
 
-gulp.task('staging', function(done) {
+gulp.task('publish-staging', function(done) {
   // create a new publisher using S3 options
   // http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#constructor-property
   var publisher = awspublish.create({
@@ -128,7 +138,7 @@ gulp.task('staging', function(done) {
     .pipe(awspublish.reporter(), done);
 });
 
-gulp.task('production', function(done) {
+gulp.task('publish-production', function(done) {
   // create a new publisher using S3 options
   // http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#constructor-property
   var publisher = awspublish.create({
@@ -168,7 +178,8 @@ gulp.task('production', function(done) {
 
 gulp.task('js', gulp.series('lint', 'vendor-scripts', 'app-scripts'));
 gulp.task('build', gulp.series('jekyll-build', 'js'));
-gulp.task('serve', gulp.parallel('jekyll-build-and-watch', 'js', 'serve'));
-gulp.task('staging', gulp.series('build', 'staging'));
-gulp.task('publish', gulp.series('build', 'production'));
+gulp.task('build-drafts', gulp.series('jekyll-build-drafts', 'js'));
+gulp.task('staging', gulp.series('build-drafts', 'publish-staging'));
+gulp.task('publish', gulp.series('build', 'publish-production'));
 gulp.task('default', gulp.series('build'));
+gulp.task('serve', gulp.parallel('jekyll-build-and-watch', 'js', 'serve'));

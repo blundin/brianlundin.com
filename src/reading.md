@@ -5,12 +5,11 @@ date: 2020-2-16
 description: What I'm reading, and what I've read.
 reading_progress: true
 ---
-As a writer and a storyteller, reading is essential—it's the raw material of my craft. This is a list of books I'm reading and I've read since January of 2020. If you're on Goodreads, [you can follow me here](https://www.goodreads.com/blundin). You can check out [my posts about books I've read here](https://brianlundin.com/reading/index.html).
+As a writer and a storyteller, reading is essential—it's the raw material of my craft. This is a list of books I'm reading and I've read since January of 2020. If you're on Goodreads, [you can follow me here](https://www.goodreads.com/blundin). You can check out [my posts about books I've read here](/reading/index.html).
 
 &nbsp;
 
 ## 2020
-
 
 ### 📖 Reading now
 

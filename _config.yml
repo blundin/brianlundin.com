@@ -31,7 +31,7 @@ collections:
 autopages:
   enabled: true
   categories:
-    enabled: true
+    enabled: false
     layouts:
       - 'categories.html'
     permalink: '/:cat'
@@ -52,8 +52,8 @@ autopages:
 
 pagination:
   trail:
-    before: 3 # The number of links before the current page
-    after: 3  # The number of links after the current page
+    before: 4 # The number of links before the current page
+    after: 4  # The number of links after the current page
   enabled: true
   debug: false
   per_page: 5
