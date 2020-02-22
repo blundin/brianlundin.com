@@ -7,7 +7,7 @@ description: I’m leaving Facebook soon, so here are five ways to keep up with 
 categories:
 tags: social-media
 ---
-[As I posted earlier this month, I am leaving Facebook soon](https://brianlundin.com/blog/im-leaving-facebook.html).  I will be deleting my existing Facebook and Instagram accounts soon. If you are interested in why, you can read the post linked above. But, I will still be writing and posting on the web! I know that given the dominance of Facebook I will most likely lose touch with almost everyone that follows me on those platforms, but that’s okay. However, I know some folks will want to keep in touch (and I’m glad you do!), so I want to make that easy for you. So here are six ways to keep in touch once I am no longer on Facebook.
+[As I posted earlier this month, I am leaving Facebook soon](/blog/im-leaving-facebook.html).  I will be deleting my existing Facebook and Instagram accounts soon. If you are interested in why, you can read the post linked above. But, I will still be writing and posting on the web! I know that given the dominance of Facebook I will most likely lose touch with almost everyone that follows me on those platforms, but that’s okay. However, I know some folks will want to keep in touch (and I’m glad you do!), so I want to make that easy for you. So here are six ways to keep in touch once I am no longer on Facebook.
 
 ### Sign up for my new email newsletter
 
@@ -19,7 +19,7 @@ I am reviving my email newsletter on a new platform, and with a new focus. In th
 
 This might be too old school—sometimes it feels like I’m the only one using RSS anymore—but this is best option to directly follow my writing. Unlike the previous two options, if you follow my blog in a feed reader you will just get the blog posts I publish.  [If you don't have a feedreader? I suggest you try this one.](https://feedly.com/i/welcome) If you have never heard of RSS, [here is a handy beginner's guide](https://www.lifewire.com/rss-101-3482781). There is nothing I recommend more highly for people who want to read on the web than a good feed reader, full of your favorite writers.
 
-Here is the direct link to my RSS feed to add to your reader: [https://brianlundin.com/feed.xml](https://brianlundin.com/feed.xml).
+Here is the direct link to my RSS feed to add to your reader: [https://brianlundin.com/feed.xml](/feed.xml).
 
 ### Follow me on Micro.blog
 
