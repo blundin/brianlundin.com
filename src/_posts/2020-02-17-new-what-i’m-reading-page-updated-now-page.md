@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New “What I’m Reading” page & updated “Now” page
+title: New “What I’m Reading” & updated “Now” pages
 subtitle:
 date: 2020-02-17 07:55:52 -0600
 description: Quick update about the site.
