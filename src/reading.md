@@ -25,6 +25,6 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 
 [📖 *Star Wars: Aftermath* by Chuck Wendig.](https://amzn.to/38A9vxX) An okay novel set after the original trilogy. The setting and plot are thoroughly Star Wars, but the characters are one dimensional and not very interesting. It's the first novel in a series, but I won't be reading further.
 
-[📖 *Run Forever* by Amby Burfoot.](https://amzn.to/2vzsN85) Trying to get back to a steady running habit at 42 is not easy, and Burfoot has been a fixture of the running wisdom that has guided me on and off since middle school cross country. I loved his previous books and his work for *Runner's World*, and this book was no different. This book was a delightful look inside the wisdom of someone who has kept running late into life, as I hope to.
+[📖 *Run Forever* by Amby Burfoot.](https://amzn.to/2vzsN85) Trying to get back to a steady running habit at 42 is not easy, and Burfoot has been a fixture of the running wisdom that has guided me on and off since middle school cross country. I loved his previous books and his work for *Runner's World*, and this book was no different. This book was a delightful look inside the wisdom of someone who kept running late into life, as I hope to.
 
  &nbsp;
