@@ -2,12 +2,12 @@
 layout: post
 title: Keep Going by Austin Kleon
 subtitle: An immensely helpful entry in Kleon’s growing practical philosophy for the working artist
-date: 2020-03-02 10:11:00 -0600
+date: 2020-03-02 10:12:21 -0600
 description: 
 categories: 
 tags: 
 ---
-[![“Keep Going” by Austin Kleon](https://brianlundin.com/images/posts/2020-03-02\_07-48-13.jpeg)]([https://amzn.to/2ThjqTK](https://amzn.to/2ThjqTK)){: .img-fluid}
+[![“Keep Going” by Austin Kleon](https://brianlundin.com/images/posts/2020-03-02\_07-48-13.jpeg)](https://amzn.to/2ThjqTK){: .img-fluid}
 
 My wife has gotten used to all sorts of small creative experiments and exercises that I’ve taken up over the years. From fiddling with a Rubik’s cube to occasional collaging, and now to a steady flow of ideas for how to get our little ones engaged in making art, she entertains them all. And she’s eve stopped asking where they come from. Because she knows they almost always originate from the books and [blog of Austin Kleon](https://austinkleon.com).
 
