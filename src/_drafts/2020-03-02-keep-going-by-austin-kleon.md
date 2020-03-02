@@ -7,7 +7,7 @@ description:
 categories:
 tags:
 ---
-[![“Keep Going” by Austin Kleon](/images/posts/2020-03-02_10-35-06.jpg){: .img-fluid}](https://amzn.to/2ThjqTK)
+[![“Keep Going” by Austin Kleon](/images/posts/2020-03-02--10-35-06.jpg){: .img-fluid}](https://amzn.to/2ThjqTK)
 
 My wife has gotten used to all sorts of small creative experiments and exercises that I’ve taken up over the years. From fiddling with a Rubik’s cube to occasional collaging, and now to a steady flow of ideas for how to get our little ones engaged in making art, she entertains them all. And she’s eve stopped asking where they come from. Because she knows they almost always originate from the books and [blog of Austin Kleon](https://austinkleon.com).
 
