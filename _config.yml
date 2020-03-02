@@ -2,7 +2,7 @@
 title: Brian Lundin
 email: brian.lundin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Brian Lundin is the Lead Writer & Story Team Producer at The Austin Stone Community Church. Brian is a storyteller, writer and geek who is passsionate about sharing stories of gospel transformation.
+  Brian Lundin is the Lead Writer for Austin Stone Worship. Brian is a storyteller, writer and geek who is passionate about sharing stories of gospel transformation.
 
 # Settings for the site
 baseurl: ""
@@ -31,7 +31,7 @@ collections:
 autopages:
   enabled: true
   categories:
-    enabled: true
+    enabled: false
     layouts:
       - 'categories.html'
     permalink: '/:cat'
@@ -52,8 +52,8 @@ autopages:
 
 pagination:
   trail:
-    before: 3 # The number of links before the current page
-    after: 3  # The number of links after the current page
+    before: 4 # The number of links before the current page
+    after: 4  # The number of links after the current page
   enabled: true
   debug: false
   per_page: 5

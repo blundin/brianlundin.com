@@ -5,7 +5,7 @@ redirect_from:
   - /2013/09/23/the-table-bears-the-weight-of-all
 date: '2013-09-23 13:30:18 -0500'
 ---
-<p>[caption id="attachment_155" align="aligncenter" width="1024"]<a href="http://brianlundin.com/wp-content/uploads/2013/09/2013-09-17-19.58.49-Edit.jpg"><img class="size-large wp-image-155" alt="Photo by Steven Bush" src="http://brianlundin.com/wp-content/uploads/2013/09/2013-09-17-19.58.49-Edit-1024x589.jpg" width="1024" height="589" /></a> Photo by <a href="https://twitter.com/stevenbush">Steven Bush</a>[/caption]</p>
+<p>[caption id="attachment_155" align="aligncenter" width="1024"]<a href="/wp-content/uploads/2013/09/2013-09-17-19.58.49-Edit.jpg"><img class="size-large wp-image-155" alt="Photo by Steven Bush" src="/wp-content/uploads/2013/09/2013-09-17-19.58.49-Edit-1024x589.jpg" width="1024" height="589" /></a> Photo by <a href="https://twitter.com/stevenbush">Steven Bush</a>[/caption]</p>
 <p>They sit around a dinner table, sheltered in the warmth of friends and food, bulwarks against the dark and rainy night, both within and without. Eight people, for whom this common table is the tangible evidence of metaphysical truth.</p>
 <p>Laughter and joy fill the room. Conversation flows easily, story lines are synchronized and updates offered.</p>
 <p>The joyful interactions are not a veil, but a balm. This family, gathered around this table, comforts each other in love.</p>
