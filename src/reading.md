@@ -21,6 +21,10 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 
 ### 📚 Read
 
+[🎧 *Second Nature: A Gardener's Education* by Michael Pollan.](https://www.amazon.com/Second-Nature-A-Gardeners-Education/dp/B003C1V4PE) With the whole world in lockdown my wife and I found enough time on our hands to finally tackle major yard projects that have been haunting us for years. Revisiting this work from Pollan (one of my favorite non-fiction writers) was a good motivation while working outside. More thoughts to come soon.
+
+[📖 *Square Foot Gardening* by Mel Bartholomew.](https://bookshop.org/books/all-new-square-foot-gardening-3rd-edition-fully-updated-more-projects-new-solutions-grow-vegetables-anywhere/9780760362853) This was a quick read an an interesting take on vegetable gardening to feed the family. We are planning on putting a garden in soon after reading this. More to come as well.
+
 [📖 *Keep Going* by Austin Kleon.](https://amzn.to/2PFK2vF) I don't know if Kleon thinks of his last three books (*Steal Like an Artist*, *Show Your Work*, and this one) as a trilogy or not, but I do. This was an incredibly inspiring read right when I needed it. It's somehow practical and inspirational at the same time. I'd recommend Kleon's creative trilogy to any artist—working or aspiring. [You can read my full thoughts in it here.](/blog/keep-going-by-austin-kleon.html)
 
 [📖 *Endure* by Alex Hutchinson.](https://amzn.to/2wmRwwR) A fascinating survey of the available research on human endurance and told with an engaging voice. If you are interested in the pursuit of human limitations, this is for you.
