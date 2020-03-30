@@ -13,6 +13,8 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 
 ### 📖 Reading now
 
+[📖 *The Common Rule: Habits of Purpose for an Age of Distraction* by Justin Whitmel Earley.](https://amzn.to/2UILgrP) I'm reading this for a book discussion at work and it is great. I was looking forward to it before the time of shelter in place orders and social distancing, but it's been even better than expected in this season. 
+
 [📖 *Big Wonderful Thing: A History of Texas* by Stephen Harrigan.](https://amzn.to/37y3TTN) The title is right. This is a big, wonderful read. It's a history of Texas that tells the history of this incredible state through the eyes of those who lived it. It looks at the atrocities and the triumphs alike with sober-minded realism. If you love Texas—or are simply intrigued by it—this is a great read.
 
 [📖 *Adorning the Dark: Thoughts on Community, Calling, and the Mystery of Making* by Andrew Peterson.](https://amzn.to/2Sxftu1) This has been an incredibly encouraging and enlightening read. I'm looking forward to sharing my thoughts when I'm done.
@@ -21,10 +23,16 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 
 ### 📚 Read
 
+[🎧 *Second Nature: A Gardener's Education* by Michael Pollan.](https://www.amazon.com/Second-Nature-A-Gardeners-Education/dp/B003C1V4PE) With the whole world in lockdown my wife and I found enough time on our hands to finally tackle major yard projects that have been haunting us for years. Revisiting this work from Pollan (one of my favorite non-fiction writers) was a good motivation while working outside. More thoughts to come soon.
+
+[📖 *Square Foot Gardening* by Mel Bartholomew.](https://bookshop.org/books/all-new-square-foot-gardening-3rd-edition-fully-updated-more-projects-new-solutions-grow-vegetables-anywhere/9780760362853) This was a quick read an an interesting take on vegetable gardening to feed the family. We are planning on putting a garden in soon after reading this. More to come as well.
+
+[📖 *Keep Going* by Austin Kleon.](https://amzn.to/2PFK2vF) I don't know if Kleon thinks of his last three books (*Steal Like an Artist*, *Show Your Work*, and this one) as a trilogy or not, but I do. This was an incredibly inspiring read right when I needed it. It's somehow practical and inspirational at the same time. I'd recommend Kleon's creative trilogy to any artist—working or aspiring. [You can read my full thoughts in it here.](/blog/keep-going-by-austin-kleon.html)
+
 [📖 *Endure* by Alex Hutchinson.](https://amzn.to/2wmRwwR) A fascinating survey of the available research on human endurance and told with an engaging voice. If you are interested in the pursuit of human limitations, this is for you.
 
 [📖 *Star Wars: Aftermath* by Chuck Wendig.](https://amzn.to/38A9vxX) An okay novel set after the original trilogy. The setting and plot are thoroughly Star Wars, but the characters are one dimensional and not very interesting. It's the first novel in a series, but I won't be reading further.
 
-[📖 *Run Forever* by Amby Burfoot.](https://amzn.to/2vzsN85) Trying to get back to a steady running habit at 42 is not easy, and Burfoot has been a fixture of the running wisdom that has guided me on and off since middle school cross country. I loved his previous books and his work for *Runner's World*, and this book was no different. This book was a delightful look inside the wisdom of someone who kept running late into life, as I hope to.
+[📖 *Run Forever* by Amby Burfoot.](https://amzn.to/2vzsN85) Trying to get back to a steady running habit at 42 is not easy, and Burfoot has been a fixture of the running wisdom that has guided me on and off since middle school cross country. I loved his previous books and his work for *Runner's World*, and this book was no different. This book is a delightful bit of wisdom from someone who is still running late into life.
 
  &nbsp;
