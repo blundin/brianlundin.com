@@ -13,6 +13,8 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 
 ### 📖 Reading now
 
+[📖 *The Common Rule: Habits of Purpose for an Age of Distraction* by Justin Whitmel Earley.](https://amzn.to/2UILgrP) I'm reading this for a book discussion at work and it is great. I was looking forward to it before the time of shelter in place orders and social distancing, but it's been even better than expected in this season. 
+
 [📖 *Big Wonderful Thing: A History of Texas* by Stephen Harrigan.](https://amzn.to/37y3TTN) The title is right. This is a big, wonderful read. It's a history of Texas that tells the history of this incredible state through the eyes of those who lived it. It looks at the atrocities and the triumphs alike with sober-minded realism. If you love Texas—or are simply intrigued by it—this is a great read.
 
 [📖 *Adorning the Dark: Thoughts on Community, Calling, and the Mystery of Making* by Andrew Peterson.](https://amzn.to/2Sxftu1) This has been an incredibly encouraging and enlightening read. I'm looking forward to sharing my thoughts when I'm done.
