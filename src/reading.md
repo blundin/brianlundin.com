@@ -13,7 +13,7 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 
 ### 📖 Reading now
 
-[📖 *The Common Rule: Habits of Purpose for an Age of Distraction* by Justin Whitmel Earley.](https://amzn.to/2UILgrP) I'm reading this for a book discussion at work and it is great. I was looking forward to it before the time of shelter in place orders and social distancing, but it's been even better than expected in this season. 
+[📖 *The Common Rule: Habits of Purpose for an Age of Distraction* by Justin Whitmel Earley.](https://amzn.to/2UILgrP) I'm reading this for a book discussion at work and it is great. I was looking forward to it before the time of shelter in place orders and social distancing, but it's been even better than expected in this season.
 
 [📖 *Big Wonderful Thing: A History of Texas* by Stephen Harrigan.](https://amzn.to/37y3TTN) The title is right. This is a big, wonderful read. It's a history of Texas that tells the history of this incredible state through the eyes of those who lived it. It looks at the atrocities and the triumphs alike with sober-minded realism. If you love Texas—or are simply intrigued by it—this is a great read.
 
@@ -22,6 +22,8 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 [🎧 *The Eye of the World* by Robert Jordan.](https://amzn.to/2UVC9Wh) After years of getting recommendations for the classic Wheel of Time fantasy series, I've decided it's time to check it out. I can't write in the genre and not be familiar with such a foundational author and series.
 
 ### 📚 Read
+
+[🎧 *Kitchen Confidential* by Anthony Bourdain.](https://amzn.to/39xTuID) I was incredibly saddened in June 2018 when I heard that [Anthony Bourdain](https://en.wikipedia.org/wiki/Anthony_Bourdain) killed himself. When I graduated college I could barely cook rice. Over the next five years I became a pretty good cook, in large part due to Alton Brown and Bourdain. Though the two could not be more different, they served as my culinary professors for years. I've grown from a bachelor who constantly burnt good ingredients to pretty good home cook who can improvise and create my own dishes, and Bourdain is a big part of that story. The book is certainly for mature audiences, but hearing him narrate his classic is a great experience. It's really too bad we'll never see another book or show from him again.
 
 [🎧 *Second Nature: A Gardener's Education* by Michael Pollan.](https://www.amazon.com/Second-Nature-A-Gardeners-Education/dp/B003C1V4PE) With the whole world in lockdown my wife and I found enough time on our hands to finally tackle major yard projects that have been haunting us for years. Revisiting this work from Pollan (one of my favorite non-fiction writers) was a good motivation while working outside. More thoughts to come soon.
 
