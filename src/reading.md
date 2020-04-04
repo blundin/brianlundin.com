@@ -13,7 +13,7 @@ As a writer and a storyteller, reading is essential—it's the raw material of m
 
 ### 📖 Reading now
 
-[📖 * A Place of My Own: The Architecture of Daydreams* by Michael Pollan](https://amzn.to/2JButBJ) I read this book about a decade ago, not long after it came out. I lent my copy to someone (who knows who) and it turned into another mysterious donation to the great decentralized library system. I just got a new copy and I'm digging in. *4/3/2020*
+[📖 *A Place of My Own: The Architecture of Daydreams* by Michael Pollan.](https://amzn.to/2JButBJ) I read this book about a decade ago, not long after it came out. I lent my copy to someone (who knows who) and it turned into another mysterious donation to the great decentralized library system. I just got a new copy and I'm digging in. *4/3/2020*
 
 [📖 *Big Wonderful Thing: A History of Texas* by Stephen Harrigan.](https://amzn.to/37y3TTN) The title is right. This is a big, wonderful read. It's a history of Texas that tells the history of this incredible state through the eyes of those who lived it. It looks at the atrocities and the triumphs alike with sober-minded realism. If you love Texas—or are simply intrigued by it—this is a great read.
 
