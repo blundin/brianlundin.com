@@ -7,3 +7,11 @@ aws-caches/
 node_modules
 public
 *.env
+
+# Yarn without Zero-installs
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
