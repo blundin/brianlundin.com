@@ -120,7 +120,7 @@ gulp.task('publish-staging', function(done) {
     // ...
   };
 
-  return gulp.src('./public/**/*.*')
+  return gulp.src('./public/**')
      // gzip, Set Content-Encoding headers and add .gz extension
     .pipe(awspublish.gzip())
 
@@ -158,7 +158,7 @@ gulp.task('publish-production', function(done) {
     // ...
   };
 
-  return gulp.src('./public/**/*.*')
+  return gulp.src('./public/**')
      // gzip, Set Content-Encoding headers and add .gz extension
     // .pipe(awspublish.gzip())
 
