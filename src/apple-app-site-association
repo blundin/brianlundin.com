@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "J7X85M226J.com.brianlundin.shelver",
+                "paths": [ "/apps/shelver/redirectURI"]
+            }
+        ]
+    }
+}
