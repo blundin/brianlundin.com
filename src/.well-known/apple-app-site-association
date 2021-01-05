@@ -1,11 +1,9 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "J7X85M226J.com.brianlundin.Training-Planner",
-                "paths": ["planner/*"]
-            }
-        ]
-    }
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "J7X85M226J.com.brianlundin.Training-Planner",
+			"paths": ["planner/*"]
+		}]
+	}
 }
