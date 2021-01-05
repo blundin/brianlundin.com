@@ -7,7 +7,7 @@
                 "paths": [ "/apps/shelver/redirectURI"]
             },
             {
-                "appID": "J7X85M226J.com.brianlundin.training-planner",
+                "appID": "J7X85M226J.com.brianlundin.Training-Planner",
                 "paths": ["/planner/return"]
             }
         ]
