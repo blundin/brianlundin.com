@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "J7X85M226J.com.brianlundin.Training-Planner",
-                "paths": ["*"]
+                "paths": ["planner/*"]
             }
         ]
     }
