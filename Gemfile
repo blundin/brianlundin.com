@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'jekyll', '~> 4.1.1'
 gem 'html-proofer', '~> 3.15.2'
 gem 'nokogiri', '~> 1.10.9'
-gem 'kramdown', '~> 2.3.0'
+gem 'kramdown', '~> 2.3.1'
 
 group :jekyll_plugins do
   gem 'jekyll-feed', '~> 0.13.0'
