@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.1.1'
 gem 'html-proofer', '~> 3.15.2'
-gem 'nokogiri', '~> 1.10.9'
+gem 'nokogiri', '~> 1.14.3'
 gem 'kramdown', '~> 2.3.1'
 
 group :jekyll_plugins do
